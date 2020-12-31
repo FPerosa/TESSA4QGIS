@@ -7,9 +7,19 @@ This program represents the excecution of the steps for estimating ecosystem ser
 The tool consists of three packages, divided according to the division of the methodologies implemented in the TESSA Toolkit [2]. 
 The sections can be run independently and to each of them correspond different files of functions (included in the library).
 
+The sections are named as follows:
+- A_Climate_CarbonStorage_TESSA_v*version number*_*study area name*.py
+- B_Climate_GHGsequestration_TESSA_v*version number*_*study area name*.py
+- C_CultivatedGoods_TESSA_v*version number*_*study area name*.py
+
+The study areas are the following:
+- Begecka Jama (Serbia)
+- Krka (Slovenia)
+- Morava (Czech Republic and Slovakia)
+
 This tool is implemented in python and can be run from QGIS3.
 
-
+All input data for the Begecka Jama study area are included in this project.
 
 ## References
 
