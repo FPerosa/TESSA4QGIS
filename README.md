@@ -21,6 +21,9 @@ This tool is implemented in python and can be run from QGIS3.
 
 All input data for the Begecka Jama study area are included in this project.
 
+After downloading the zip file, unzip it, and save the new files in a folder named "DanubeFloodplain_ES_Assessment_Tool". Then, create a QGIS3 project and save it in the same path, where the "DanubeFloodplain_ES_Assessment_Tool" folder is located. The program will find the path to run the codes. 
+
+
 ## References
 
 1. Danube Transnational Programme. Interreg Danube Floodplain: Reducing the flood risk through floodplain restoration along the Danube River and tributaries. http://www.interreg-danube.eu/approved-projects/danube-floodplain/outputs?page=1 (accessed on 2020).
