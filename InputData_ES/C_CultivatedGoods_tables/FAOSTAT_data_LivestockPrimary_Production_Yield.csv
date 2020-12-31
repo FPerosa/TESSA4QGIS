@@ -1,0 +1,1166 @@
+Domain Code;Domain;Area Code;Area;Element Code;Element;Item Code;Item;Year Code;Year;Unit;Value;Unit;Yield_grams_animal;Flag;Flag Description
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;14173;g/An;1417,3;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;14202;g/An;1420,2;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;14274;g/An;1427,4;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;14340;g/An;1434;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;13952;g/An;1395,2;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;25625;g/An;2562,5;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;19796;g/An;1979,6;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;24490;g/An;2449;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;25455;g/An;2545,5;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;23077;g/An;2307,7;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;40833;g/An;4083,3;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;36226;g/An;3622,6;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;43396;g/An;4339,6;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;42149;g/An;4214,9;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;39850;g/An;3985;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;17000;g/An;1700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;17040;g/An;1704;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;28187;g/An;2818,7;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;26691;g/An;2669,1;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;28763;g/An;2876,3;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;100414;g/An;10041,4;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;101626;g/An;10162,6;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;108947;g/An;10894,7;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;105236;g/An;10523,6;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;116000;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;15391;g/An;1539,1;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;15526;g/An;1552,6;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;15283;g/An;1528,3;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;15326;g/An;1532,6;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;15380;g/An;1538;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1089;Meat, bird nes;2014;2014;0.1g/An;19946;g/An;1994,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1089;Meat, bird nes;2015;2015;0.1g/An;19877;g/An;1987,7;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1089;Meat, bird nes;2016;2016;0.1g/An;20324;g/An;2032,4;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1089;Meat, bird nes;2017;2017;0.1g/An;20647;g/An;2064,7;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1089;Meat, bird nes;2018;2018;0.1g/An;20970;g/An;2097;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;16916;g/An;1691,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;16855;g/An;1685,5;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;17096;g/An;1709,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;17380;g/An;1738;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;17056;g/An;1705,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;37579;g/An;3757,9;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;38236;g/An;3823,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;39000;g/An;3900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;35126;g/An;3512,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;36042;g/An;3604,2;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;49048;g/An;4904,8;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;28750;g/An;2875;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;36250;g/An;3625;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;42857;g/An;4285,7;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;46957;g/An;4695,7;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;17006;g/An;1700,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;16984;g/An;1698,4;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;16974;g/An;1697,4;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;16921;g/An;1692,1;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;16869;g/An;1686,9;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;59375;g/An;5937,5;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;49273;g/An;4927,3;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;40435;g/An;4043,5;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;53400;g/An;5340;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;51143;g/An;5114,3;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;12391;g/An;1239,1;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;12203;g/An;1220,3;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;11027;g/An;1102,7;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;11311;g/An;1131,1;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;10150;g/An;1015;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;16610;g/An;1661;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;16570;g/An;1657;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;16553;g/An;1655,3;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;16605;g/An;1660,5;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;16657;g/An;1665,7;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;55927;g/An;5592,7;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;50172;g/An;5017,2;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;50990;g/An;5099;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;51254;g/An;5125,4;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;51519;g/An;5151,9;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;103267;g/An;10326,7;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;104587;g/An;10458,7;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;104927;g/An;10492,7;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;104046;g/An;10404,6;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;105097;g/An;10509,7;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;14021;g/An;1402,1;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;13103;g/An;1310,3;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;13259;g/An;1325,9;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;13142;g/An;1314,2;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;13191;g/An;1319,1;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;17631;g/An;1763,1;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;18982;g/An;1898,2;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;19642;g/An;1964,2;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;20024;g/An;2002,4;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;20237;g/An;2023,7;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;37516;g/An;3751,6;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;44078;g/An;4407,8;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;47423;g/An;4742,3;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;51513;g/An;5151,3;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;49127;g/An;4912,7;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;19390;g/An;1939;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;17941;g/An;1794,1;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;17817;g/An;1781,7;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;17773;g/An;1777,3;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;17728;g/An;1772,8;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;95526;g/An;9552,6;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;98031;g/An;9803,1;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;99301;g/An;9930,1;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;118095;g/An;11809,5;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;99770;g/An;9977;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;15396;g/An;1539,6;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;15588;g/An;1558,8;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;15787;g/An;1578,7;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;15999;g/An;1599,9;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;16189;g/An;1618,9;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;24319;g/An;2431,9;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;24190;g/An;2419;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;22163;g/An;2216,3;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;22113;g/An;2211,3;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;21830;g/An;2183;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;81667;g/An;8166,7;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;81531;g/An;8153,1;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;49661;g/An;4966,1;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;48586;g/An;4858,6;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;49322;g/An;4932,2;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;15896;g/An;1589,6;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;15856;g/An;1585,6;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;15793;g/An;1579,3;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;15751;g/An;1575,1;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;15710;g/An;1571;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;126544;g/An;12654,4;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;127283;g/An;12728,3;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;129332;g/An;12933,2;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;132524;g/An;13252,4;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;132485;g/An;13248,5;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;18821;g/An;1882,1;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;19184;g/An;1918,4;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;19100;g/An;1910;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;19604;g/An;1960,4;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;19129;g/An;1912,9;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;27088;g/An;2708,8;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;26779;g/An;2677,9;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;27287;g/An;2728,7;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;27578;g/An;2757,8;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;27433;g/An;2743,3;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;45761;g/An;4576,1;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;46172;g/An;4617,2;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;45893;g/An;4589,3;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;44598;g/An;4459,8;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;45283;g/An;4528,3;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;15234;g/An;1523,4;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;14161;g/An;1416,1;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;14065;g/An;1406,5;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;14125;g/An;1412,5;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;14180;g/An;1418;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;109600;g/An;10960;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;107755;g/An;10775,5;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;110547;g/An;11054,7;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;112950;g/An;11295;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;105201;g/An;10520,1;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;17815;g/An;1781,5;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;17912;g/An;1791,2;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;18243;g/An;1824,3;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;18473;g/An;1847,3;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;18710;g/An;1871;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;22830;g/An;2283;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;23743;g/An;2374,3;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;23852;g/An;2385,2;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;24030;g/An;2403;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;24209;g/An;2420,9;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;45429;g/An;4542,9;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;44066;g/An;4406,6;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;44215;g/An;4421,5;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;44171;g/An;4417,1;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;44127;g/An;4412,7;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;24149;g/An;2414,9;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;22621;g/An;2262,1;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;19458;g/An;1945,8;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;16496;g/An;1649,6;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;25210;g/An;2521;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;48366;g/An;4836,6;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;47869;g/An;4786,9;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;47779;g/An;4777,9;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;47629;g/An;4762,9;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;47480;g/An;4748;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;15052;g/An;1505,2;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;14477;g/An;1447,7;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;15073;g/An;1507,3;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;13032;g/An;1303,2;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;12749;g/An;1274,9;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;23642;g/An;2364,2;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;30000;g/An;3000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;27799;g/An;2779,9;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;24131;g/An;2413,1;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;21310;g/An;2131;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;48074;g/An;4807,4;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;50257;g/An;5025,7;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;52685;g/An;5268,5;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;52302;g/An;5230,2;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;52060;g/An;5206;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;16089;g/An;1608,9;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;16118;g/An;1611,8;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;16349;g/An;1634,9;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;16705;g/An;1670,5;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;17070;g/An;1707;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;12883;g/An;1288,3;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;12308;g/An;1230,8;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;12273;g/An;1227,3;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;12247;g/An;1224,7;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;12235;g/An;1223,5;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;23211;g/An;2321,1;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;19396;g/An;1939,6;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;18965;g/An;1896,5;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;16792;g/An;1679,2;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;17430;g/An;1743;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;15379;g/An;1537,9;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;15390;g/An;1539;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;15370;g/An;1537;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;15433;g/An;1543,3;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;15602;g/An;1560,2;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;30537;g/An;3053,7;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;30556;g/An;3055,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;30556;g/An;3055,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;30000;g/An;3000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;24867;g/An;2486,7;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2014;2014;0.1g/An;43636;g/An;4363,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2015;2015;0.1g/An;45556;g/An;4555,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2016;2016;0.1g/An;45556;g/An;4555,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2017;2017;0.1g/An;45556;g/An;4555,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1073;Meat, goose and guinea fowl;2018;2018;0.1g/An;45556;g/An;4555,6;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;16000;g/An;1600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;16000;g/An;1600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;15994;g/An;1599,4;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;15989;g/An;1598,9;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;15988;g/An;1598,8;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;98235;g/An;9823,5;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;98500;g/An;9850;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;93953;g/An;9395,3;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;106582;g/An;10658,2;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;104742;g/An;10474,2;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;16672;g/An;1667,2;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;16416;g/An;1641,6;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;16560;g/An;1656;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;16636;g/An;1663,6;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;16939;g/An;1693,9;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1080;Meat, turkey;2014;2014;0.1g/An;109406;g/An;10940,6;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1080;Meat, turkey;2015;2015;0.1g/An;108246;g/An;10824,6;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1080;Meat, turkey;2016;2016;0.1g/An;112150;g/An;11215;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1080;Meat, turkey;2017;2017;0.1g/An;112339;g/An;11233,9;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5424;Yield/Carcass Weight;1080;Meat, turkey;2018;2018;0.1g/An;112565;g/An;11256,5;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1058;Meat, chicken;2014;2014;0.1g/An;17765;g/An;1776,5;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1058;Meat, chicken;2015;2015;0.1g/An;17554;g/An;1755,4;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1058;Meat, chicken;2016;2016;0.1g/An;18853;g/An;1885,3;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1058;Meat, chicken;2017;2017;0.1g/An;18793;g/An;1879,3;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1058;Meat, chicken;2018;2018;0.1g/An;19111;g/An;1911,1;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1069;Meat, duck;2014;2014;0.1g/An;24000;g/An;2400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1069;Meat, duck;2015;2015;0.1g/An;24000;g/An;2400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1069;Meat, duck;2016;2016;0.1g/An;24000;g/An;2400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1069;Meat, duck;2017;2017;0.1g/An;24000;g/An;2400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1069;Meat, duck;2018;2018;0.1g/An;24000;g/An;2400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1141;Meat, rabbit;2014;2014;0.1g/An;17876;g/An;1787,6;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1141;Meat, rabbit;2015;2015;0.1g/An;18159;g/An;1815,9;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1141;Meat, rabbit;2016;2016;0.1g/An;19744;g/An;1974,4;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1141;Meat, rabbit;2017;2017;0.1g/An;18277;g/An;1827,7;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5424;Yield/Carcass Weight;1141;Meat, rabbit;2018;2018;0.1g/An;18723;g/An;1872,3;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;169137;g/An;16913,7;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;169119;g/An;16911,9;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;169741;g/An;16974,1;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;169744;g/An;16974,4;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;171117;g/An;17111,7;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;55377;g/An;5537,7;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;54383;g/An;5438,3;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;60795;g/An;6079,5;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;58786;g/An;5878,6;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;58667;g/An;5866,7;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;138493;g/An;13849,3;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;135783;g/An;13578,3;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;135301;g/An;13530,1;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;130922;g/An;13092,2;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;141096;g/An;14109,6;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1091;Eggs, other bird, in shell;2014;2014;100mg/An;29550;g/An;2955;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1091;Eggs, other bird, in shell;2015;2015;100mg/An;34255;g/An;3425,5;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1091;Eggs, other bird, in shell;2016;2016;100mg/An;48970;g/An;4897;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1091;Eggs, other bird, in shell;2017;2017;100mg/An;84581;g/An;8458,1;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5410;Yield;1091;Eggs, other bird, in shell;2018;2018;100mg/An;30241;g/An;3024,1;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;92432;g/An;9243,2;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;111000;g/An;11100;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;113812;g/An;11381,2;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;112644;g/An;11264,4;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;113253;g/An;11325,3;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;172049;g/An;17204,9;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;173016;g/An;17301,6;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;173905;g/An;17390,5;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;177563;g/An;17756,3;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;178002;g/An;17800,2;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;177941;g/An;17794,1;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;199452;g/An;19945,2;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;202560;g/An;20256;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;203653;g/An;20365,3;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;204526;g/An;20452,6;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;104070;g/An;10407;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;118802;g/An;11880,2;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;113326;g/An;11332,6;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;118530;g/An;11853;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;124230;g/An;12423;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;136512;g/An;13651,2;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;127627;g/An;12762,7;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;125197;g/An;12519,7;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;118533;g/An;11853,3;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;121799;g/An;12179,9;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;115705;g/An;11570,5;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;108011;g/An;10801,1;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;111020;g/An;11102;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;111442;g/An;11144,2;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;111407;g/An;11140,7;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;71649;g/An;7164,9;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;79407;g/An;7940,7;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;77668;g/An;7766,8;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;81089;g/An;8108,9;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;81141;g/An;8114,1;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;82330;g/An;8233;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;100812;g/An;10081,2;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;101441;g/An;10144,1;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;99337;g/An;9933,7;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;101004;g/An;10100,4;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;122803;g/An;12280,3;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;118381;g/An;11838,1;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;119547;g/An;11954,7;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;121690;g/An;12169;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;125295;g/An;12529,5;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;157990;g/An;15799;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;140048;g/An;14004,8;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;161015;g/An;16101,5;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;135140;g/An;13514;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;135040;g/An;13504;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5410;Yield;1062;Eggs, hen, in shell;2014;2014;100mg/An;106803;g/An;10680,3;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5410;Yield;1062;Eggs, hen, in shell;2015;2015;100mg/An;99307;g/An;9930,7;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5410;Yield;1062;Eggs, hen, in shell;2016;2016;100mg/An;94061;g/An;9406,1;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5410;Yield;1062;Eggs, hen, in shell;2017;2017;100mg/An;97204;g/An;9720,4;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5410;Yield;1062;Eggs, hen, in shell;2018;2018;100mg/An;99279;g/An;9927,9;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5422;Yield;1182;Honey, natural;2014;2014;hg;104;g/An;10400;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5422;Yield;1182;Honey, natural;2015;2015;hg;153;g/An;15300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5422;Yield;1182;Honey, natural;2016;2016;hg;138;g/An;13800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5422;Yield;1182;Honey, natural;2017;2017;hg;164;g/An;16400;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5422;Yield;1182;Honey, natural;2018;2018;hg;107;g/An;10700;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5422;Yield;1182;Honey, natural;2014;2014;hg;68;g/An;6800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5422;Yield;1182;Honey, natural;2015;2015;hg;125;g/An;12500;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5422;Yield;1182;Honey, natural;2016;2016;hg;77;g/An;7700;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5422;Yield;1182;Honey, natural;2017;2017;hg;65;g/An;6500;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5422;Yield;1182;Honey, natural;2018;2018;hg;99;g/An;9900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1183;Beeswax;2014;2014;hg;5;g/An;500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1183;Beeswax;2015;2015;hg;5;g/An;500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1183;Beeswax;2016;2016;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1183;Beeswax;2017;2017;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1183;Beeswax;2018;2018;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1182;Honey, natural;2014;2014;hg;161;g/An;16100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1182;Honey, natural;2015;2015;hg;194;g/An;19400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1182;Honey, natural;2016;2016;hg;137;g/An;13700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1182;Honey, natural;2017;2017;hg;157;g/An;15700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5422;Yield;1182;Honey, natural;2018;2018;hg;135;g/An;13500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5422;Yield;1182;Honey, natural;2014;2014;hg;112;g/An;11200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5422;Yield;1182;Honey, natural;2015;2015;hg;203;g/An;20300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5422;Yield;1182;Honey, natural;2016;2016;hg;175;g/An;17500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5422;Yield;1182;Honey, natural;2017;2017;hg;200;g/An;20000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5422;Yield;1182;Honey, natural;2018;2018;hg;178;g/An;17800;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1183;Beeswax;2014;2014;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1183;Beeswax;2015;2015;hg;5;g/An;500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1183;Beeswax;2016;2016;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1183;Beeswax;2017;2017;hg;5;g/An;500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1183;Beeswax;2018;2018;hg;5;g/An;500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1182;Honey, natural;2014;2014;hg;122;g/An;12200;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1182;Honey, natural;2015;2015;hg;160;g/An;16000;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1182;Honey, natural;2016;2016;hg;153;g/An;15300;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1182;Honey, natural;2017;2017;hg;147;g/An;14700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5422;Yield;1182;Honey, natural;2018;2018;hg;142;g/An;14200;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5422;Yield;1182;Honey, natural;2014;2014;hg;272;g/An;27200;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5422;Yield;1182;Honey, natural;2015;2015;hg;303;g/An;30300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5422;Yield;1182;Honey, natural;2016;2016;hg;289;g/An;28900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5422;Yield;1182;Honey, natural;2017;2017;hg;309;g/An;30900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5422;Yield;1182;Honey, natural;2018;2018;hg;300;g/An;30000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5422;Yield;1182;Honey, natural;2014;2014;hg;328;g/An;32800;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5422;Yield;1182;Honey, natural;2015;2015;hg;397;g/An;39700;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5422;Yield;1182;Honey, natural;2016;2016;hg;311;g/An;31100;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5422;Yield;1182;Honey, natural;2017;2017;hg;392;g/An;39200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5422;Yield;1182;Honey, natural;2018;2018;hg;331;g/An;33100;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5422;Yield;1182;Honey, natural;2014;2014;hg;84;g/An;8400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5422;Yield;1182;Honey, natural;2015;2015;hg;123;g/An;12300;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5422;Yield;1182;Honey, natural;2016;2016;hg;122;g/An;12200;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5422;Yield;1182;Honey, natural;2017;2017;hg;109;g/An;10900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5422;Yield;1182;Honey, natural;2018;2018;hg;148;g/An;14800;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5422;Yield;1182;Honey, natural;2014;2014;hg;336;g/An;33600;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5422;Yield;1182;Honey, natural;2015;2015;hg;318;g/An;31800;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5422;Yield;1182;Honey, natural;2016;2016;hg;314;g/An;31400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5422;Yield;1182;Honey, natural;2017;2017;hg;270;g/An;27000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5422;Yield;1182;Honey, natural;2018;2018;hg;228;g/An;22800;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5422;Yield;1182;Honey, natural;2014;2014;hg;133;g/An;13300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5422;Yield;1182;Honey, natural;2015;2015;hg;206;g/An;20600;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5422;Yield;1182;Honey, natural;2016;2016;hg;152;g/An;15200;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5422;Yield;1182;Honey, natural;2017;2017;hg;210;g/An;21000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5422;Yield;1182;Honey, natural;2018;2018;hg;182;g/An;18200;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5422;Yield;1182;Honey, natural;2014;2014;hg;65;g/An;6500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5422;Yield;1182;Honey, natural;2015;2015;hg;155;g/An;15500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5422;Yield;1182;Honey, natural;2016;2016;hg;73;g/An;7300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5422;Yield;1182;Honey, natural;2017;2017;hg;83;g/An;8300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5422;Yield;1182;Honey, natural;2018;2018;hg;125;g/An;12500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1183;Beeswax;2014;2014;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1183;Beeswax;2015;2015;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1183;Beeswax;2016;2016;hg;5;g/An;500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1183;Beeswax;2017;2017;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1183;Beeswax;2018;2018;hg;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1182;Honey, natural;2014;2014;hg;159;g/An;15900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1182;Honey, natural;2015;2015;hg;150;g/An;15000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1182;Honey, natural;2016;2016;hg;163;g/An;16300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1182;Honey, natural;2017;2017;hg;152;g/An;15200;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5422;Yield;1182;Honey, natural;2018;2018;hg;148;g/An;14800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5422;Yield;1182;Honey, natural;2014;2014;hg;75;g/An;7500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5422;Yield;1182;Honey, natural;2015;2015;hg;320;g/An;32000;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5422;Yield;1182;Honey, natural;2016;2016;hg;207;g/An;20700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5422;Yield;1182;Honey, natural;2017;2017;hg;138;g/An;13800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5422;Yield;1182;Honey, natural;2018;2018;hg;244;g/An;24400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5422;Yield;1182;Honey, natural;2014;2014;hg;231538;g/An;23153800;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5422;Yield;1182;Honey, natural;2015;2015;hg;235611;g/An;23561100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5422;Yield;1182;Honey, natural;2016;2016;hg;228054;g/An;22805400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5422;Yield;1182;Honey, natural;2017;2017;hg;266309;g/An;26630900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5422;Yield;1182;Honey, natural;2018;2018;hg;269792;g/An;26979200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;368;g/An;36800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;368;g/An;36800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;370;g/An;37000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;372;g/An;37200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;375;g/An;37500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;3302;g/An;330200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;3303;g/An;330300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;3326;g/An;332600;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;3345;g/An;334500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;3367;g/An;336700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1163;Meat, game;2014;2014;hg/An;102;g/An;10200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1163;Meat, game;2015;2015;hg/An;103;g/An;10300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1163;Meat, game;2016;2016;hg/An;104;g/An;10400;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1163;Meat, game;2017;2017;hg/An;107;g/An;10700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1163;Meat, game;2018;2018;hg/An;108;g/An;10800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;123;g/An;12300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;129;g/An;12900;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;125;g/An;12500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;125;g/An;12500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;124;g/An;12400;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2089;g/An;208900;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2056;g/An;205600;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;1927;g/An;192700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2015;g/An;201500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2168;g/An;216800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;975;g/An;97500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;977;g/An;97700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;985;g/An;98500;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;987;g/An;98700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;989;g/An;98900;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;252;g/An;25200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;233;g/An;23300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;233;g/An;23300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;246;g/An;24600;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;226;g/An;22600;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;65423;g/An;6542300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;65789;g/An;6578900;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;67590;g/An;6759000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;68650;g/An;6865000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;71037;g/An;7103700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;6347;g/An;634700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;6532;g/An;653200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;6573;g/An;657300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;6597;g/An;659700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;6761;g/An;676100;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;4348;g/An;434800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;4387;g/An;438700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;4363;g/An;436300;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;4381;g/An;438100;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;4468;g/An;446800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;39;g/An;3900;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;38;g/An;3800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;54;g/An;5400;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;50;g/An;5000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;50;g/An;5000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;52;g/An;5200;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;48;g/An;4800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;265;g/An;26500;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;432;g/An;43200;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;394;g/An;39400;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;411;g/An;41100;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;376;g/An;37600;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;1447;g/An;144700;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2356;g/An;235600;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2148;g/An;214800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2244;g/An;224400;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;2050;g/An;205000;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;735;g/An;73500;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;698;g/An;69800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;710;g/An;71000;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;715;g/An;71500;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;719;g/An;71900;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;151;g/An;15100;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;153;g/An;15300;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;148;g/An;14800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;155;g/An;15500;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;153;g/An;15300;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;27842;g/An;2784200;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;28098;g/An;2809800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;28767;g/An;2876700;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;29253;g/An;2925300;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;29809;g/An;2980900;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;599;g/An;59900;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;584;g/An;58400;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;608;g/An;60800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;601;g/An;60100;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;571;g/An;57100;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;28;g/An;2800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;29;g/An;2900;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;28;g/An;2800;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;29;g/An;2900;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;29;g/An;2900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;957;Hides, buffalo, fresh;2014;2014;hg/An;270;g/An;27000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;957;Hides, buffalo, fresh;2015;2015;hg/An;195;g/An;19500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;957;Hides, buffalo, fresh;2016;2016;hg/An;193;g/An;19300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;957;Hides, buffalo, fresh;2017;2017;hg/An;191;g/An;19100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;957;Hides, buffalo, fresh;2018;2018;hg/An;283;g/An;28300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;218;g/An;21800;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;217;g/An;21700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;149;g/An;14900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;234;g/An;23400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;229;g/An;22900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;947;Meat, buffalo;2014;2014;hg/An;1943;g/An;194300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;947;Meat, buffalo;2015;2015;hg/An;1401;g/An;140100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;947;Meat, buffalo;2016;2016;hg/An;1386;g/An;138600;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;947;Meat, buffalo;2017;2017;hg/An;1373;g/An;137300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;947;Meat, buffalo;2018;2018;hg/An;2033;g/An;203300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;1354;g/An;135400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;1351;g/An;135100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;926;g/An;92600;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;1457;g/An;145700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;1421;g/An;142100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;105;g/An;10500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;102;g/An;10200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;112;g/An;11200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;103;g/An;10300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;100;g/An;10000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2049;g/An;204900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2119;g/An;211900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2085;g/An;208500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2108;g/An;210800;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2131;g/An;213100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;682;g/An;68200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;664;g/An;66400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;669;g/An;66900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;676;g/An;67600;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;677;g/An;67700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;99;g/An;9900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;101;g/An;10100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;112;g/An;11200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;104;g/An;10400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;104;g/An;10400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;951;Milk, whole fresh buffalo;2014;2014;hg/An;14409;g/An;1440900;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;951;Milk, whole fresh buffalo;2015;2015;hg/An;14942;g/An;1494200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;951;Milk, whole fresh buffalo;2016;2016;hg/An;13946;g/An;1394600;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;951;Milk, whole fresh buffalo;2017;2017;hg/An;13671;g/An;1367100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;951;Milk, whole fresh buffalo;2018;2018;hg/An;13478;g/An;1347800;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;35908;g/An;3590800;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;34805;g/An;3480500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;36883;g/An;3688300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;35683;g/An;3568300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;35658;g/An;3565800;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;1820;g/An;182000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;1791;g/An;179100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;1862;g/An;186200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;2183;g/An;218300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;1953;g/An;195300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;705;g/An;70500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;722;g/An;72200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;778;g/An;77800;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;676;g/An;67600;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;721;g/An;72100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;35;g/An;3500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;34;g/An;3400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;34;g/An;3400;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;33;g/An;3300;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;41;g/An;4100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;45;g/An;4500;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;42;g/An;4200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;42;g/An;4200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;430;g/An;43000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;433;g/An;43300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;443;g/An;44300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;440;g/An;44000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;452;g/An;45200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2276;g/An;227600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2295;g/An;229500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2348;g/An;234800;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2333;g/An;233300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;2398;g/An;239800;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;142;g/An;14200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;145;g/An;14500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;117;g/An;11700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;120;g/An;12000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2000;g/An;200000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2000;g/An;200000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2000;g/An;200000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2000;g/An;200000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2000;g/An;200000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;702;g/An;70200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;671;g/An;67100;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;672;g/An;67200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;712;g/An;71200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;724;g/An;72400;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;134;g/An;13400;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;40329;g/An;4032900;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;44771;g/An;4477100;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;45837;g/An;4583700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;44686;g/An;4468600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;28957;g/An;2895700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;3515;g/An;351500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;3119;g/An;311900;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;4130;g/An;413000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;3885;g/An;388500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;3060;g/An;306000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;735;g/An;73500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;1050;g/An;105000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;658;g/An;65800;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;733;g/An;73300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;643;g/An;64300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;31;g/An;3100;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;32;g/An;3200;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;26;g/An;2600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;25;g/An;2500;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;26;g/An;2600;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;43;g/An;4300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;427;g/An;42700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;429;g/An;42900;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;432;g/An;43200;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;426;g/An;42600;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;439;g/An;43900;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2939;g/An;293900;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2953;g/An;295300;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2975;g/An;297500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2934;g/An;293400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;3024;g/An;302400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;87;g/An;8700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;87;g/An;8700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;86;g/An;8600;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;86;g/An;8600;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;87;g/An;8700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2550;g/An;255000;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2517;g/An;251700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2700;g/An;270000;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2651;g/An;265100;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2647;g/An;264700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;890;g/An;89000;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;906;g/An;90600;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;906;g/An;90600;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;901;g/An;90100;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;911;g/An;91100;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;225;g/An;22500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;227;g/An;22700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;228;g/An;22800;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;229;g/An;22900;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;228;g/An;22800;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;79128;g/An;7912800;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;82173;g/An;8217300;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;82790;g/An;8279000;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;84445;g/An;8444500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;87559;g/An;8755900;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;6078;g/An;607800;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;6002;g/An;600200;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;6464;g/An;646400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;6463;g/An;646300;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;6403;g/An;640300;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;322;g/An;32200;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;320;g/An;32000;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;325;g/An;32500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;325;g/An;32500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;324;g/An;32400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;4;g/An;400;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;7;g/An;700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;7;g/An;700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;7;g/An;700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;7;g/An;700;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;7;g/An;700;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;377;g/An;37700;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;376;g/An;37600;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;377;g/An;37700;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;381;g/An;38100;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;383;g/An;38300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;3168;g/An;316800;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;3161;g/An;316100;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;3174;g/An;317400;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;3203;g/An;320300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;3226;g/An;322600;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;180;g/An;18000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;187;g/An;18700;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;180;g/An;18000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;180;g/An;18000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;180;g/An;18000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2640;g/An;264000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2499;g/An;249900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2640;g/An;264000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2641;g/An;264100;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2639;g/An;263900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;938;g/An;93800;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;937;g/An;93700;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;940;g/An;94000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;943;g/An;94300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;944;g/An;94400;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;200;g/An;20000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;303;g/An;30300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;289;g/An;28900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;291;g/An;29100;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;284;g/An;28400;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;75413;g/An;7541300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;76283;g/An;7628300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;77465;g/An;7746500;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;77633;g/An;7763300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;80629;g/An;8062900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;7241;g/An;724100;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;7258;g/An;725800;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;7195;g/An;719500;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;7194;g/An;719400;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;7183;g/An;718300;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;42;g/An;4200;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;46;g/An;4600;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;69;g/An;6900;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;66;g/An;6600;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;67;g/An;6700;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;65;g/An;6500;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;280;g/An;28000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;284;g/An;28400;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;288;g/An;28800;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;286;g/An;28600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;289;g/An;28900;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2494;g/An;249400;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2532;g/An;253200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2562;g/An;256200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2546;g/An;254600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;2570;g/An;257000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;118;g/An;11800;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;113;g/An;11300;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;123;g/An;12300;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;107;g/An;10700;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;3082;g/An;308200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2607;g/An;260700;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2608;g/An;260800;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2656;g/An;265600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2771;g/An;277100;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;927;g/An;92700;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;940;g/An;94000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;933;g/An;93300;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;930;g/An;93000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;941;g/An;94100;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;182;g/An;18200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;175;g/An;17500;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;168;g/An;16800;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;176;g/An;17600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;174;g/An;17400;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;75176;g/An;7517600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;76130;g/An;7613000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;76729;g/An;7672900;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;80635;g/An;8063500;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;81040;g/An;8104000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;2526;g/An;252600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;2754;g/An;275400;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;3007;g/An;300700;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;2455;g/An;245500;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;2281;g/An;228100;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;735;g/An;73500;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;1026;g/An;102600;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;1273;g/An;127300;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;953;g/An;95300;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;1234;g/An;123400;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;22;g/An;2200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;23;g/An;2300;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;22;g/An;2200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;24;g/An;2400;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;21;g/An;2100;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;42;g/An;4200;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;39;g/An;3900;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;300;g/An;30000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;318;g/An;31800;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;320;g/An;32000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;330;g/An;33000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;341;g/An;34100;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2694;g/An;269400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2852;g/An;285200;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2870;g/An;287000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2959;g/An;295900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;3059;g/An;305900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;3338;g/An;333800;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;3301;g/An;330100;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;3277;g/An;327700;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;3345;g/An;334500;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;3190;g/An;319000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;861;g/An;86100;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;909;g/An;90900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;909;g/An;90900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;923;g/An;92300;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;938;g/An;93800;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;234;g/An;23400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;176;g/An;17600;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;199;g/An;19900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;342;g/An;34200;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;164;g/An;16400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;56208;g/An;5620800;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;58073;g/An;5807300;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;61721;g/An;6172100;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;63567;g/An;6356700;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;63464;g/An;6346400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;2627;g/An;262700;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;2609;g/An;260900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;2347;g/An;234700;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;2500;g/An;250000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;2530;g/An;253000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;120;g/An;12000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;108;g/An;10800;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;113;g/An;11300;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;136;g/An;13600;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;144;g/An;14400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;0;g/An;0;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;0;g/An;0;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;0;g/An;0;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;0;g/An;0;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;0;g/An;0;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;57;g/An;5700;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;43;g/An;4300;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;49;g/An;4900;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;84;g/An;8400;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;126;g/An;12600;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;125;g/An;12500;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;143;g/An;14300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;119;g/An;11900;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;136;g/An;13600;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;1194;g/An;119400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;1187;g/An;118700;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;1362;g/An;136200;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;1127;g/An;112700;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;1292;g/An;129200;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;1135;g/An;113500;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2250;g/An;225000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;1487;g/An;148700;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;1921;g/An;192100;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2160;g/An;216000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;823;g/An;82300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;836;g/An;83600;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;873;g/An;87300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;783;g/An;78300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;890;g/An;89000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;142;g/An;14200;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;180;g/An;18000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;185;g/An;18500;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;174;g/An;17400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;145;g/An;14500;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;36719;g/An;3671900;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;36659;g/An;3665900;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;36125;g/An;3612500;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;39262;g/An;3926200;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;38389;g/An;3838900;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;1661;g/An;166100;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;1786;g/An;178600;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;1834;g/An;183400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;1849;g/An;184900;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;1823;g/An;182300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;385;g/An;38500;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;367;g/An;36700;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;393;g/An;39300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;384;g/An;38400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;382;g/An;38200;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;64;g/An;6400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;82;g/An;8200;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;84;g/An;8400;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;79;g/An;7900;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;66;g/An;6600;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;329;g/An;32900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;335;g/An;33500;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;332;g/An;33200;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;334;g/An;33400;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;341;g/An;34100;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;1610;g/An;161000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;1639;g/An;163900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;1625;g/An;162500;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;1637;g/An;163700;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;1669;g/An;166900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;101;g/An;10100;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;103;g/An;10300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;100;g/An;10000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;113;g/An;11300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;106;g/An;10600;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;1800;g/An;180000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;1800;g/An;180000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;1800;g/An;180000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;1800;g/An;180000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;1800;g/An;180000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;811;g/An;81100;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;816;g/An;81600;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;837;g/An;83700;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;844;g/An;84400;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;862;g/An;86200;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;103;g/An;10300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;109;g/An;10900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;100;g/An;10000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;113;g/An;11300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;107;g/An;10700;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;35332;g/An;3533200;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;33715;g/An;3371500;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;33209;g/An;3320900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;31983;g/An;3198300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;32451;g/An;3245100;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;1005;g/An;100500;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;963;g/An;96300;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;834;g/An;83400;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;826;g/An;82600;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;819;g/An;81900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;27;g/An;2700;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;28;g/An;2800;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;27;g/An;2700;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;30;g/An;3000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;29;g/An;2900;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;36;g/An;3600;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;38;g/An;3800;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;35;g/An;3500;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;37;g/An;3700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;322;g/An;32200;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;307;g/An;30700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;307;g/An;30700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;306;g/An;30600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;306;g/An;30600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2296;g/An;229600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2188;g/An;218800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2191;g/An;219100;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2185;g/An;218500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;2186;g/An;218600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;157;g/An;15700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;146;g/An;14600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;138;g/An;13800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;119;g/An;11900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;168;g/An;16800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;566;g/An;56600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;509;g/An;50900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;518;g/An;51800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;547;g/An;54700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;545;g/An;54500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;193;g/An;19300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;193;g/An;19300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;199;g/An;19900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;185;g/An;18500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;201;g/An;20100;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;33667;g/An;3366700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;35812;g/An;3581200;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;36335;g/An;3633500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;36097;g/An;3609700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;36179;g/An;3617900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;3113;g/An;311300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;3629;g/An;362900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;3379;g/An;337900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;3288;g/An;328800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;3025;g/An;302500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;1021;g/An;102100;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;1183;g/An;118300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;1035;g/An;103500;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;1109;g/An;110900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;1180;g/An;118000;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;30;g/An;3000;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;28;g/An;2800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;27;g/An;2700;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;23;g/An;2300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;33;g/An;3300;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;38;g/An;3800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;38;g/An;3800;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;39;g/An;3900;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;36;g/An;3600;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;40;g/An;4000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;327;g/An;32700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;324;g/An;32400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;331;g/An;33100;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;336;g/An;33600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;341;g/An;34100;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2487;g/An;248700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2462;g/An;246200;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;2520;g/An;252000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2553;g/An;255300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;2596;g/An;259600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;86;g/An;8600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;86;g/An;8600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;86;g/An;8600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;119;g/An;11900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;120;g/An;12000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2973;g/An;297300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2981;g/An;298100;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2999;g/An;299900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2997;g/An;299700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2995;g/An;299500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;929;g/An;92900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;931;g/An;93100;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;929;g/An;92900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;913;g/An;91300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;925;g/An;92500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;85;g/An;8500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;87;g/An;8700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;79;g/An;7900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;97;g/An;9700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;116;g/An;11600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;64462;g/An;6446200;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;66305;g/An;6630500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;68766;g/An;6876600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;70379;g/An;7037900;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;72230;g/An;7223000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;2501;g/An;250100;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;2503;g/An;250300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;3183;g/An;318300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;3187;g/An;318700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;3176;g/An;317600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;498;g/An;49800;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;583;g/An;58300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;552;g/An;55200;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;605;g/An;60500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;597;g/An;59700;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;54;g/An;5400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;54;g/An;5400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;53;g/An;5300;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;74;g/An;7400;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;75;g/An;7500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;16;g/An;1600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;16;g/An;1600;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;15;g/An;1500;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;18;g/An;1800;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;22;g/An;2200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;367;g/An;36700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;377;g/An;37700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;384;g/An;38400;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;375;g/An;37500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;379;g/An;37900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;2912;g/An;291200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;2997;g/An;299700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;3049;g/An;304900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;2980;g/An;298000;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;3012;g/An;301200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;140;g/An;14000;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;143;g/An;14300;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;137;g/An;13700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;142;g/An;14200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;143;g/An;14300;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;2228;g/An;222800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;2279;g/An;227900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;2251;g/An;225100;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;2206;g/An;220600;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;2236;g/An;223600;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;920;g/An;92000;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;914;g/An;91400;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;939;g/An;93900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;965;g/An;96500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;962;g/An;96200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;139;g/An;13900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;138;g/An;13800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;139;g/An;13900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;140;g/An;14000;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;143;g/An;14300;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;56272;g/An;5627200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;58473;g/An;5847300;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;57576;g/An;5757600;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;60145;g/An;6014500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;57630;g/An;5763000;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;4521;g/An;452100;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;4219;g/An;421900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;2852;g/An;285200;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;4354;g/An;435400;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;4638;g/An;463800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;1905;g/An;190500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;1335;g/An;133500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;1503;g/An;150300;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;1859;g/An;185900;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;1996;g/An;199600;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;27;g/An;2700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;28;g/An;2800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;27;g/An;2700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;27;g/An;2700;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;28;g/An;2800;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;15;g/An;1500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;15;g/An;1500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;15;g/An;1500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;15;g/An;1500;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;15;g/An;1500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;919;Hides, cattle, fresh;2014;2014;hg/An;211;g/An;21100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;919;Hides, cattle, fresh;2015;2015;hg/An;231;g/An;23100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;919;Hides, cattle, fresh;2016;2016;hg/An;231;g/An;23100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;919;Hides, cattle, fresh;2017;2017;hg/An;232;g/An;23200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;919;Hides, cattle, fresh;2018;2018;hg/An;232;g/An;23200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;867;Meat, cattle;2014;2014;hg/An;1519;g/An;151900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;867;Meat, cattle;2015;2015;hg/An;1661;g/An;166100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;867;Meat, cattle;2016;2016;hg/An;1663;g/An;166300;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;867;Meat, cattle;2017;2017;hg/An;1666;g/An;166600;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;867;Meat, cattle;2018;2018;hg/An;1672;g/An;167200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1017;Meat, goat;2014;2014;hg/An;135;g/An;13500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1017;Meat, goat;2015;2015;hg/An;135;g/An;13500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1017;Meat, goat;2016;2016;hg/An;130;g/An;13000;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1017;Meat, goat;2017;2017;hg/An;156;g/An;15600;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1017;Meat, goat;2018;2018;hg/An;164;g/An;16400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1097;Meat, horse;2014;2014;hg/An;1802;g/An;180200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1097;Meat, horse;2015;2015;hg/An;1885;g/An;188500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1097;Meat, horse;2016;2016;hg/An;1856;g/An;185600;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1097;Meat, horse;2017;2017;hg/An;1931;g/An;193100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1097;Meat, horse;2018;2018;hg/An;1951;g/An;195100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1035;Meat, pig;2014;2014;hg/An;864;g/An;86400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1035;Meat, pig;2015;2015;hg/An;890;g/An;89000;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1035;Meat, pig;2016;2016;hg/An;875;g/An;87500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1035;Meat, pig;2017;2017;hg/An;869;g/An;86900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;1035;Meat, pig;2018;2018;hg/An;864;g/An;86400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;977;Meat, sheep;2014;2014;hg/An;137;g/An;13700;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;977;Meat, sheep;2015;2015;hg/An;162;g/An;16200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;977;Meat, sheep;2016;2016;hg/An;170;g/An;17000;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;977;Meat, sheep;2017;2017;hg/An;156;g/An;15600;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5417;Yield/Carcass Weight;977;Meat, sheep;2018;2018;hg/An;161;g/An;16100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1130;Milk, whole fresh camel;2014;2014;hg/An;1435;g/An;143500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1130;Milk, whole fresh camel;2015;2015;hg/An;1429;g/An;142900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1130;Milk, whole fresh camel;2016;2016;hg/An;1421;g/An;142100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1130;Milk, whole fresh camel;2017;2017;hg/An;1422;g/An;142200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1130;Milk, whole fresh camel;2018;2018;hg/An;1420;g/An;142000;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;882;Milk, whole fresh cow;2014;2014;hg/An;45089;g/An;4508900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;882;Milk, whole fresh cow;2015;2015;hg/An;46421;g/An;4642100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;882;Milk, whole fresh cow;2016;2016;hg/An;47357;g/An;4735700;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;882;Milk, whole fresh cow;2017;2017;hg/An;49201;g/An;4920100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;882;Milk, whole fresh cow;2018;2018;hg/An;50426;g/An;5042600;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1020;Milk, whole fresh goat;2014;2014;hg/An;5147;g/An;514700;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1020;Milk, whole fresh goat;2015;2015;hg/An;5174;g/An;517400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1020;Milk, whole fresh goat;2016;2016;hg/An;4998;g/An;499800;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1020;Milk, whole fresh goat;2017;2017;hg/An;4982;g/An;498200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1020;Milk, whole fresh goat;2018;2018;hg/An;5044;g/An;504400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;982;Milk, whole fresh sheep;2014;2014;hg/An;617;g/An;61700;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;982;Milk, whole fresh sheep;2015;2015;hg/An;586;g/An;58600;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;982;Milk, whole fresh sheep;2016;2016;hg/An;494;g/An;49400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;982;Milk, whole fresh sheep;2017;2017;hg/An;539;g/An;53900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;982;Milk, whole fresh sheep;2018;2018;hg/An;603;g/An;60300;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1025;Skins, goat, fresh;2014;2014;hg/An;53;g/An;5300;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1025;Skins, goat, fresh;2015;2015;hg/An;53;g/An;5300;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1025;Skins, goat, fresh;2016;2016;hg/An;51;g/An;5100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1025;Skins, goat, fresh;2017;2017;hg/An;62;g/An;6200;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;1025;Skins, goat, fresh;2018;2018;hg/An;65;g/An;6500;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;995;Skins, sheep, fresh;2014;2014;hg/An;51;g/An;5100;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;995;Skins, sheep, fresh;2015;2015;hg/An;60;g/An;6000;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;995;Skins, sheep, fresh;2016;2016;hg/An;63;g/An;6300;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;995;Skins, sheep, fresh;2017;2017;hg/An;58;g/An;5800;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5420;Yield;995;Skins, sheep, fresh;2018;2018;hg/An;60;g/An;6000;Fc;Calculated data

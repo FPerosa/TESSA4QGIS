@@ -1,0 +1,15 @@
+Domain;EcologicalZone;Continent;Forest_type;AboveGroundBiomass_ton_dry_mass_per_ha;AGB_Growth_ton_dry_mass_per_ha_yr
+Tropical;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA
+Temperate;Temperate oceanic forest;worldwide;natural;180;4.4
+Temperate;Temperate oceanic forest;worldwide;plantations;160;4.4
+Temperate;Temperate continental forest;worldwide;natural;120;4
+Temperate;Temperate continental forest;worldwide;plantations;100;4
+Temperate;Temperate mountain systems;worldwide;natural;100;3
+Temperate;Temperate mountain systems;worldwide;plantations;100;3
+Boreal;Boreal coniferous forest;worldwide;natural;50;1
+Boreal;Boreal coniferous forest;worldwide;plantations;40;1
+Boreal;Boreal tundra woodland;worldwide;natural;15;0.4
+Boreal;Boreal tundra woodland;worldwide;plantations;15;0.4
+Boreal;Boreal mountain systems;worldwide;natural;30;1
+Boreal;Boreal mountain systems;worldwide;plantations;30;1

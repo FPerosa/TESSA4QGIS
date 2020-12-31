@@ -1,0 +1,641 @@
+DomainCode;Domain;AreaCode;Country;ElementCode;Element;ItemCode;Item;Year;StocksNumber;Flag;Flag Description
+QA;Live Animals;11;Austria;5114;Stocks;1181;Beehives;2014;376121;;Official data
+QA;Live Animals;11;Austria;5114;Stocks;1181;Beehives;2015;347100;;Official data
+QA;Live Animals;11;Austria;5114;Stocks;1181;Beehives;2016;354100;;Official data
+QA;Live Animals;11;Austria;5114;Stocks;1181;Beehives;2017;353300;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;866;Cattle;2014;1958282;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;866;Cattle;2015;1961201;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;866;Cattle;2016;1957610;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;866;Cattle;2017;1954391;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1057;Chickens;2014;16500000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1057;Chickens;2015;16487000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5112;Stocks;1057;Chickens;2016;16745000;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1057;Chickens;2017;16783000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5112;Stocks;1068;Ducks;2014;69000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1068;Ducks;2015;59000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5112;Stocks;1068;Ducks;2016;45000;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1068;Ducks;2017;48000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5112;Stocks;1072;Geese and guinea fowls;2014;27000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1072;Geese and guinea fowls;2015;30000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5112;Stocks;1072;Geese and guinea fowls;2016;45000;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1072;Geese and guinea fowls;2017;33000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5111;Stocks;1016;Goats;2014;72068;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1016;Goats;2015;70705;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1016;Goats;2016;76620;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1016;Goats;2017;82735;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1096;Horses;2014;87000;F;FAO estimate
+QA;Live Animals;11;Austria;5111;Stocks;1096;Horses;2015;88526;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5111;Stocks;1096;Horses;2016;88288;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1096;Horses;2017;90354;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5111;Stocks;1034;Pigs;2014;2895841;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1034;Pigs;2015;2868191;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1034;Pigs;2016;2845451;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;1034;Pigs;2017;2792803;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1140;Rabbits and hares;2014;300000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1140;Rabbits and hares;2015;200000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1140;Rabbits and hares;2016;200000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1140;Rabbits and hares;2017;200000;F;FAO estimate
+QA;Live Animals;11;Austria;5111;Stocks;976;Sheep;2014;357440;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;976;Sheep;2015;349087;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;976;Sheep;2016;353710;;Official data
+QA;Live Animals;11;Austria;5111;Stocks;976;Sheep;2017;378381;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1079;Turkeys;2014;530000;F;FAO estimate
+QA;Live Animals;11;Austria;5112;Stocks;1079;Turkeys;2015;583000;Im;FAO data based on imputation methodology
+QA;Live Animals;11;Austria;5112;Stocks;1079;Turkeys;2016;590000;;Official data
+QA;Live Animals;11;Austria;5112;Stocks;1079;Turkeys;2017;601000;Im;FAO data based on imputation methodology
+QA;Live Animals;80;Bosnia and Herzegovina;5114;Stocks;1181;Beehives;2014;392348;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5114;Stocks;1181;Beehives;2015;393188;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5114;Stocks;1181;Beehives;2016;409887;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5114;Stocks;1181;Beehives;2017;404698;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;866;Cattle;2014;444000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;866;Cattle;2015;454810;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;866;Cattle;2016;455191;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;866;Cattle;2017;444522;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1057;Chickens;2014;20664000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1057;Chickens;2015;15390000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1057;Chickens;2016;15066000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1057;Chickens;2017;16282000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1068;Ducks;2014;58000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1068;Ducks;2015;57000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1068;Ducks;2016;51000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1068;Ducks;2017;51000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1072;Geese and guinea fowls;2014;30000;*;Unofficial figure
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1072;Geese and guinea fowls;2015;30000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1072;Geese and guinea fowls;2016;27000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1072;Geese and guinea fowls;2017;27000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1016;Goats;2014;74000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1016;Goats;2015;72823;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1016;Goats;2016;74712;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1016;Goats;2017;73287;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1096;Horses;2014;17000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1096;Horses;2015;16604;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1096;Horses;2016;16288;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1096;Horses;2017;15599;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1034;Pigs;2014;533000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1034;Pigs;2015;564251;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1034;Pigs;2016;544893;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;1034;Pigs;2017;548011;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1140;Rabbits and hares;2014;11000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1140;Rabbits and hares;2015;8000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1140;Rabbits and hares;2016;8000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1140;Rabbits and hares;2017;8000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;976;Sheep;2014;1025000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;976;Sheep;2015;1020230;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;976;Sheep;2016;1015576;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5111;Stocks;976;Sheep;2017;1016735;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1079;Turkeys;2014;99000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1079;Turkeys;2015;101000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1079;Turkeys;2016;90000;;Official data
+QA;Live Animals;80;Bosnia and Herzegovina;5112;Stocks;1079;Turkeys;2017;90000;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1107;Asses;2014;18437;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1107;Asses;2015;20000;F;FAO estimate
+QA;Live Animals;27;Bulgaria;5111;Stocks;1107;Asses;2016;18500;F;FAO estimate
+QA;Live Animals;27;Bulgaria;5111;Stocks;1107;Asses;2017;18500;F;FAO estimate
+QA;Live Animals;27;Bulgaria;5114;Stocks;1181;Beehives;2014;577303;;Official data
+QA;Live Animals;27;Bulgaria;5114;Stocks;1181;Beehives;2015;588379;;Official data
+QA;Live Animals;27;Bulgaria;5114;Stocks;1181;Beehives;2016;747434;;Official data
+QA;Live Animals;27;Bulgaria;5114;Stocks;1181;Beehives;2017;754105;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;946;Buffaloes;2014;9964;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;946;Buffaloes;2015;9555;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;946;Buffaloes;2016;10843;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;946;Buffaloes;2017;12273;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;866;Cattle;2014;575584;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;866;Cattle;2015;552807;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;866;Cattle;2016;550201;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;866;Cattle;2017;557866;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1057;Chickens;2014;11665000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1057;Chickens;2015;12970000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1057;Chickens;2016;14258000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1057;Chickens;2017;12448000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1068;Ducks;2014;1440000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1068;Ducks;2015;1517000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1068;Ducks;2016;1229000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1068;Ducks;2017;1128000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1072;Geese and guinea fowls;2014;23000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1072;Geese and guinea fowls;2015;21000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1072;Geese and guinea fowls;2016;16000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1072;Geese and guinea fowls;2017;17000;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1016;Goats;2014;289308;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1016;Goats;2015;292644;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1016;Goats;2016;276919;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1016;Goats;2017;237543;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1096;Horses;2014;42141;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1096;Horses;2015;41519;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5111;Stocks;1096;Horses;2016;52543;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5111;Stocks;1096;Horses;2017;42725;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5111;Stocks;1110;Mules;2014;1963;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1110;Mules;2015;969;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5111;Stocks;1110;Mules;2016;1200;F;FAO estimate
+QA;Live Animals;27;Bulgaria;5111;Stocks;1110;Mules;2017;1500;F;FAO estimate
+QA;Live Animals;27;Bulgaria;5111;Stocks;1034;Pigs;2014;586418;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1034;Pigs;2015;553114;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1034;Pigs;2016;600068;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;1034;Pigs;2017;616426;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1140;Rabbits and hares;2014;147000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1140;Rabbits and hares;2015;212000;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5112;Stocks;1140;Rabbits and hares;2016;239000;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5112;Stocks;1140;Rabbits and hares;2017;227000;Im;FAO data based on imputation methodology
+QA;Live Animals;27;Bulgaria;5111;Stocks;976;Sheep;2014;1369578;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;976;Sheep;2015;1335283;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;976;Sheep;2016;1331894;;Official data
+QA;Live Animals;27;Bulgaria;5111;Stocks;976;Sheep;2017;1360087;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1079;Turkeys;2014;43000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1079;Turkeys;2015;45000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1079;Turkeys;2016;28000;;Official data
+QA;Live Animals;27;Bulgaria;5112;Stocks;1079;Turkeys;2017;32000;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1107;Asses;2014;2153;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1107;Asses;2015;2459;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1107;Asses;2016;2862;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1107;Asses;2017;2137;Im;FAO data based on imputation methodology
+QA;Live Animals;98;Croatia;5114;Stocks;1181;Beehives;2014;560400;;Official data
+QA;Live Animals;98;Croatia;5114;Stocks;1181;Beehives;2015;564700;;Official data
+QA;Live Animals;98;Croatia;5114;Stocks;1181;Beehives;2016;495800;;Official data
+QA;Live Animals;98;Croatia;5114;Stocks;1181;Beehives;2017;486271;Im;FAO data based on imputation methodology
+QA;Live Animals;98;Croatia;5111;Stocks;866;Cattle;2014;441000;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;866;Cattle;2015;440092;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;866;Cattle;2016;444613;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;866;Cattle;2017;450757;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1057;Chickens;2014;9803000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1057;Chickens;2015;9599000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1057;Chickens;2016;9220000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1057;Chickens;2017;9840000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1068;Ducks;2014;96000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1068;Ducks;2015;74000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1068;Ducks;2016;91000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1068;Ducks;2017;51000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1072;Geese and guinea fowls;2014;49000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1072;Geese and guinea fowls;2015;22000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1072;Geese and guinea fowls;2016;21000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1072;Geese and guinea fowls;2017;13000;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1016;Goats;2014;60697;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1016;Goats;2015;62000;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1016;Goats;2016;75530;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1016;Goats;2017;76771;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1096;Horses;2014;21144;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1096;Horses;2015;21868;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1096;Horses;2016;22775;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1096;Horses;2017;23721;Im;FAO data based on imputation methodology
+QA;Live Animals;98;Croatia;5111;Stocks;1034;Pigs;2014;1156220;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1034;Pigs;2015;1166888;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1034;Pigs;2016;1163000;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;1034;Pigs;2017;1121032;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;976;Sheep;2014;604866;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;976;Sheep;2015;607711;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;976;Sheep;2016;618896;;Official data
+QA;Live Animals;98;Croatia;5111;Stocks;976;Sheep;2017;636808;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1079;Turkeys;2014;370000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1079;Turkeys;2015;495000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1079;Turkeys;2016;512000;;Official data
+QA;Live Animals;98;Croatia;5112;Stocks;1079;Turkeys;2017;493000;;Official data
+QA;Live Animals;167;Czechia;5114;Stocks;1181;Beehives;2014;588060;;Official data
+QA;Live Animals;167;Czechia;5114;Stocks;1181;Beehives;2015;576534;;Official data
+QA;Live Animals;167;Czechia;5114;Stocks;1181;Beehives;2016;662253;;Official data
+QA;Live Animals;167;Czechia;5114;Stocks;1181;Beehives;2017;679953;Im;FAO data based on imputation methodology
+QA;Live Animals;167;Czechia;5111;Stocks;866;Cattle;2014;1373560;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;866;Cattle;2015;1407132;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;866;Cattle;2016;1415658;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;866;Cattle;2017;1421242;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1057;Chickens;2014;20656000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1057;Chickens;2015;21483000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1057;Chickens;2016;20422000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1057;Chickens;2017;20500000;F;FAO estimate
+QA;Live Animals;167;Czechia;5112;Stocks;1068;Ducks;2014;393000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1068;Ducks;2015;590000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1068;Ducks;2016;498000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1068;Ducks;2017;434000;Im;FAO data based on imputation methodology
+QA;Live Animals;167;Czechia;5112;Stocks;1072;Geese and guinea fowls;2014;18000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1072;Geese and guinea fowls;2015;19000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1072;Geese and guinea fowls;2016;20000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1072;Geese and guinea fowls;2017;20000;F;FAO estimate
+QA;Live Animals;167;Czechia;5111;Stocks;1016;Goats;2014;24348;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1016;Goats;2015;26765;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1016;Goats;2016;26548;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1016;Goats;2017;26781;Im;FAO data based on imputation methodology
+QA;Live Animals;167;Czechia;5111;Stocks;1096;Horses;2014;32925;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1096;Horses;2015;33716;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1096;Horses;2016;32133;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1096;Horses;2017;34548;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1034;Pigs;2014;1617061;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1034;Pigs;2015;1559648;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1034;Pigs;2016;1609945;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;1034;Pigs;2017;1490775;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;976;Sheep;2014;225397;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;976;Sheep;2015;231694;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;976;Sheep;2016;218493;;Official data
+QA;Live Animals;167;Czechia;5111;Stocks;976;Sheep;2017;217141;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1079;Turkeys;2014;396000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1079;Turkeys;2015;416000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1079;Turkeys;2016;375000;;Official data
+QA;Live Animals;167;Czechia;5112;Stocks;1079;Turkeys;2017;385000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5114;Stocks;1181;Beehives;2014;741461;;Official data
+QA;Live Animals;79;Germany;5114;Stocks;1181;Beehives;2015;771851;;Official data
+QA;Live Animals;79;Germany;5114;Stocks;1181;Beehives;2016;748444;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5114;Stocks;1181;Beehives;2017;681682;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5111;Stocks;946;Buffaloes;2014;6507;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;946;Buffaloes;2015;7972;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;946;Buffaloes;2016;7312;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;946;Buffaloes;2017;8674;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;866;Cattle;2014;12742190;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;866;Cattle;2015;12635456;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;866;Cattle;2016;12466586;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;866;Cattle;2017;12281195;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1057;Chickens;2014;121000000;F;FAO estimate
+QA;Live Animals;79;Germany;5112;Stocks;1057;Chickens;2015;135649000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1057;Chickens;2016;158649000;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1057;Chickens;2017;160000000;F;FAO estimate
+QA;Live Animals;79;Germany;5112;Stocks;1068;Ducks;2014;2450000;F;FAO estimate
+QA;Live Animals;79;Germany;5112;Stocks;1068;Ducks;2015;2470000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1068;Ducks;2016;2236000;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1068;Ducks;2017;2417000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1072;Geese and guinea fowls;2014;300000;F;FAO estimate
+QA;Live Animals;79;Germany;5112;Stocks;1072;Geese and guinea fowls;2015;307000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1072;Geese and guinea fowls;2016;329000;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1072;Geese and guinea fowls;2017;301000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5111;Stocks;1016;Goats;2014;117000;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1016;Goats;2015;110000;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1016;Goats;2016;138810;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1016;Goats;2017;140000;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1096;Horses;2014;372000;F;FAO estimate
+QA;Live Animals;79;Germany;5111;Stocks;1096;Horses;2015;421668;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5111;Stocks;1096;Horses;2016;441954;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1096;Horses;2017;448146;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5111;Stocks;1034;Pigs;2014;28338990;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1034;Pigs;2015;27652416;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1034;Pigs;2016;27376056;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;1034;Pigs;2017;27577568;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1140;Rabbits and hares;2014;60000;F;FAO estimate
+QA;Live Animals;79;Germany;5112;Stocks;1140;Rabbits and hares;2015;60000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1140;Rabbits and hares;2016;59000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1140;Rabbits and hares;2017;59000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5111;Stocks;976;Sheep;2014;1600776;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;976;Sheep;2015;1579789;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;976;Sheep;2016;1574269;;Official data
+QA;Live Animals;79;Germany;5111;Stocks;976;Sheep;2017;1579793;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1079;Turkeys;2014;11500000;F;FAO estimate
+QA;Live Animals;79;Germany;5112;Stocks;1079;Turkeys;2015;12417000;Im;FAO data based on imputation methodology
+QA;Live Animals;79;Germany;5112;Stocks;1079;Turkeys;2016;12360000;;Official data
+QA;Live Animals;79;Germany;5112;Stocks;1079;Turkeys;2017;12875000;Im;FAO data based on imputation methodology
+QA;Live Animals;97;Hungary;5111;Stocks;1107;Asses;2014;2000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1107;Asses;2015;2000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1107;Asses;2016;3000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1107;Asses;2017;4000;;Official data
+QA;Live Animals;97;Hungary;5114;Stocks;1181;Beehives;2014;745000;;Official data
+QA;Live Animals;97;Hungary;5114;Stocks;1181;Beehives;2015;773000;;Official data
+QA;Live Animals;97;Hungary;5114;Stocks;1181;Beehives;2016;772000;;Official data
+QA;Live Animals;97;Hungary;5114;Stocks;1181;Beehives;2017;816000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;866;Cattle;2014;782000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;866;Cattle;2015;802000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;866;Cattle;2016;821000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;866;Cattle;2017;852000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1057;Chickens;2014;29474000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1057;Chickens;2015;30521000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1057;Chickens;2016;32432000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1057;Chickens;2017;32027000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1068;Ducks;2014;4265000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1068;Ducks;2015;4295000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1068;Ducks;2016;4028000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1068;Ducks;2017;4033000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1072;Geese and guinea fowls;2014;1631000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1072;Geese and guinea fowls;2015;1027000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1072;Geese and guinea fowls;2016;1023000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1072;Geese and guinea fowls;2017;1257000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1016;Goats;2014;73000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1016;Goats;2015;70000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1016;Goats;2016;72000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1016;Goats;2017;81000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1096;Horses;2014;62000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1096;Horses;2015;61000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1096;Horses;2016;60000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1096;Horses;2017;53000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1110;Mules;2014;200;F;FAO estimate
+QA;Live Animals;97;Hungary;5111;Stocks;1110;Mules;2015;186;Im;FAO data based on imputation methodology
+QA;Live Animals;97;Hungary;5111;Stocks;1110;Mules;2016;176;Im;FAO data based on imputation methodology
+QA;Live Animals;97;Hungary;5111;Stocks;1110;Mules;2017;177;Im;FAO data based on imputation methodology
+QA;Live Animals;97;Hungary;5111;Stocks;1034;Pigs;2014;3004000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1034;Pigs;2015;3136000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1034;Pigs;2016;3124000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;1034;Pigs;2017;2907000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1140;Rabbits and hares;2014;1419000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1140;Rabbits and hares;2015;1645000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1140;Rabbits and hares;2016;1478000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1140;Rabbits and hares;2017;1083000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;976;Sheep;2014;1214000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;976;Sheep;2015;1185000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;976;Sheep;2016;1190000;;Official data
+QA;Live Animals;97;Hungary;5111;Stocks;976;Sheep;2017;1141000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1079;Turkeys;2014;2530000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1079;Turkeys;2015;2756000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1079;Turkeys;2016;2851000;;Official data
+QA;Live Animals;97;Hungary;5112;Stocks;1079;Turkeys;2017;2868000;;Official data
+QA;Live Animals;173;Poland;5114;Stocks;1181;Beehives;2014;1525000;F;FAO estimate
+QA;Live Animals;173;Poland;5114;Stocks;1181;Beehives;2015;1548781;Im;FAO data based on imputation methodology
+QA;Live Animals;173;Poland;5114;Stocks;1181;Beehives;2016;1566657;Im;FAO data based on imputation methodology
+QA;Live Animals;173;Poland;5114;Stocks;1181;Beehives;2017;1589276;Im;FAO data based on imputation methodology
+QA;Live Animals;173;Poland;5111;Stocks;866;Cattle;2014;5920411;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;866;Cattle;2015;5960693;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;866;Cattle;2016;5939046;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;866;Cattle;2017;6143083;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1057;Chickens;2014;129861000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1057;Chickens;2015;146123000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1057;Chickens;2016;169033000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1057;Chickens;2017;177640000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1068;Ducks;2014;2825000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1068;Ducks;2015;2821000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1068;Ducks;2016;2875000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1068;Ducks;2017;3181000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1072;Geese and guinea fowls;2014;4428000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1072;Geese and guinea fowls;2015;4003000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1072;Geese and guinea fowls;2016;3989000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1072;Geese and guinea fowls;2017;4173000;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1016;Goats;2014;81727;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1016;Goats;2015;81727;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1016;Goats;2016;44204;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1016;Goats;2017;44204;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1096;Horses;2014;207065;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1096;Horses;2015;207065;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1096;Horses;2016;185494;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1096;Horses;2017;185494;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1034;Pigs;2014;11724056;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1034;Pigs;2015;11639790;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1034;Pigs;2016;10865318;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;1034;Pigs;2017;11352719;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1140;Rabbits and hares;2014;386000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1140;Rabbits and hares;2015;386000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1140;Rabbits and hares;2016;350000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1140;Rabbits and hares;2017;350000;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;976;Sheep;2014;222795;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;976;Sheep;2015;227554;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;976;Sheep;2016;239138;;Official data
+QA;Live Animals;173;Poland;5111;Stocks;976;Sheep;2017;261224;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1079;Turkeys;2014;9449000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1079;Turkeys;2015;10320000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1079;Turkeys;2016;11706000;;Official data
+QA;Live Animals;173;Poland;5112;Stocks;1079;Turkeys;2017;12228000;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1107;Asses;2014;2143;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1107;Asses;2015;2195;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1107;Asses;2016;1962;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1107;Asses;2017;3100;;Official data
+QA;Live Animals;146;Republic of Moldova;5114;Stocks;1181;Beehives;2014;115925;;Official data
+QA;Live Animals;146;Republic of Moldova;5114;Stocks;1181;Beehives;2015;124330;;Official data
+QA;Live Animals;146;Republic of Moldova;5114;Stocks;1181;Beehives;2016;135946;;Official data
+QA;Live Animals;146;Republic of Moldova;5114;Stocks;1181;Beehives;2017;139098;Im;FAO data based on imputation methodology
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;866;Cattle;2014;188862;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;866;Cattle;2015;191214;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;866;Cattle;2016;186116;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;866;Cattle;2017;182300;;Official data
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1057;Chickens;2014;31840000;*;Unofficial figure
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1057;Chickens;2015;36840000;*;Unofficial figure
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1057;Chickens;2016;38271000;Im;FAO data based on imputation methodology
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1057;Chickens;2017;37745000;Im;FAO data based on imputation methodology
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1016;Goats;2014;144885;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1016;Goats;2015;110695;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1016;Goats;2016;114629;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1016;Goats;2017;159200;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1096;Horses;2014;45020;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1096;Horses;2015;41943;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1096;Horses;2016;39429;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1096;Horses;2017;36800;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1034;Pigs;2014;419959;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1034;Pigs;2015;472762;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1034;Pigs;2016;453190;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;1034;Pigs;2017;439000;;Official data
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1140;Rabbits and hares;2014;296000;;Official data
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1140;Rabbits and hares;2015;326000;;Official data
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1140;Rabbits and hares;2016;350000;;Official data
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1140;Rabbits and hares;2017;367000;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;976;Sheep;2014;729829;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;976;Sheep;2015;569075;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;976;Sheep;2016;553442;;Official data
+QA;Live Animals;146;Republic of Moldova;5111;Stocks;976;Sheep;2017;710600;;Official data
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1079;Turkeys;2014;180000;*;Unofficial figure
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1079;Turkeys;2015;200000;*;Unofficial figure
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1079;Turkeys;2016;191000;Im;FAO data based on imputation methodology
+QA;Live Animals;146;Republic of Moldova;5112;Stocks;1079;Turkeys;2017;121000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;1107;Asses;2014;30000;F;FAO estimate
+QA;Live Animals;183;Romania;5111;Stocks;1107;Asses;2015;30021;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;1107;Asses;2016;30183;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;1107;Asses;2017;30344;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5114;Stocks;1181;Beehives;2014;1354218;;Official data
+QA;Live Animals;183;Romania;5114;Stocks;1181;Beehives;2015;1350998;;Official data
+QA;Live Animals;183;Romania;5114;Stocks;1181;Beehives;2016;1392846;;Official data
+QA;Live Animals;183;Romania;5114;Stocks;1181;Beehives;2017;1449318;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;866;Cattle;2014;2022408;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;866;Cattle;2015;2068888;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;866;Cattle;2016;2092414;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;866;Cattle;2017;2049700;;Official data
+QA;Live Animals;183;Romania;5112;Stocks;1057;Chickens;2014;79440000;;Official data
+QA;Live Animals;183;Romania;5112;Stocks;1057;Chickens;2015;75447000;;Official data
+QA;Live Animals;183;Romania;5112;Stocks;1057;Chickens;2016;78648000;;Official data
+QA;Live Animals;183;Romania;5112;Stocks;1057;Chickens;2017;79245000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1068;Ducks;2014;4200000;F;FAO estimate
+QA;Live Animals;183;Romania;5112;Stocks;1068;Ducks;2015;4174000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1068;Ducks;2016;4182000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1068;Ducks;2017;4222000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1072;Geese and guinea fowls;2014;4700000;F;FAO estimate
+QA;Live Animals;183;Romania;5112;Stocks;1072;Geese and guinea fowls;2015;4694000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1072;Geese and guinea fowls;2016;4698000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1072;Geese and guinea fowls;2017;4737000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;1016;Goats;2014;1312967;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1016;Goats;2015;1417176;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1016;Goats;2016;1440151;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1016;Goats;2017;1483100;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1096;Horses;2014;548245;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1096;Horses;2015;524741;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1096;Horses;2016;503466;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1096;Horses;2017;470331;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;1034;Pigs;2014;5180173;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1034;Pigs;2015;5041788;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1034;Pigs;2016;4926928;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;1034;Pigs;2017;4707700;;Official data
+QA;Live Animals;183;Romania;5112;Stocks;1140;Rabbits and hares;2014;1700000;F;FAO estimate
+QA;Live Animals;183;Romania;5112;Stocks;1140;Rabbits and hares;2015;1728000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1140;Rabbits and hares;2016;1817000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1140;Rabbits and hares;2017;1813000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5111;Stocks;976;Sheep;2014;9135678;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;976;Sheep;2015;9518225;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;976;Sheep;2016;9809512;;Official data
+QA;Live Animals;183;Romania;5111;Stocks;976;Sheep;2017;9875500;;Official data
+QA;Live Animals;183;Romania;5112;Stocks;1079;Turkeys;2014;1000000;F;FAO estimate
+QA;Live Animals;183;Romania;5112;Stocks;1079;Turkeys;2015;998000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1079;Turkeys;2016;1000000;Im;FAO data based on imputation methodology
+QA;Live Animals;183;Romania;5112;Stocks;1079;Turkeys;2017;1001000;Im;FAO data based on imputation methodology
+QA;Live Animals;272;Serbia;5114;Stocks;1181;Beehives;2014;677071;;Official data
+QA;Live Animals;272;Serbia;5114;Stocks;1181;Beehives;2015;791522;;Official data
+QA;Live Animals;272;Serbia;5114;Stocks;1181;Beehives;2016;792478;;Official data
+QA;Live Animals;272;Serbia;5114;Stocks;1181;Beehives;2017;849280;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;866;Cattle;2014;920068;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;866;Cattle;2015;915641;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;866;Cattle;2016;892751;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;866;Cattle;2017;898650;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1057;Chickens;2014;16599000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1057;Chickens;2015;16919000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1057;Chickens;2016;15708000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1057;Chickens;2017;16338000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1068;Ducks;2014;188000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1068;Ducks;2015;152000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1068;Ducks;2016;145000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1068;Ducks;2017;135000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1072;Geese and guinea fowls;2014;65000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1072;Geese and guinea fowls;2015;56000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1072;Geese and guinea fowls;2016;71000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1072;Geese and guinea fowls;2017;59000;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1016;Goats;2014;218603;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1016;Goats;2015;202828;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1016;Goats;2016;200150;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1016;Goats;2017;182558;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1096;Horses;2014;15606;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1096;Horses;2015;15222;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1096;Horses;2016;15337;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1096;Horses;2017;16560;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1034;Pigs;2014;3235658;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1034;Pigs;2015;3284378;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1034;Pigs;2016;3021167;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;1034;Pigs;2017;2910525;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;976;Sheep;2014;1748110;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;976;Sheep;2015;1789144;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;976;Sheep;2016;1664895;;Official data
+QA;Live Animals;272;Serbia;5111;Stocks;976;Sheep;2017;1704192;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1079;Turkeys;2014;185000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1079;Turkeys;2015;204000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1079;Turkeys;2016;159000;;Official data
+QA;Live Animals;272;Serbia;5112;Stocks;1079;Turkeys;2017;157000;;Official data
+QA;Live Animals;199;Slovakia;5114;Stocks;1181;Beehives;2014;256462;;Official data
+QA;Live Animals;199;Slovakia;5114;Stocks;1181;Beehives;2015;273302;;Official data
+QA;Live Animals;199;Slovakia;5114;Stocks;1181;Beehives;2016;263009;;Official data
+QA;Live Animals;199;Slovakia;5114;Stocks;1181;Beehives;2017;277859;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;866;Cattle;2014;467820;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;866;Cattle;2015;465543;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;866;Cattle;2016;457586;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;866;Cattle;2017;446112;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1057;Chickens;2014;10605000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1057;Chickens;2015;12181000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1057;Chickens;2016;12513000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1057;Chickens;2017;11806000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1068;Ducks;2014;192000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1068;Ducks;2015;167000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1068;Ducks;2016;171000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1068;Ducks;2017;174000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1072;Geese and guinea fowls;2014;33000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1072;Geese and guinea fowls;2015;28000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1072;Geese and guinea fowls;2016;26000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1072;Geese and guinea fowls;2017;24000;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1016;Goats;2014;35457;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1016;Goats;2015;35178;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1016;Goats;2016;36324;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1016;Goats;2017;36355;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1096;Horses;2014;7161;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1096;Horses;2015;6828;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1096;Horses;2016;6866;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1096;Horses;2017;6407;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1034;Pigs;2014;637167;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1034;Pigs;2015;641827;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1034;Pigs;2016;633116;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;1034;Pigs;2017;585843;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1140;Rabbits and hares;2014;1000000;F;FAO estimate
+QA;Live Animals;199;Slovakia;5112;Stocks;1140;Rabbits and hares;2015;1000000;F;FAO estimate
+QA;Live Animals;199;Slovakia;5112;Stocks;1140;Rabbits and hares;2016;1000000;F;FAO estimate
+QA;Live Animals;199;Slovakia;5112;Stocks;1140;Rabbits and hares;2017;1000000;F;FAO estimate
+QA;Live Animals;199;Slovakia;5111;Stocks;976;Sheep;2014;399908;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;976;Sheep;2015;391151;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;976;Sheep;2016;381724;;Official data
+QA;Live Animals;199;Slovakia;5111;Stocks;976;Sheep;2017;368896;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1079;Turkeys;2014;139000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1079;Turkeys;2015;118000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1079;Turkeys;2016;126000;;Official data
+QA;Live Animals;199;Slovakia;5112;Stocks;1079;Turkeys;2017;126000;;Official data
+QA;Live Animals;198;Slovenia;5114;Stocks;1181;Beehives;2014;62716;;Official data
+QA;Live Animals;198;Slovenia;5114;Stocks;1181;Beehives;2015;64000;F;FAO estimate
+QA;Live Animals;198;Slovenia;5114;Stocks;1181;Beehives;2016;63967;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5114;Stocks;1181;Beehives;2017;62718;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5111;Stocks;866;Cattle;2014;460576;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;866;Cattle;2015;468253;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;866;Cattle;2016;484192;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;866;Cattle;2017;488598;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1057;Chickens;2014;2827000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1057;Chickens;2015;3281000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1057;Chickens;2016;3479000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1057;Chickens;2017;3639000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1068;Ducks;2014;11000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1068;Ducks;2015;10000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1068;Ducks;2016;14000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1068;Ducks;2017;15000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1072;Geese and guinea fowls;2014;3000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1072;Geese and guinea fowls;2015;2000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1072;Geese and guinea fowls;2016;3000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1072;Geese and guinea fowls;2017;3000;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1016;Goats;2014;21240;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1016;Goats;2015;22283;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1016;Goats;2016;26959;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1016;Goats;2017;22405;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1096;Horses;2014;21832;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1096;Horses;2015;22278;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5111;Stocks;1096;Horses;2016;22872;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5111;Stocks;1096;Horses;2017;22790;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5111;Stocks;1034;Pigs;2014;288350;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1034;Pigs;2015;281319;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1034;Pigs;2016;271385;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;1034;Pigs;2017;265744;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1140;Rabbits and hares;2014;96000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1140;Rabbits and hares;2015;88000;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5112;Stocks;1140;Rabbits and hares;2016;76000;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5112;Stocks;1140;Rabbits and hares;2017;71000;Im;FAO data based on imputation methodology
+QA;Live Animals;198;Slovenia;5111;Stocks;976;Sheep;2014;108779;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;976;Sheep;2015;113648;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;976;Sheep;2016;109406;;Official data
+QA;Live Animals;198;Slovenia;5111;Stocks;976;Sheep;2017;119845;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1079;Turkeys;2014;96000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1079;Turkeys;2015;121000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1079;Turkeys;2016;108000;;Official data
+QA;Live Animals;198;Slovenia;5112;Stocks;1079;Turkeys;2017;156000;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1107;Asses;2014;12000;F;FAO estimate
+QA;Live Animals;230;Ukraine;5111;Stocks;1107;Asses;2015;11978;Im;FAO data based on imputation methodology
+QA;Live Animals;230;Ukraine;5111;Stocks;1107;Asses;2016;11954;Im;FAO data based on imputation methodology
+QA;Live Animals;230;Ukraine;5111;Stocks;1107;Asses;2017;11974;Im;FAO data based on imputation methodology
+QA;Live Animals;230;Ukraine;5114;Stocks;1181;Beehives;2014;2873;;Official data
+QA;Live Animals;230;Ukraine;5114;Stocks;1181;Beehives;2015;2700;;Official data
+QA;Live Animals;230;Ukraine;5114;Stocks;1181;Beehives;2016;2600;;Official data
+QA;Live Animals;230;Ukraine;5114;Stocks;1181;Beehives;2017;2487;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1126;Camels;2014;800;F;FAO estimate
+QA;Live Animals;230;Ukraine;5111;Stocks;1126;Camels;2015;810;Im;FAO data based on imputation methodology
+QA;Live Animals;230;Ukraine;5111;Stocks;1126;Camels;2016;821;Im;FAO data based on imputation methodology
+QA;Live Animals;230;Ukraine;5111;Stocks;1126;Camels;2017;819;Im;FAO data based on imputation methodology
+QA;Live Animals;230;Ukraine;5111;Stocks;866;Cattle;2014;4397700;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;866;Cattle;2015;3884000;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;866;Cattle;2016;3750000;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;866;Cattle;2017;3682300;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1057;Chickens;2014;201008000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1057;Chickens;2015;193885000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1057;Chickens;2016;186354000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1057;Chickens;2017;184336000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1068;Ducks;2014;11490000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1068;Ducks;2015;11310000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1068;Ducks;2016;10150000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1068;Ducks;2017;10876000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1072;Geese and guinea fowls;2014;4880000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1072;Geese and guinea fowls;2015;5365000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1072;Geese and guinea fowls;2016;5115000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1072;Geese and guinea fowls;2017;4183000;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1016;Goats;2014;482600;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1016;Goats;2015;585300;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1016;Goats;2016;581400;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1016;Goats;2017;595900;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1096;Horses;2014;350400;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1096;Horses;2015;316800;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1096;Horses;2016;305800;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1096;Horses;2017;291500;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1034;Pigs;2014;7764400;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1034;Pigs;2015;7350700;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1034;Pigs;2016;7079000;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;1034;Pigs;2017;6669100;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1140;Rabbits and hares;2014;5461000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1140;Rabbits and hares;2015;5141000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1140;Rabbits and hares;2016;5043000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1140;Rabbits and hares;2017;4940000;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;976;Sheep;2014;859400;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;976;Sheep;2015;785800;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;976;Sheep;2016;743900;;Official data
+QA;Live Animals;230;Ukraine;5111;Stocks;976;Sheep;2017;718900;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1079;Turkeys;2014;1981000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1079;Turkeys;2015;2115000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1079;Turkeys;2016;1825000;;Official data
+QA;Live Animals;230;Ukraine;5112;Stocks;1079;Turkeys;2017;1575000;;Official data

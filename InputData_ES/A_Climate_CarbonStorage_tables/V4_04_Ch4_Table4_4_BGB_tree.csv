@@ -1,0 +1,39 @@
+Domain;EcologicalZone;Continent;Tree_species;AboveGroundBiomass_lower_threshold_ton_per_ha;AboveGroundBiomass_upper_threshold_ton_per_ha;Ratio_BGB_AGB;Ratio_lower;Ratio_upper;References
+Tropical;NA;NA;;NA;NA;NA;NA;NA;NA
+Subtropical;NA;NA;;NA;NA;NA;NA;NA;NA
+Temperate;Temperate oceanic forest;worldwide;conifers;0;50;0.4;0.21;1.06;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;conifers;50;150;0.29;0.24;0.5;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;conifers;150;Inf;0.2;0.12;0.49;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;Quercus spp.;70;Inf;0.3;0.2;1.16;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;Eucalyptus spp.;0;50;0.44;0.29;0.81;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;Eucalyptus spp.;50;150;0.28;0.15;0.81;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;Eucalyptus spp.;150;Inf;0.2;0.1;0.33;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;other broadleaf;0;75;0.46;0.12;0.93;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;other broadleaf;75;150;0.23;0.13;0.37;Mokany et al., 2006
+Temperate;Temperate oceanic forest;worldwide;other broadleaf;150;Inf;0.24;0.17;0.44;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;conifers;0;50;0.4;0.21;1.06;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;conifers;50;150;0.29;0.24;0.5;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;conifers;150;Inf;0.2;0.12;0.49;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;Quercus spp.;70;Inf;0.3;0.2;1.16;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;Eucalyptus spp.;0;50;0.44;0.29;0.81;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;Eucalyptus spp.;50;150;0.28;0.15;0.81;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;Eucalyptus spp.;150;Inf;0.2;0.1;0.33;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;other broadleaf;0;75;0.46;0.12;0.93;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;other broadleaf;75;150;0.23;0.13;0.37;Mokany et al., 2006
+Temperate;Temperate continental forest;worldwide;other broadleaf;150;Inf;0.24;0.17;0.44;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;conifers;0;50;0.4;0.21;1.06;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;conifers;50;150;0.29;0.24;0.5;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;conifers;150;Inf;0.2;0.12;0.49;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;Quercus spp.;70;Inf;0.3;0.2;1.16;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;Eucalyptus spp.;0;50;0.44;0.29;0.81;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;Eucalyptus spp.;50;150;0.28;0.15;0.81;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;Eucalyptus spp.;150;Inf;0.2;0.1;0.33;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;other broadleaf;0;75;0.46;0.12;0.93;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;other broadleaf;75;150;0.23;0.13;0.37;Mokany et al., 2006
+Temperate;Temperate mountain systems;worldwide;other broadleaf;150;Inf;0.24;0.17;0.44;Mokany et al., 2006
+Boreal;Boreal coniferous forest;worldwide;NA;0;75;0.39;0.23;0.96;Li et al., 2003, Mokany et al., 2006
+Boreal;Boreal coniferous forest;worldwide;NA;75;Inf;0.24;0.15;0.37;Li et al., 2003, Mokany et al., 2006
+Boreal;Boreal tundra woodland;worldwide;NA;0;75;0.39;0.23;0.96;Li et al., 2003, Mokany et al., 2006
+Boreal;Boreal tundra woodland;worldwide;NA;75;Inf;0.24;0.15;0.37;Li et al., 2003, Mokany et al., 2006
+Boreal;Boreal mountain systems;worldwide;NA;0;75;0.39;0.23;0.96;Li et al., 2003, Mokany et al., 2006
+Boreal;Boreal mountain systems;worldwide;NA;75;Inf;0.24;0.15;0.37;Li et al., 2003, Mokany et al., 2006

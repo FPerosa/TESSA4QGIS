@@ -1,0 +1,8 @@
+LandUse;Domain;Emission_factor_kgCH4_per_ha_yr;Emission_factor_lower_threshold_kgCH4_per_ha_yr;Emission_factor_upper_threshold_kgCH4_per_ha_yr;Sites_number;References
+Rice ;Tropical and Sub-tropical;143.5;63.2;223.7;6;Furukawa et al., 2005, Hadi et al., 2005, Inubushi et al., 2003
+Forest Land drained;Temperate;2.5;-0.6;5.7;13;Glenn et al., 1993, Moore & Knowles, 1990, Sikström et al., 2009, von Arnold et al., 2005a, b, Weslien et al., 2009, Yamulki et al., 2013
+Cropland drained;Boreal and Temperate;0;-2.8;2.8;38;Augustin, 2003, Augustin et al., 1998, Drösler et al., 2013, Elsgaard et al., 2012, Flessa et al., 1998, Kasimir-Klemedtsson et al., 2009, Maljanen et al., 2003a, b, 2004, 2007, Petersen et al., 2012, Regina et al., 2007, Taft et al., 2013
+Grassland drained nutrient-poor;Temperate;1.8;0.72;2.9;9;Drösler et al., 2013, Kasimir-Klemedtsson et al., 2009, van den Bos, 2003
+Grassland deep-drained nutrient-rich;Temperate;16;2.4;29;44;Augustin et al., 1996, Best & Jacobs, 1997, Drösler et al., 2013, Flessa & Beese, 1997, Flessa et al., 1998, Jacobs et al., 2003, Kroon et al., 2010, Langeveld et al., 1997, Meyer et al., 2001, Nykänen et al., 1995, Petersen et al., 2012; Schrier-Uijl et al., 2010a, b, Teh et al., 2011, van den Bos, 2003, van den Pol-van Dasselaar et al., 1997, Wild et al., 2001
+Grassland shallow-drained nutrient-rich;Temperate;39;-2.9;81;16;Augustin, 2003, Drösler et al., 2013, Jacobs et al., 2003, van den Pol-van Dasselaar et al., 1997
+Peatland Managed for Extraction;Boreal and Temperate;6.1;1.6;11;15;Hyvönen et al., 2009, Nykänen et al., 1996, Strack & Zuback, 2013, Sundh et al., 2000, Tuittila et al., 2000, Waddington & Day, 2007

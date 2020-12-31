@@ -1,0 +1,9 @@
+Domain;Level;Continent;Factor_type;Factor_IPCC;Factor_lower;Factor_upper;References;Description
+Tropical;Rewetting, years 1-20;worldwide;land use;0.8;;;IPCC Report, 2014;Represents cropland with Inland Wetland Mineral Soils that has undergone rewetting (restoration of natural hydrology) and may or may not be under active crop production.
+Boreal;Rewetting, years 1-20;worldwide;land use;0.8;;;IPCC Report, 2014;Represents cropland with Inland Wetland Mineral Soils that has undergone rewetting (restoration of natural hydrology) and may or may not be under active crop production.
+Temperate;Rewetting, years 1-20;worldwide;land use;0.8;;;IPCC Report, 2014;Represents cropland with Inland Wetland Mineral Soils that has undergone rewetting (restoration of natural hydrology) and may or may not be under active crop production.
+Tropical;Rewetting, years 21-40;worldwide;land use;1;;;IPCC Report, 2014;Represents cropland with Inland Wetland Mineral Soils that has undergone rewetting (restoration of natural hydrology) and may or may not be under active crop production.
+Boreal;Rewetting, years 21-40;worldwide;land use;1;;;IPCC Report, 2014;Represents cropland with Inland Wetland Mineral Soils that has undergone rewetting (restoration of natural hydrology) and may or may not be under active crop production.
+Temperate;Rewetting, years 21-40;worldwide;land use;1;;;IPCC Report, 2014;Represents cropland with Inland Wetland Mineral Soils that has undergone rewetting (restoration of natural hydrology) and may or may not be under active crop production.
+Boreal;Long-term cultivated;worldwide;land use;0.71;;;IPCC Report, 2014;Represents Cropland with Inland Wetland Mineral Soils that has been continuously managed for > 20 years, for predominantly annual crops
+Temperate;Long-term cultivated;worldwide;land use;0.71;;;IPCC Report, 2014;Represents Cropland with Inland Wetland Mineral Soils that has been continuously managed for > 20 years, for predominantly annual crops

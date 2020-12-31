@@ -1,0 +1,5 @@
+Region;CattleCathegory;Emission_Factor_kgCH4_per_head_yr;Comments;References
+Western Europe;Dairy;117;Average milk production of 6,000 kg head-1 yr-1;IPCC, 2006
+Western Europe;Other cattle;57;Includes bulls, calves, and growing steers/heifers;IPCC, 2006
+Eastern Europe;Dairy;99;Average milk production of 2,550 kg head-1 yr-1;IPCC, 2006
+Eastern Europe;Other cattle;58;Includes beef cows, bulls, and young;IPCC, 2006

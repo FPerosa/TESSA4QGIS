@@ -1,0 +1,33 @@
+Domain;ClimateRegion;Continent;Soil_type;SoilOrganicCarbon_30cm_ton_C_per_ha;References
+Tropical;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA
+Boreal;NA;worldwide;high activity clay;68;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Boreal;NA;worldwide;low activity clay;NA;NA
+Boreal;NA;worldwide;sandy;10;1996 IPCC Guidelines
+Boreal;NA;worldwide;spodic;117;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Boreal;NA;worldwide;volcanic;20;1996 IPCC Guidelines
+Boreal;NA;worldwide;wetland;146;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold dry;worldwide;high activity clay;50;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold dry;worldwide;low activity clay;33;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold dry;worldwide;sandy;34;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold dry;worldwide;spodic;NA;NA
+Temperate;Cold dry;worldwide;volcanic;20;1996 IPCC Guidelines
+Temperate;Cold dry;worldwide;wetland;87;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold moist;worldwide;high activity clay;95;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold moist;worldwide;low activity clay;85;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold moist;worldwide;sandy;71;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold moist;worldwide;spodic;115;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold moist;worldwide;volcanic;130;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Cold moist;worldwide;wetland;87;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm dry;worldwide;high activity clay;38;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm dry;worldwide;low activity clay;24;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm dry;worldwide;sandy;19;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm dry;worldwide;spodic;NA;NA
+Temperate;Warm dry;worldwide;volcanic;70;1996 IPCC Guidelines
+Temperate;Warm dry;worldwide;wetland;88;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm moist;worldwide;high activity clay;88;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm moist;worldwide;low activity clay;63;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm moist;worldwide;sandy;34;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm moist;worldwide;spodic;NA;NA
+Temperate;Warm moist;worldwide;volcanic;80;Jobbagy and Jackson (2000) and Bernoux et al. (2002)
+Temperate;Warm moist;worldwide;wetland;88;Jobbagy and Jackson (2000) and Bernoux et al. (2002)

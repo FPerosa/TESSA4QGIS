@@ -1,0 +1,11 @@
+Domain;EcologicalZone;System;Continent;Younger_equal_20yrs;Older_20yrs;AboveGroundBiomass_ton_dry_mass_per_ha;AGB_lower;AGB_upper;References
+Tropical;Humid tropcal high;Agrosilvicultural;Africa;NA;NA;41;29;53;Albrecht and Kandji, 2003
+Tropical;Humid tropical low;Agrosilvicultural;South America;NA;NA;70.5;39;102;Albrecht and Kandji, 2003
+NA;Dry lowlands;Agrosilvicultural;South America;NA;NA;117;39;195;Albrecht and Kandji, 2003
+Tropical;Humid tropical;Agrosilvicultural;Asia;NA;NA;120;12;228;Albrecht and Kandji, 2003
+NA;Dry lowlands;Agrosilvicultural;Asia;NA;NA;75;68;81;Albrecht and Kandji, 2003
+Tropical;Humid tropical;Silvopastoral;Australia;NA;NA;39.5;28;51;Albrecht and Kandji, 2003
+Tropical;Humid tropcal high;Silvopastoral;North America;NA;NA;143.5;133;154;Albrecht and Kandji, 2003
+Tropical;Humid tropical low;Silvopastoral;North America;NA;NA;151;104;198;Albrecht and Kandji, 2003
+NA;Dry lowlands;Silvopastoral;North America;NA;NA;132.5;90;175;Albrecht and Kandji, 2003
+Tropical;Humid tropical low;Silvopastoral;Asia;NA;NA;16.5;15;18;Albrecht and Kandji, 2003

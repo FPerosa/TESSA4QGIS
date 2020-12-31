@@ -1,0 +1,6 @@
+Domain;Animal_type;Size;Wild_grazer;Emission_Factor_kgCH4_per_head_yr;Liveweight_kg;References
+Boreal and Temperate;Ruminant;Large;Moose;31;350;adapted from Crutzen et al., 1986
+Boreal and Temperate;Ruminant;Large;Elk;31;350;adapted from Crutzen et al., 1986
+Boreal and Temperate;Ruminant;Medium;Large deer;15;90;adapted from Crutzen et al., 1986
+Boreal and Temperate;Ruminant;Medium;Caribou;15;90;adapted from Crutzen et al., 1986
+Boreal and Temperate;Ruminant;Small;Small deer;5;15;adapted from Crutzen et al., 1986

@@ -1,0 +1,8 @@
+Domain;Tree_type;CarbonFraction_tonC_per_ton_d_m;CF_lower;CF_upper;References
+All;All;0.47;nan;nan;McGroddy et al., 2004
+Temperate;All;0.47;0.49;0.47;Andreae and Merlet, 2001, Gayoso et al., 2002, Matthews, 1993, McGroddy et al., 2004
+Temperate;broadleaf;0.48;0.5;0.46;Lamlom and Savidge, 2003
+Temperate;conifer;0.51;0.55;0.47;Lamlom and Savidge, 2003
+Boreal;All;0.47;0.49;0.47;Andreae and Merlet, 2001, Gayoso et al., 2002, Matthews, 1993, McGroddy et al., 2004
+Boreal;broadleaf;0.48;0.5;0.46;Lamlom and Savidge, 2003
+Boreal;conifer;0.51;0.55;0.47;Lamlom and Savidge, 2003

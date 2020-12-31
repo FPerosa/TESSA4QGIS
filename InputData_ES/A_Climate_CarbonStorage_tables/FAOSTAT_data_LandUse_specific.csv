@@ -1,0 +1,1483 @@
+CountryCode;Country;ItemCode;Item;Year;Area_ha;Flag;FlagDescription
+11;Austria;6602;Agriculture;2014;2714200;Fc;Calculated data
+11;Austria;6602;Agriculture;2015;2718450;Fc;Calculated data
+11;Austria;6602;Agriculture;2017;2654620;Fc;Calculated data
+11;Austria;6670;Other land;2014;1670900;Fc;Calculated data
+11;Austria;6670;Other land;2015;1664850;Fc;Calculated data
+11;Austria;6670;Other land;2016;1713130;Fc;Calculated data
+11;Austria;6670;Other land;2017;1728680;Fc;Calculated data
+11;Austria;6601;Land area;2015;8252300;Fm;Manual Estimation
+11;Austria;6601;Land area;2016;8252300;Fm;Manual Estimation
+11;Austria;6601;Land area;2017;8252300;Fm;Manual Estimation
+11;Austria;6656;Perm, meadows & pastures - Cultivated;2015;871000;Fm;Manual Estimation
+11;Austria;6659;Perm, meadows & pastures - Nat, growing;2015;435860;Fm;Manual Estimation
+11;Austria;6663;Forestry;2014;3867200;Fm;Manual Estimation
+11;Austria;6663;Forestry;2016;3869000;Fm;Manual Estimation
+11;Austria;6663;Forestry;2017;3869000;Fm;Manual Estimation
+11;Austria;6646;Forest land;2014;3867200;Fm;Manual Estimation
+11;Austria;6646;Forest land;2016;3869000;Fm;Manual Estimation
+11;Austria;6646;Forest land;2017;3869000;Fm;Manual Estimation
+11;Austria;6714;Primary Forest;2014;114000;Fm;Manual Estimation
+11;Austria;6714;Primary Forest;2016;114000;Fm;Manual Estimation
+11;Austria;6714;Primary Forest;2017;114000;Fm;Manual Estimation
+11;Austria;6717;Other naturally regenerated forest;2014;2060400;Fm;Manual Estimation
+11;Austria;6717;Other naturally regenerated forest;2016;2063000;Fm;Manual Estimation
+11;Austria;6717;Other naturally regenerated forest;2017;2063000;Fm;Manual Estimation
+11;Austria;6716;Planted Forest;2014;1692800;Fm;Manual Estimation
+11;Austria;6716;Planted Forest;2016;1692000;Fm;Manual Estimation
+11;Austria;6716;Planted Forest;2017;1692000;Fm;Manual Estimation
+11;Austria;6680;Inland waters;2015;135600;Fm;Manual Estimation
+11;Austria;6680;Inland waters;2016;135600;Fm;Manual Estimation
+11;Austria;6680;Inland waters;2017;135600;Fm;Manual Estimation
+11;Austria;6690;Land area equipped for irrigation;2014;113000;Fm;Manual Estimation
+11;Austria;6690;Land area equipped for irrigation;2015;106000;Fm;Manual Estimation
+11;Austria;6690;Land area equipped for irrigation;2017;99800;Fm;Manual Estimation
+11;Austria;6616;Land area actually irrigated;2016;38200;Fm;Manual Estimation
+11;Austria;6600;Country area;2014;8387900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6600;Country area;2015;8387900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6600;Country area;2016;8387900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6600;Country area;2017;8387900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6601;Land area;2014;8252300;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6602;Agriculture;2016;2670170;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6610;Agricultural land;2014;2714200;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6610;Agricultural land;2015;2718450;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6610;Agricultural land;2016;2670170;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6610;Agricultural land;2017;2654620;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6620;Cropland;2014;1417100;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6620;Cropland;2015;1411590;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6620;Cropland;2016;1411360;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6620;Cropland;2017;1395810;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6621;Arable land;2014;1351700;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6621;Arable land;2015;1346100;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6621;Arable land;2016;1344490;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6621;Arable land;2017;1328940;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6630;Land under temporary crops;2014;1154500;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6630;Land under temporary crops;2015;1139900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6630;Land under temporary crops;2016;1140980;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6630;Land under temporary crops;2017;1132980;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6633;Land under temp, meadows and pastures;2014;162300;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6633;Land under temp, meadows and pastures;2015;158000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6633;Land under temp, meadows and pastures;2016;153340;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6633;Land under temp, meadows and pastures;2017;144240;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6640;Land with temporary fallow;2014;34900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6640;Land with temporary fallow;2015;48200;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6640;Land with temporary fallow;2016;50170;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6640;Land with temporary fallow;2017;51720;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6650;Land under permanent crops;2014;65400;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6650;Land under permanent crops;2015;65490;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6650;Land under permanent crops;2016;66870;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6650;Land under permanent crops;2017;66870;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6655;Land under perm, meadows and pastures;2014;1297100;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6655;Land under perm, meadows and pastures;2015;1306860;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6655;Land under perm, meadows and pastures;2016;1258810;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6655;Land under perm, meadows and pastures;2017;1258810;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6656;Perm, meadows & pastures - Cultivated;2014;865100;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6656;Perm, meadows & pastures - Cultivated;2016;842600;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6656;Perm, meadows & pastures - Cultivated;2017;842600;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6659;Perm, meadows & pastures - Nat, growing;2014;432000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6659;Perm, meadows & pastures - Nat, growing;2016;416210;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6659;Perm, meadows & pastures - Nat, growing;2017;416210;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6663;Forestry;2015;3869000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6646;Forest land;2015;3869000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6714;Primary Forest;2015;114000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6717;Other naturally regenerated forest;2015;2063000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6716;Planted Forest;2015;1692000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6680;Inland waters;2014;135600;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6773;Coastal waters;2014;0;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6773;Coastal waters;2015;0;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6773;Coastal waters;2016;0;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6773;Coastal waters;2017;0;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6690;Land area equipped for irrigation;2016;99800;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6611;Agriculture area actually irrigated;2016;38200;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6694;Cropland area actually irrigated;2016;37300;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6657;Perm, meadows & pastures area actually irrig,;2016;900;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6671;Agriculture area under organic agric,;2014;525000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6671;Agriculture area under organic agric,;2015;552100;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6671;Agriculture area under organic agric,;2016;571420;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6671;Agriculture area under organic agric,;2017;620660;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6668;Cropland area under organic agric,;2014;199000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6668;Cropland area under organic agric,;2015;201800;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6668;Cropland area under organic agric,;2016;214390;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6668;Cropland area under organic agric,;2017;238340;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6681;Perm, meadows & pastures area under organic agric,;2014;326000;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6681;Perm, meadows & pastures area under organic agric,;2015;350300;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6681;Perm, meadows & pastures area under organic agric,;2016;357040;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6681;Perm, meadows & pastures area under organic agric,;2017;382320;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6664;Cropland area under conventional tillage;2016;732600;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6665;Cropland area under conservation tillage;2016;395300;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6666;Cropland area under zero or no tillage;2016;23200;Q;Official data reported on FAO Questionnaires from countries
+11;Austria;6775;Farm buildings & farmyards;2016;22300;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6602;Agriculture;2014;2157000;Fc;Calculated data
+80;Bosnia and Herzegovina;6602;Agriculture;2015;2176000;Fc;Calculated data
+80;Bosnia and Herzegovina;6602;Agriculture;2016;2209000;Fc;Calculated data
+80;Bosnia and Herzegovina;6602;Agriculture;2017;2228000;Fc;Calculated data
+80;Bosnia and Herzegovina;6670;Other land;2014;778000;Fc;Calculated data
+80;Bosnia and Herzegovina;6670;Other land;2015;759000;Fc;Calculated data
+80;Bosnia and Herzegovina;6670;Other land;2016;726000;Fc;Calculated data
+80;Bosnia and Herzegovina;6670;Other land;2017;707000;Fc;Calculated data
+80;Bosnia and Herzegovina;6671;Agriculture area under organic agric,;2014;350;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6671;Agriculture area under organic agric,;2015;580;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6671;Agriculture area under organic agric,;2016;1000;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6671;Agriculture area under organic agric,;2017;1300;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6672;Agriculture area certified organic;2014;260;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6672;Agriculture area certified organic;2015;470;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6672;Agriculture area certified organic;2016;900;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6672;Agriculture area certified organic;2017;1000;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+80;Bosnia and Herzegovina;6663;Forestry;2015;2185000;E;Expert sources from FAO (including other divisions)
+80;Bosnia and Herzegovina;6646;Forest land;2015;2185000;E;Expert sources from FAO (including other divisions)
+80;Bosnia and Herzegovina;6714;Primary Forest;2015;2000;E;Expert sources from FAO (including other divisions)
+80;Bosnia and Herzegovina;6717;Other naturally regenerated forest;2015;1184000;E;Expert sources from FAO (including other divisions)
+80;Bosnia and Herzegovina;6716;Planted Forest;2015;999000;E;Expert sources from FAO (including other divisions)
+80;Bosnia and Herzegovina;6663;Forestry;2014;2185000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6663;Forestry;2016;2185000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6663;Forestry;2017;2185000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6646;Forest land;2014;2185000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6646;Forest land;2016;2185000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6646;Forest land;2017;2185000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6714;Primary Forest;2014;2000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6714;Primary Forest;2016;2000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6714;Primary Forest;2017;2000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6717;Other naturally regenerated forest;2014;1184000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6717;Other naturally regenerated forest;2016;1184000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6717;Other naturally regenerated forest;2017;1184000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6716;Planted Forest;2014;999000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6716;Planted Forest;2016;999000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6716;Planted Forest;2017;999000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6680;Inland waters;2014;1000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6680;Inland waters;2015;1000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6680;Inland waters;2016;1000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6680;Inland waters;2017;1000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6690;Land area equipped for irrigation;2014;3000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6690;Land area equipped for irrigation;2015;3000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6690;Land area equipped for irrigation;2016;3000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6690;Land area equipped for irrigation;2017;3000;Fm;Manual Estimation
+80;Bosnia and Herzegovina;6600;Country area;2014;5121000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6600;Country area;2015;5121000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6600;Country area;2016;5121000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6600;Country area;2017;5121000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6601;Land area;2014;5120000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6601;Land area;2015;5120000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6601;Land area;2016;5120000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6601;Land area;2017;5120000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6610;Agricultural land;2014;2157000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6610;Agricultural land;2015;2176000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6610;Agricultural land;2016;2209000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6610;Agricultural land;2017;2228000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6620;Cropland;2014;1112000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6620;Cropland;2015;1127000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6620;Cropland;2016;1130000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6620;Cropland;2017;1167000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6621;Arable land;2014;1006000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6621;Arable land;2015;1022000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6621;Arable land;2016;1026000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6621;Arable land;2017;1060000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6630;Land under temporary crops;2014;560000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6630;Land under temporary crops;2015;574000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6630;Land under temporary crops;2016;598000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6630;Land under temporary crops;2017;594000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6640;Land with temporary fallow;2014;446000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6640;Land with temporary fallow;2015;448000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6640;Land with temporary fallow;2016;428000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6640;Land with temporary fallow;2017;466000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6650;Land under permanent crops;2014;106000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6650;Land under permanent crops;2015;105000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6650;Land under permanent crops;2016;104000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6650;Land under permanent crops;2017;107000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6655;Land under perm, meadows and pastures;2014;1045000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6655;Land under perm, meadows and pastures;2015;1049000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6655;Land under perm, meadows and pastures;2016;1079000;Q;Official data reported on FAO Questionnaires from countries
+80;Bosnia and Herzegovina;6655;Land under perm, meadows and pastures;2017;1061000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6602;Agriculture;2014;4977000;Fc;Calculated data
+27;Bulgaria;6602;Agriculture;2015;5011900;Fc;Calculated data
+27;Bulgaria;6602;Agriculture;2016;5021000;Fc;Calculated data
+27;Bulgaria;6602;Agriculture;2017;5029520;Fc;Calculated data
+27;Bulgaria;6670;Other land;2014;2073200;Fc;Calculated data
+27;Bulgaria;6670;Other land;2015;2021100;Fc;Calculated data
+27;Bulgaria;6670;Other land;2016;2012000;Fc;Calculated data
+27;Bulgaria;6670;Other land;2017;2003480;Fc;Calculated data
+27;Bulgaria;6668;Cropland area under organic agric,;2015;87000;Fc;Calculated data
+27;Bulgaria;6669;Cropland area certified organic;2015;67600;Fc;Calculated data
+27;Bulgaria;6610;Agricultural land;2014;4977000;W;Data reported on country official publications or web sites (Official) or trade country files
+27;Bulgaria;6610;Agricultural land;2015;5011900;W;Data reported on country official publications or web sites (Official) or trade country files
+27;Bulgaria;6601;Land area;2014;10856000;Fm;Manual Estimation
+27;Bulgaria;6601;Land area;2015;10856000;Fm;Manual Estimation
+27;Bulgaria;6601;Land area;2016;10856000;Fm;Manual Estimation
+27;Bulgaria;6601;Land area;2017;10856000;Fm;Manual Estimation
+27;Bulgaria;6663;Forestry;2014;3805800;Fm;Manual Estimation
+27;Bulgaria;6663;Forestry;2016;3823000;Fm;Manual Estimation
+27;Bulgaria;6663;Forestry;2017;3823000;Fm;Manual Estimation
+27;Bulgaria;6646;Forest land;2014;3805800;Fm;Manual Estimation
+27;Bulgaria;6646;Forest land;2016;3823000;Fm;Manual Estimation
+27;Bulgaria;6646;Forest land;2017;3823000;Fm;Manual Estimation
+27;Bulgaria;6714;Primary Forest;2014;597000;Fm;Manual Estimation
+27;Bulgaria;6714;Primary Forest;2015;597000;Fm;Manual Estimation
+27;Bulgaria;6714;Primary Forest;2016;597000;Fm;Manual Estimation
+27;Bulgaria;6714;Primary Forest;2017;597000;Fm;Manual Estimation
+27;Bulgaria;6717;Other naturally regenerated forest;2014;2391800;Fm;Manual Estimation
+27;Bulgaria;6717;Other naturally regenerated forest;2015;2409000;Fm;Manual Estimation
+27;Bulgaria;6717;Other naturally regenerated forest;2016;2409000;Fm;Manual Estimation
+27;Bulgaria;6717;Other naturally regenerated forest;2017;2409000;Fm;Manual Estimation
+27;Bulgaria;6716;Planted Forest;2014;817000;Fm;Manual Estimation
+27;Bulgaria;6716;Planted Forest;2015;817000;Fm;Manual Estimation
+27;Bulgaria;6716;Planted Forest;2016;817000;Fm;Manual Estimation
+27;Bulgaria;6716;Planted Forest;2017;817000;Fm;Manual Estimation
+27;Bulgaria;6680;Inland waters;2014;244000;Fm;Manual Estimation
+27;Bulgaria;6680;Inland waters;2015;244000;Fm;Manual Estimation
+27;Bulgaria;6680;Inland waters;2016;244000;Fm;Manual Estimation
+27;Bulgaria;6680;Inland waters;2017;244000;Fm;Manual Estimation
+27;Bulgaria;6690;Land area equipped for irrigation;2014;115000;Fm;Manual Estimation
+27;Bulgaria;6690;Land area equipped for irrigation;2015;115000;Fm;Manual Estimation
+27;Bulgaria;6690;Land area equipped for irrigation;2016;115000;Fm;Manual Estimation
+27;Bulgaria;6690;Land area equipped for irrigation;2017;115000;Fm;Manual Estimation
+27;Bulgaria;6600;Country area;2014;11100000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6600;Country area;2015;11100000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6600;Country area;2016;11100000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6600;Country area;2017;11100000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6610;Agricultural land;2016;5021000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6610;Agricultural land;2017;5029520;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6620;Cropland;2014;3613000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6620;Cropland;2015;3643200;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6620;Cropland;2016;3637000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6620;Cropland;2017;3637170;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6621;Arable land;2014;3486000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6621;Arable land;2015;3509700;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6621;Arable land;2016;3496000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6621;Arable land;2017;3489080;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6630;Land under temporary crops;2014;3306000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6630;Land under temporary crops;2015;3179800;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6630;Land under temporary crops;2016;3195000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6630;Land under temporary crops;2017;3211130;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6633;Land under temp, meadows and pastures;2014;88000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6633;Land under temp, meadows and pastures;2015;94700;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6633;Land under temp, meadows and pastures;2016;109000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6633;Land under temp, meadows and pastures;2017;117950;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6640;Land with temporary fallow;2014;92000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6640;Land with temporary fallow;2015;235200;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6640;Land with temporary fallow;2016;192000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6640;Land with temporary fallow;2017;160000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6650;Land under permanent crops;2014;127000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6650;Land under permanent crops;2015;133500;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6650;Land under permanent crops;2016;141000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6650;Land under permanent crops;2017;148090;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6655;Land under perm, meadows and pastures;2014;1364000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6655;Land under perm, meadows and pastures;2015;1368700;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6655;Land under perm, meadows and pastures;2016;1384000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6655;Land under perm, meadows and pastures;2017;1392350;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6663;Forestry;2015;3823000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6646;Forest land;2015;3823000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6611;Agriculture area actually irrigated;2016;92899;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6694;Cropland area actually irrigated;2016;91188;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6657;Perm, meadows & pastures area actually irrig,;2016;1710;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6671;Agriculture area under organic agric,;2014;74300;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6671;Agriculture area under organic agric,;2015;118800;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6671;Agriculture area under organic agric,;2016;160600;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6671;Agriculture area under organic agric,;2017;136600;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6672;Agriculture area certified organic;2014;20900;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6672;Agriculture area certified organic;2015;96000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6672;Agriculture area certified organic;2016;36100;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6672;Agriculture area certified organic;2017;48400;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6668;Cropland area under organic agric,;2016;121900;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6668;Cropland area under organic agric,;2017;96700;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6669;Cropland area certified organic;2016;30310;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6669;Cropland area certified organic;2017;35000;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6681;Perm, meadows & pastures area under organic agric,;2015;31800;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6681;Perm, meadows & pastures area under organic agric,;2016;38700;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6681;Perm, meadows & pastures area under organic agric,;2017;39900;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6682;Perm, meadows & pastures area certified organic;2015;28400;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6682;Perm, meadows & pastures area certified organic;2016;5800;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6682;Perm, meadows & pastures area certified organic;2017;13400;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6664;Cropland area under conventional tillage;2016;1790777;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6665;Cropland area under conservation tillage;2016;1336894;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6666;Cropland area under zero or no tillage;2016;4845;Q;Official data reported on FAO Questionnaires from countries
+27;Bulgaria;6775;Farm buildings & farmyards;2016;16405;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6670;Other land;2014;1541000;Fc;Calculated data
+167;Czechia;6670;Other land;2015;1560000;Fc;Calculated data
+167;Czechia;6670;Other land;2016;1566000;Fc;Calculated data
+167;Czechia;6670;Other land;2017;1533000;Fc;Calculated data
+167;Czechia;6663;Forestry;2014;2665000;Fm;Manual Estimation
+167;Czechia;6663;Forestry;2016;2667000;Fm;Manual Estimation
+167;Czechia;6663;Forestry;2017;2667000;Fm;Manual Estimation
+167;Czechia;6646;Forest land;2014;2665000;Fm;Manual Estimation
+167;Czechia;6646;Forest land;2016;2667000;Fm;Manual Estimation
+167;Czechia;6646;Forest land;2017;2667000;Fm;Manual Estimation
+167;Czechia;6714;Primary Forest;2014;10000;Fm;Manual Estimation
+167;Czechia;6714;Primary Forest;2016;10000;Fm;Manual Estimation
+167;Czechia;6714;Primary Forest;2017;10000;Fm;Manual Estimation
+167;Czechia;6717;Other naturally regenerated forest;2014;13580;Fm;Manual Estimation
+167;Czechia;6717;Other naturally regenerated forest;2015;13700;Fm;Manual Estimation
+167;Czechia;6717;Other naturally regenerated forest;2016;13700;Fm;Manual Estimation
+167;Czechia;6717;Other naturally regenerated forest;2017;13700;Fm;Manual Estimation
+167;Czechia;6716;Planted Forest;2014;2641420;Fm;Manual Estimation
+167;Czechia;6716;Planted Forest;2016;2643300;Fm;Manual Estimation
+167;Czechia;6716;Planted Forest;2017;2643300;Fm;Manual Estimation
+167;Czechia;6600;Country area;2014;7887000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6600;Country area;2015;7887000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6600;Country area;2016;7887000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6600;Country area;2017;7887000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6601;Land area;2014;7722000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6601;Land area;2015;7721000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6601;Land area;2016;7722000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6601;Land area;2017;7721000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6602;Agriculture;2014;3516000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6602;Agriculture;2015;3494000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6602;Agriculture;2016;3489000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6602;Agriculture;2017;3521000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6610;Agricultural land;2014;3516000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6610;Agricultural land;2015;3494000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6610;Agricultural land;2016;3489000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6610;Agricultural land;2017;3521000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6620;Cropland;2014;2535000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6620;Cropland;2015;2536000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6620;Cropland;2016;2540000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6620;Cropland;2017;2543000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6621;Arable land;2014;2489000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6621;Arable land;2015;2493000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6621;Arable land;2016;2494000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6621;Arable land;2017;2498000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6630;Land under temporary crops;2014;2433000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6630;Land under temporary crops;2015;2420000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6630;Land under temporary crops;2016;2428000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6630;Land under temporary crops;2017;2437000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6633;Land under temp, meadows and pastures;2014;34000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6633;Land under temp, meadows and pastures;2015;38000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6633;Land under temp, meadows and pastures;2016;36000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6633;Land under temp, meadows and pastures;2017;34000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6640;Land with temporary fallow;2014;22000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6640;Land with temporary fallow;2015;35000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6640;Land with temporary fallow;2016;30000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6640;Land with temporary fallow;2017;26000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6650;Land under permanent crops;2014;46000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6650;Land under permanent crops;2015;43000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6650;Land under permanent crops;2016;46000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6650;Land under permanent crops;2017;45000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6655;Land under perm, meadows and pastures;2014;981000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6655;Land under perm, meadows and pastures;2015;958000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6655;Land under perm, meadows and pastures;2016;949000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6655;Land under perm, meadows and pastures;2017;978000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6663;Forestry;2015;2667000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6646;Forest land;2015;2667000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6714;Primary Forest;2015;10000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6716;Planted Forest;2015;2643300;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6680;Inland waters;2014;165000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6680;Inland waters;2015;165000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6680;Inland waters;2016;166000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6680;Inland waters;2017;166000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6773;Coastal waters;2014;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6773;Coastal waters;2015;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6773;Coastal waters;2016;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6773;Coastal waters;2017;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6643;Exclusive Economic Zone (EEZ);2014;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6643;Exclusive Economic Zone (EEZ);2015;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6643;Exclusive Economic Zone (EEZ);2016;0;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6690;Land area equipped for irrigation;2014;34000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6690;Land area equipped for irrigation;2015;34000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6690;Land area equipped for irrigation;2016;46000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6690;Land area equipped for irrigation;2017;46000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6611;Agriculture area actually irrigated;2014;18000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6611;Agriculture area actually irrigated;2015;18000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6611;Agriculture area actually irrigated;2016;25000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6611;Agriculture area actually irrigated;2017;25000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6671;Agriculture area under organic agric,;2014;477000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6671;Agriculture area under organic agric,;2015;483000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6671;Agriculture area under organic agric,;2016;491000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6671;Agriculture area under organic agric,;2017;505000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6672;Agriculture area certified organic;2014;456000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6672;Agriculture area certified organic;2015;432000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6672;Agriculture area certified organic;2016;429000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6672;Agriculture area certified organic;2017;459000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6668;Cropland area under organic agric,;2014;65000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6668;Cropland area under organic agric,;2015;74000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6668;Cropland area under organic agric,;2016;73000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6668;Cropland area under organic agric,;2017;77000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6669;Cropland area certified organic;2014;59000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6669;Cropland area certified organic;2015;61000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6669;Cropland area certified organic;2016;57000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6669;Cropland area certified organic;2017;62000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6681;Perm, meadows & pastures area under organic agric,;2014;412000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6681;Perm, meadows & pastures area under organic agric,;2015;409000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6681;Perm, meadows & pastures area under organic agric,;2016;418000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6681;Perm, meadows & pastures area under organic agric,;2017;428000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6682;Perm, meadows & pastures area certified organic;2014;396000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6682;Perm, meadows & pastures area certified organic;2015;371000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6682;Perm, meadows & pastures area certified organic;2016;371000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6682;Perm, meadows & pastures area certified organic;2017;397000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6664;Cropland area under conventional tillage;2016;1605000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6664;Cropland area under conventional tillage;2017;1605000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6665;Cropland area under conservation tillage;2016;775000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6665;Cropland area under conservation tillage;2017;755000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6666;Cropland area under zero or no tillage;2016;33000;Q;Official data reported on FAO Questionnaires from countries
+167;Czechia;6666;Cropland area under zero or no tillage;2017;33000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6670;Other land;2014;5140000;Fc;Calculated data
+79;Germany;6670;Other land;2015;5043000;Fc;Calculated data
+79;Germany;6670;Other land;2016;5175000;Fc;Calculated data
+79;Germany;6670;Other land;2017;5421000;Fc;Calculated data
+79;Germany;6671;Agriculture area under organic agric,;2014;1048000;W;Data reported on country official publications or web sites (Official) or trade country files
+79;Germany;6663;Forestry;2014;11417000;Fm;Manual Estimation
+79;Germany;6663;Forestry;2016;11419000;Fm;Manual Estimation
+79;Germany;6663;Forestry;2017;11419000;Fm;Manual Estimation
+79;Germany;6646;Forest land;2014;11417000;Fm;Manual Estimation
+79;Germany;6646;Forest land;2016;11419000;Fm;Manual Estimation
+79;Germany;6646;Forest land;2017;11419000;Fm;Manual Estimation
+79;Germany;6714;Primary Forest;2014;0;Fm;Manual Estimation
+79;Germany;6714;Primary Forest;2016;0;Fm;Manual Estimation
+79;Germany;6714;Primary Forest;2017;0;Fm;Manual Estimation
+79;Germany;6717;Other naturally regenerated forest;2014;6123000;Fm;Manual Estimation
+79;Germany;6717;Other naturally regenerated forest;2016;6124000;Fm;Manual Estimation
+79;Germany;6717;Other naturally regenerated forest;2017;6124000;Fm;Manual Estimation
+79;Germany;6716;Planted Forest;2014;5294000;Fm;Manual Estimation
+79;Germany;6716;Planted Forest;2016;5295000;Fm;Manual Estimation
+79;Germany;6716;Planted Forest;2017;5295000;Fm;Manual Estimation
+79;Germany;6690;Land area equipped for irrigation;2014;686000;Fm;Manual Estimation
+79;Germany;6690;Land area equipped for irrigation;2015;680000;Fm;Manual Estimation
+79;Germany;6690;Land area equipped for irrigation;2017;676400;Fm;Manual Estimation
+79;Germany;6600;Country area;2014;35738000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6600;Country area;2015;35740900;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6600;Country area;2016;35758000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6600;Country area;2017;35758000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6601;Land area;2014;34890000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6601;Land area;2015;34886000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6601;Land area;2016;34936000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6601;Land area;2017;34937000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6602;Agriculture;2014;18333000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6602;Agriculture;2015;18424000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6602;Agriculture;2016;18342000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6602;Agriculture;2017;18097000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6610;Agricultural land;2014;16725000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6610;Agricultural land;2015;16731000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6610;Agricultural land;2016;16657000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6610;Agricultural land;2017;16687000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6620;Cropland;2014;12072000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6620;Cropland;2015;12051000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6620;Cropland;2016;11962000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6620;Cropland;2017;11971000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6621;Arable land;2014;11869000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6621;Arable land;2015;11846000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6621;Arable land;2016;11762000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6621;Arable land;2017;11772000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6630;Land under temporary crops;2014;8823000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6630;Land under temporary crops;2015;8790000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6630;Land under temporary crops;2016;8662000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6630;Land under temporary crops;2017;8700000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6633;Land under temp, meadows and pastures;2014;2857000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6633;Land under temp, meadows and pastures;2015;2746000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6633;Land under temp, meadows and pastures;2016;2790000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6633;Land under temp, meadows and pastures;2017;2754000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6640;Land with temporary fallow;2014;189000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6640;Land with temporary fallow;2015;310000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6640;Land with temporary fallow;2016;310000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6640;Land with temporary fallow;2017;318000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6650;Land under permanent crops;2014;203000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6650;Land under permanent crops;2015;205000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6650;Land under permanent crops;2016;200000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6650;Land under permanent crops;2017;199000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6655;Land under perm, meadows and pastures;2014;4651000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6655;Land under perm, meadows and pastures;2015;4677000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6655;Land under perm, meadows and pastures;2016;4694000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6655;Land under perm, meadows and pastures;2017;4715000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6649;Land under protective cover;2014;4000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6649;Land under protective cover;2015;4000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6649;Land under protective cover;2016;4000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6663;Forestry;2015;11419000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6646;Forest land;2015;11419000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6714;Primary Forest;2015;0;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6717;Other naturally regenerated forest;2015;6124000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6716;Planted Forest;2015;5295000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6680;Inland waters;2014;848000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6680;Inland waters;2015;855000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6680;Inland waters;2016;789000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6680;Inland waters;2017;788000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6690;Land area equipped for irrigation;2016;676400;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6611;Agriculture area actually irrigated;2016;451800;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6671;Agriculture area under organic agric,;2015;1088800;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6671;Agriculture area under organic agric,;2016;1135500;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6671;Agriculture area under organic agric,;2017;1138300;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6668;Cropland area under organic agric,;2016;496400;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6668;Cropland area under organic agric,;2017;483900;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6681;Perm, meadows & pastures area under organic agric,;2016;639000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6681;Perm, meadows & pastures area under organic agric,;2017;636000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6664;Cropland area under conventional tillage;2016;6313100;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6665;Cropland area under conservation tillage;2016;4717900;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6666;Cropland area under zero or no tillage;2016;93900;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6775;Farm buildings & farmyards;2016;275000;Q;Official data reported on FAO Questionnaires from countries
+79;Germany;6775;Farm buildings & farmyards;2017;244000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6670;Other land;2014;1496600;Fc;Calculated data
+97;Hungary;6670;Other land;2015;1475000;Fc;Calculated data
+97;Hungary;6670;Other land;2016;1497000;Fc;Calculated data
+97;Hungary;6670;Other land;2017;1493000;Fc;Calculated data
+97;Hungary;6663;Forestry;2014;2064400;Fm;Manual Estimation
+97;Hungary;6663;Forestry;2016;2069000;Fm;Manual Estimation
+97;Hungary;6663;Forestry;2017;2069000;Fm;Manual Estimation
+97;Hungary;6646;Forest land;2014;2064400;Fm;Manual Estimation
+97;Hungary;6646;Forest land;2016;2069000;Fm;Manual Estimation
+97;Hungary;6646;Forest land;2017;2069000;Fm;Manual Estimation
+97;Hungary;6714;Primary Forest;2014;0;Fm;Manual Estimation
+97;Hungary;6714;Primary Forest;2016;0;Fm;Manual Estimation
+97;Hungary;6714;Primary Forest;2017;0;Fm;Manual Estimation
+97;Hungary;6717;Other naturally regenerated forest;2014;417000;Fm;Manual Estimation
+97;Hungary;6717;Other naturally regenerated forest;2016;417000;Fm;Manual Estimation
+97;Hungary;6717;Other naturally regenerated forest;2017;417000;Fm;Manual Estimation
+97;Hungary;6716;Planted Forest;2014;1647400;Fm;Manual Estimation
+97;Hungary;6716;Planted Forest;2016;1652000;Fm;Manual Estimation
+97;Hungary;6716;Planted Forest;2017;1652000;Fm;Manual Estimation
+97;Hungary;6690;Land area equipped for irrigation;2015;207000;Fm;Manual Estimation
+97;Hungary;6690;Land area equipped for irrigation;2017;230000;Fm;Manual Estimation
+97;Hungary;6600;Country area;2014;9303000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6600;Country area;2015;9303000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6600;Country area;2016;9303000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6600;Country area;2017;9303000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6601;Land area;2014;9126000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6601;Land area;2015;9126000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6601;Land area;2016;9126000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6601;Land area;2017;9126000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6602;Agriculture;2014;5565000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6602;Agriculture;2015;5582000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6602;Agriculture;2016;5560000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6602;Agriculture;2017;5564000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6610;Agricultural land;2014;5264000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6610;Agricultural land;2015;5264000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6610;Agricultural land;2016;5282000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6610;Agricultural land;2017;5303000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6620;Cropland;2014;4503000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6620;Cropland;2015;4503000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6620;Cropland;2016;4499000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6620;Cropland;2017;4499000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6621;Arable land;2014;4322000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6621;Arable land;2015;4324000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6621;Arable land;2016;4323000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6621;Arable land;2017;4323000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6630;Land under temporary crops;2014;4235000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6630;Land under temporary crops;2015;4173000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6630;Land under temporary crops;2016;4147000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6630;Land under temporary crops;2017;4077000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6633;Land under temp, meadows and pastures;2014;15000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6633;Land under temp, meadows and pastures;2015;20000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6633;Land under temp, meadows and pastures;2016;29000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6633;Land under temp, meadows and pastures;2017;57000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6640;Land with temporary fallow;2014;72000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6640;Land with temporary fallow;2015;131000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6640;Land with temporary fallow;2016;147000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6640;Land with temporary fallow;2017;189000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6650;Land under permanent crops;2014;181000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6650;Land under permanent crops;2015;179000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6650;Land under permanent crops;2016;176000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6650;Land under permanent crops;2017;176000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6655;Land under perm, meadows and pastures;2014;761000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6655;Land under perm, meadows and pastures;2015;761000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6655;Land under perm, meadows and pastures;2016;783000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6655;Land under perm, meadows and pastures;2017;804000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6656;Perm, meadows & pastures - Cultivated;2014;85000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6656;Perm, meadows & pastures - Cultivated;2015;87000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6656;Perm, meadows & pastures - Cultivated;2016;71000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6659;Perm, meadows & pastures - Nat, growing;2014;676000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6659;Perm, meadows & pastures - Nat, growing;2015;674000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6659;Perm, meadows & pastures - Nat, growing;2016;712000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6649;Land under protective cover;2014;301000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6649;Land under protective cover;2015;318000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6649;Land under protective cover;2016;278000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6649;Land under protective cover;2017;261000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6663;Forestry;2015;2069000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6646;Forest land;2015;2069000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6714;Primary Forest;2015;0;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6717;Other naturally regenerated forest;2015;417000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6716;Planted Forest;2015;1652000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6680;Inland waters;2014;177000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6680;Inland waters;2015;177000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6680;Inland waters;2016;177000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6680;Inland waters;2017;177000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6690;Land area equipped for irrigation;2014;184800;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6690;Land area equipped for irrigation;2016;230000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6611;Agriculture area actually irrigated;2014;99320;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6611;Agriculture area actually irrigated;2015;124300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6611;Agriculture area actually irrigated;2016;97700;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6611;Agriculture area actually irrigated;2017;101400;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6694;Cropland area actually irrigated;2014;99300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6694;Cropland area actually irrigated;2016;97500;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6694;Cropland area actually irrigated;2017;101300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6657;Perm, meadows & pastures area actually irrig,;2014;20;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6657;Perm, meadows & pastures area actually irrig,;2016;200;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6657;Perm, meadows & pastures area actually irrig,;2017;100;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6671;Agriculture area under organic agric,;2014;124500;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6671;Agriculture area under organic agric,;2015;129700;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6671;Agriculture area under organic agric,;2016;186300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6671;Agriculture area under organic agric,;2017;199700;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6672;Agriculture area certified organic;2014;111000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6672;Agriculture area certified organic;2015;94100;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6672;Agriculture area certified organic;2016;91300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6672;Agriculture area certified organic;2017;104500;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6668;Cropland area under organic agric,;2014;61200;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6668;Cropland area under organic agric,;2015;65000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6668;Cropland area under organic agric,;2016;81400;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6668;Cropland area under organic agric,;2017;90500;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6669;Cropland area certified organic;2014;54900;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6669;Cropland area certified organic;2015;47100;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6669;Cropland area certified organic;2016;34000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6669;Cropland area certified organic;2017;52300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6681;Perm, meadows & pastures area under organic agric,;2014;63600;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6681;Perm, meadows & pastures area under organic agric,;2015;64700;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6681;Perm, meadows & pastures area under organic agric,;2016;104900;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6681;Perm, meadows & pastures area under organic agric,;2017;109200;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6682;Perm, meadows & pastures area certified organic;2014;56300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6682;Perm, meadows & pastures area certified organic;2015;47000;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6682;Perm, meadows & pastures area certified organic;2016;57300;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6682;Perm, meadows & pastures area certified organic;2017;52100;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6664;Cropland area under conventional tillage;2016;3256600;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6665;Cropland area under conservation tillage;2016;356800;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6666;Cropland area under zero or no tillage;2016;37900;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6775;Farm buildings & farmyards;2014;218700;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6775;Farm buildings & farmyards;2015;235900;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6775;Farm buildings & farmyards;2016;211200;Q;Official data reported on FAO Questionnaires from countries
+97;Hungary;6775;Farm buildings & farmyards;2017;211900;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6602;Agriculture;2014;230320;Fc;Calculated data
+273;Montenegro;6602;Agriculture;2015;231400;Fc;Calculated data
+273;Montenegro;6602;Agriculture;2016;255700;Fc;Calculated data
+273;Montenegro;6602;Agriculture;2017;256300;Fc;Calculated data
+273;Montenegro;6670;Other land;2014;287680;Fc;Calculated data
+273;Montenegro;6670;Other land;2015;286600;Fc;Calculated data
+273;Montenegro;6670;Other land;2016;262300;Fc;Calculated data
+273;Montenegro;6670;Other land;2017;261700;Fc;Calculated data
+273;Montenegro;6671;Agriculture area under organic agric,;2014;3300;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6671;Agriculture area under organic agric,;2015;3300;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6671;Agriculture area under organic agric,;2016;3500;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6671;Agriculture area under organic agric,;2017;2700;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6672;Agriculture area certified organic;2016;3100;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6672;Agriculture area certified organic;2017;1700;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6668;Cropland area under organic agric,;2017;700;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6669;Cropland area certified organic;2017;200;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6681;Perm, meadows & pastures area under organic agric,;2017;2000;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6682;Perm, meadows & pastures area certified organic;2017;1500;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+273;Montenegro;6601;Land area;2014;1345000;Fm;Manual Estimation
+273;Montenegro;6601;Land area;2015;1345000;Fm;Manual Estimation
+273;Montenegro;6601;Land area;2016;1345000;Fm;Manual Estimation
+273;Montenegro;6601;Land area;2017;1345000;Fm;Manual Estimation
+273;Montenegro;6663;Forestry;2014;827000;Fm;Manual Estimation
+273;Montenegro;6663;Forestry;2016;827000;Fm;Manual Estimation
+273;Montenegro;6663;Forestry;2017;827000;Fm;Manual Estimation
+273;Montenegro;6646;Forest land;2014;827000;Fm;Manual Estimation
+273;Montenegro;6646;Forest land;2016;827000;Fm;Manual Estimation
+273;Montenegro;6646;Forest land;2017;827000;Fm;Manual Estimation
+273;Montenegro;6714;Primary Forest;2014;109000;Fm;Manual Estimation
+273;Montenegro;6714;Primary Forest;2016;109000;Fm;Manual Estimation
+273;Montenegro;6714;Primary Forest;2017;109000;Fm;Manual Estimation
+273;Montenegro;6717;Other naturally regenerated forest;2014;710000;Fm;Manual Estimation
+273;Montenegro;6717;Other naturally regenerated forest;2016;710000;Fm;Manual Estimation
+273;Montenegro;6717;Other naturally regenerated forest;2017;710000;Fm;Manual Estimation
+273;Montenegro;6716;Planted Forest;2014;8000;Fm;Manual Estimation
+273;Montenegro;6716;Planted Forest;2016;8000;Fm;Manual Estimation
+273;Montenegro;6716;Planted Forest;2017;8000;Fm;Manual Estimation
+273;Montenegro;6680;Inland waters;2014;36000;Fm;Manual Estimation
+273;Montenegro;6680;Inland waters;2015;36000;Fm;Manual Estimation
+273;Montenegro;6680;Inland waters;2016;36000;Fm;Manual Estimation
+273;Montenegro;6680;Inland waters;2017;36000;Fm;Manual Estimation
+273;Montenegro;6600;Country area;2014;1381000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6600;Country area;2015;1381000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6600;Country area;2016;1381000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6600;Country area;2017;1381000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6610;Agricultural land;2014;230320;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6610;Agricultural land;2015;231400;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6610;Agricultural land;2016;255700;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6610;Agricultural land;2017;256300;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6620;Cropland;2014;13740;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6620;Cropland;2015;13800;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6620;Cropland;2016;14400;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6620;Cropland;2017;14600;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6621;Arable land;2014;8730;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6621;Arable land;2015;8700;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6621;Arable land;2016;9000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6621;Arable land;2017;9200;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6630;Land under temporary crops;2014;7250;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6633;Land under temp, meadows and pastures;2014;1420;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6640;Land with temporary fallow;2014;60;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6650;Land under permanent crops;2014;5010;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6650;Land under permanent crops;2015;5100;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6650;Land under permanent crops;2016;5400;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6650;Land under permanent crops;2017;5400;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6655;Land under perm, meadows and pastures;2014;216580;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6655;Land under perm, meadows and pastures;2015;217600;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6655;Land under perm, meadows and pastures;2016;241300;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6655;Land under perm, meadows and pastures;2017;241700;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6656;Perm, meadows & pastures - Cultivated;2014;216580;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6656;Perm, meadows & pastures - Cultivated;2015;217600;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6656;Perm, meadows & pastures - Cultivated;2016;241300;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6656;Perm, meadows & pastures - Cultivated;2017;241700;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6663;Forestry;2015;827000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6646;Forest land;2015;827000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6714;Primary Forest;2015;109000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6717;Other naturally regenerated forest;2015;710000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6716;Planted Forest;2015;8000;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6690;Land area equipped for irrigation;2014;2320;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6690;Land area equipped for irrigation;2015;2350;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6690;Land area equipped for irrigation;2016;2350;Q;Official data reported on FAO Questionnaires from countries
+273;Montenegro;6690;Land area equipped for irrigation;2017;2350;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6602;Agriculture;2014;14424000;Fc;Calculated data
+173;Poland;6602;Agriculture;2015;14371000;Fc;Calculated data
+173;Poland;6602;Agriculture;2016;14374000;Fc;Calculated data
+173;Poland;6602;Agriculture;2017;14462000;Fc;Calculated data
+173;Poland;6670;Other land;2014;6781200;Fc;Calculated data
+173;Poland;6670;Other land;2015;6813000;Fc;Calculated data
+173;Poland;6670;Other land;2016;6810000;Fc;Calculated data
+173;Poland;6670;Other land;2017;6722000;Fc;Calculated data
+173;Poland;6668;Cropland area under organic agric,;2015;422746;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6668;Cropland area under organic agric,;2016;399081;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6669;Cropland area certified organic;2015;73619;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6669;Cropland area certified organic;2016;92701;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6681;Perm, meadows & pastures area under organic agric,;2015;158000;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6681;Perm, meadows & pastures area under organic agric,;2016;137000;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6682;Perm, meadows & pastures area certified organic;2015;139000;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6682;Perm, meadows & pastures area certified organic;2016;116000;W;Data reported on country official publications or web sites (Official) or trade country files
+173;Poland;6663;Forestry;2014;9413800;Fm;Manual Estimation
+173;Poland;6663;Forestry;2016;9435000;Fm;Manual Estimation
+173;Poland;6663;Forestry;2017;9435000;Fm;Manual Estimation
+173;Poland;6646;Forest land;2014;9413800;Fm;Manual Estimation
+173;Poland;6646;Forest land;2016;9435000;Fm;Manual Estimation
+173;Poland;6646;Forest land;2017;9435000;Fm;Manual Estimation
+173;Poland;6714;Primary Forest;2014;58400;Fm;Manual Estimation
+173;Poland;6714;Primary Forest;2016;59000;Fm;Manual Estimation
+173;Poland;6714;Primary Forest;2017;59000;Fm;Manual Estimation
+173;Poland;6717;Other naturally regenerated forest;2014;414400;Fm;Manual Estimation
+173;Poland;6717;Other naturally regenerated forest;2016;419000;Fm;Manual Estimation
+173;Poland;6717;Other naturally regenerated forest;2017;419000;Fm;Manual Estimation
+173;Poland;6716;Planted Forest;2014;8941000;Fm;Manual Estimation
+173;Poland;6716;Planted Forest;2016;8957000;Fm;Manual Estimation
+173;Poland;6716;Planted Forest;2017;8957000;Fm;Manual Estimation
+173;Poland;6690;Land area equipped for irrigation;2014;140000;Fm;Manual Estimation
+173;Poland;6690;Land area equipped for irrigation;2015;205000;Fm;Manual Estimation
+173;Poland;6690;Land area equipped for irrigation;2017;271000;Fm;Manual Estimation
+173;Poland;6600;Country area;2014;31268000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6600;Country area;2015;31268000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6600;Country area;2016;31268000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6600;Country area;2017;31268000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6601;Land area;2014;30619000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6601;Land area;2015;30619000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6601;Land area;2016;30619000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6601;Land area;2017;30619000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6610;Agricultural land;2014;14424000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6610;Agricultural land;2015;14371000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6610;Agricultural land;2016;14374000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6610;Agricultural land;2017;14462000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6620;Cropland;2014;11304000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6620;Cropland;2015;11278000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6620;Cropland;2016;11199000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6620;Cropland;2017;11291000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6621;Arable land;2014;10928000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6621;Arable land;2015;10887000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6621;Arable land;2016;10806000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6621;Arable land;2017;10907000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6630;Land under temporary crops;2014;10453000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6630;Land under temporary crops;2015;10753000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6630;Land under temporary crops;2016;10640000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6630;Land under temporary crops;2017;10757000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6640;Land with temporary fallow;2014;475000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6640;Land with temporary fallow;2015;134000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6640;Land with temporary fallow;2016;166000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6640;Land with temporary fallow;2017;150000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6650;Land under permanent crops;2014;376000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6650;Land under permanent crops;2015;391000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6650;Land under permanent crops;2016;393000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6650;Land under permanent crops;2017;384000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6655;Land under perm, meadows and pastures;2014;3120000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6655;Land under perm, meadows and pastures;2015;3093000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6655;Land under perm, meadows and pastures;2016;3175000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6655;Land under perm, meadows and pastures;2017;3171000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6656;Perm, meadows & pastures - Cultivated;2014;3120000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6656;Perm, meadows & pastures - Cultivated;2015;2658000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6656;Perm, meadows & pastures - Cultivated;2016;2908000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6656;Perm, meadows & pastures - Cultivated;2017;2986000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6659;Perm, meadows & pastures - Nat, growing;2015;435000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6659;Perm, meadows & pastures - Nat, growing;2016;267000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6659;Perm, meadows & pastures - Nat, growing;2017;185000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6663;Forestry;2015;9435000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6646;Forest land;2015;9435000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6714;Primary Forest;2015;59000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6717;Other naturally regenerated forest;2015;419000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6716;Planted Forest;2015;8957000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6680;Inland waters;2014;649000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6680;Inland waters;2015;649000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6680;Inland waters;2016;649000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6680;Inland waters;2017;651000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6690;Land area equipped for irrigation;2016;271000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6611;Agriculture area actually irrigated;2016;132700;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6671;Agriculture area under organic agric,;2014;658000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6671;Agriculture area under organic agric,;2015;580700;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6671;Agriculture area under organic agric,;2016;536600;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6671;Agriculture area under organic agric,;2017;495000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6672;Agriculture area certified organic;2014;556000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6672;Agriculture area certified organic;2015;501900;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6672;Agriculture area certified organic;2016;430900;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6672;Agriculture area certified organic;2017;383200;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6668;Cropland area under organic agric,;2014;450800;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6669;Cropland area certified organic;2014;375900;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6681;Perm, meadows & pastures area under organic agric,;2014;207000;Q;Official data reported on FAO Questionnaires from countries
+173;Poland;6682;Perm, meadows & pastures area certified organic;2014;180000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6602;Agriculture;2014;2333000;Fc;Calculated data
+146;Republic of Moldova;6602;Agriculture;2015;2336000;Fc;Calculated data
+146;Republic of Moldova;6602;Agriculture;2016;2335900;Fc;Calculated data
+146;Republic of Moldova;6602;Agriculture;2017;2335300;Fc;Calculated data
+146;Republic of Moldova;6670;Other land;2014;550600;Fc;Calculated data
+146;Republic of Moldova;6670;Other land;2015;543000;Fc;Calculated data
+146;Republic of Moldova;6670;Other land;2016;543100;Fc;Calculated data
+146;Republic of Moldova;6670;Other land;2017;544700;Fc;Calculated data
+146;Republic of Moldova;6671;Agriculture area under organic agric,;2014;22000;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6671;Agriculture area under organic agric,;2015;28700;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6671;Agriculture area under organic agric,;2016;30140;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6671;Agriculture area under organic agric,;2017;30140;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6672;Agriculture area certified organic;2016;21390;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6672;Agriculture area certified organic;2017;21390;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6668;Cropland area under organic agric,;2017;30140;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6669;Cropland area certified organic;2017;21390;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+146;Republic of Moldova;6655;Land under perm, meadows and pastures;2015;347000;W;Data reported on country official publications or web sites (Official) or trade country files
+146;Republic of Moldova;6655;Land under perm, meadows and pastures;2016;344900;W;Data reported on country official publications or web sites (Official) or trade country files
+146;Republic of Moldova;6655;Land under perm, meadows and pastures;2017;342300;W;Data reported on country official publications or web sites (Official) or trade country files
+146;Republic of Moldova;6659;Perm, meadows & pastures - Nat, growing;2015;347000;W;Data reported on country official publications or web sites (Official) or trade country files
+146;Republic of Moldova;6659;Perm, meadows & pastures - Nat, growing;2016;344900;W;Data reported on country official publications or web sites (Official) or trade country files
+146;Republic of Moldova;6659;Perm, meadows & pastures - Nat, growing;2017;342300;W;Data reported on country official publications or web sites (Official) or trade country files
+146;Republic of Moldova;6663;Forestry;2015;409000;E;Expert sources from FAO (including other divisions)
+146;Republic of Moldova;6646;Forest land;2015;409000;E;Expert sources from FAO (including other divisions)
+146;Republic of Moldova;6714;Primary Forest;2015;0;E;Expert sources from FAO (including other divisions)
+146;Republic of Moldova;6717;Other naturally regenerated forest;2015;407000;E;Expert sources from FAO (including other divisions)
+146;Republic of Moldova;6716;Planted Forest;2015;2000;E;Expert sources from FAO (including other divisions)
+146;Republic of Moldova;6663;Forestry;2014;404400;Fm;Manual Estimation
+146;Republic of Moldova;6663;Forestry;2016;409000;Fm;Manual Estimation
+146;Republic of Moldova;6663;Forestry;2017;409000;Fm;Manual Estimation
+146;Republic of Moldova;6646;Forest land;2014;404400;Fm;Manual Estimation
+146;Republic of Moldova;6646;Forest land;2016;409000;Fm;Manual Estimation
+146;Republic of Moldova;6646;Forest land;2017;409000;Fm;Manual Estimation
+146;Republic of Moldova;6714;Primary Forest;2014;0;Fm;Manual Estimation
+146;Republic of Moldova;6714;Primary Forest;2016;0;Fm;Manual Estimation
+146;Republic of Moldova;6714;Primary Forest;2017;0;Fm;Manual Estimation
+146;Republic of Moldova;6717;Other naturally regenerated forest;2014;402400;Fm;Manual Estimation
+146;Republic of Moldova;6717;Other naturally regenerated forest;2016;407000;Fm;Manual Estimation
+146;Republic of Moldova;6717;Other naturally regenerated forest;2017;407000;Fm;Manual Estimation
+146;Republic of Moldova;6716;Planted Forest;2014;2000;Fm;Manual Estimation
+146;Republic of Moldova;6716;Planted Forest;2016;2000;Fm;Manual Estimation
+146;Republic of Moldova;6716;Planted Forest;2017;2000;Fm;Manual Estimation
+146;Republic of Moldova;6600;Country area;2014;3385000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6600;Country area;2015;3385000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6600;Country area;2016;3385000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6600;Country area;2017;3385000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6601;Land area;2014;3288000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6601;Land area;2015;3288000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6601;Land area;2016;3288000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6601;Land area;2017;3289000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6610;Agricultural land;2014;2315000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6610;Agricultural land;2015;2318000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6610;Agricultural land;2016;2317900;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6610;Agricultural land;2017;2317300;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6620;Cropland;2014;1966000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6620;Cropland;2015;1971000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6620;Cropland;2016;1973000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6620;Cropland;2017;1975000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6621;Arable land;2014;1728000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6621;Arable land;2015;1733000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6621;Arable land;2016;1738000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6621;Arable land;2017;1738000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6630;Land under temporary crops;2014;1690000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6630;Land under temporary crops;2015;1696000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6630;Land under temporary crops;2016;1703000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6630;Land under temporary crops;2017;1710000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6640;Land with temporary fallow;2014;38000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6640;Land with temporary fallow;2015;37000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6640;Land with temporary fallow;2016;35000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6640;Land with temporary fallow;2017;28000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6650;Land under permanent crops;2014;238000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6650;Land under permanent crops;2015;238000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6650;Land under permanent crops;2016;235000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6650;Land under permanent crops;2017;237000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6655;Land under perm, meadows and pastures;2014;349000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6659;Perm, meadows & pastures - Nat, growing;2014;349000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6649;Land under protective cover;2014;18000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6649;Land under protective cover;2015;18000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6649;Land under protective cover;2016;18000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6649;Land under protective cover;2017;18000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6680;Inland waters;2014;97000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6680;Inland waters;2015;97000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6680;Inland waters;2016;97000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6680;Inland waters;2017;96000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6690;Land area equipped for irrigation;2014;228000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6690;Land area equipped for irrigation;2015;228000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6690;Land area equipped for irrigation;2016;228000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6690;Land area equipped for irrigation;2017;228000;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6611;Agriculture area actually irrigated;2014;227900;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6611;Agriculture area actually irrigated;2015;227900;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6611;Agriculture area actually irrigated;2016;227900;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6611;Agriculture area actually irrigated;2017;227900;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6694;Cropland area actually irrigated;2014;226500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6694;Cropland area actually irrigated;2015;226500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6694;Cropland area actually irrigated;2016;226500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6694;Cropland area actually irrigated;2017;226500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6657;Perm, meadows & pastures area actually irrig,;2014;1500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6657;Perm, meadows & pastures area actually irrig,;2015;1500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6657;Perm, meadows & pastures area actually irrig,;2016;1500;Q;Official data reported on FAO Questionnaires from countries
+146;Republic of Moldova;6657;Perm, meadows & pastures area actually irrig,;2017;1500;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6602;Agriculture;2014;13830000;Fc;Calculated data
+183;Romania;6602;Agriculture;2015;13858000;Fc;Calculated data
+183;Romania;6602;Agriculture;2016;13521000;Fc;Calculated data
+183;Romania;6602;Agriculture;2017;13378000;Fc;Calculated data
+183;Romania;6670;Other land;2014;2386200;Fc;Calculated data
+183;Romania;6670;Other land;2015;2289000;Fc;Calculated data
+183;Romania;6670;Other land;2016;2626000;Fc;Calculated data
+183;Romania;6670;Other land;2017;2769000;Fc;Calculated data
+183;Romania;6694;Cropland area actually irrigated;2014;145000;Fc;Calculated data
+183;Romania;6663;Forestry;2014;6791800;Fm;Manual Estimation
+183;Romania;6663;Forestry;2016;6861000;Fm;Manual Estimation
+183;Romania;6663;Forestry;2017;6861000;Fm;Manual Estimation
+183;Romania;6646;Forest land;2014;6791800;Fm;Manual Estimation
+183;Romania;6646;Forest land;2016;6861000;Fm;Manual Estimation
+183;Romania;6646;Forest land;2017;6861000;Fm;Manual Estimation
+183;Romania;6714;Primary Forest;2014;280200;Fm;Manual Estimation
+183;Romania;6714;Primary Forest;2016;283000;Fm;Manual Estimation
+183;Romania;6714;Primary Forest;2017;283000;Fm;Manual Estimation
+183;Romania;6717;Other naturally regenerated forest;2014;5948400;Fm;Manual Estimation
+183;Romania;6717;Other naturally regenerated forest;2016;6009000;Fm;Manual Estimation
+183;Romania;6717;Other naturally regenerated forest;2017;6009000;Fm;Manual Estimation
+183;Romania;6716;Planted Forest;2014;563200;Fm;Manual Estimation
+183;Romania;6716;Planted Forest;2016;569000;Fm;Manual Estimation
+183;Romania;6716;Planted Forest;2017;569000;Fm;Manual Estimation
+183;Romania;6600;Country area;2014;23840000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6600;Country area;2015;23840000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6600;Country area;2016;23840000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6600;Country area;2017;23840000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6601;Land area;2014;23008000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6601;Land area;2015;23008000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6601;Land area;2016;23008000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6601;Land area;2017;23008000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6610;Agricultural land;2014;13830000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6610;Agricultural land;2015;13858000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6610;Agricultural land;2016;13521000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6610;Agricultural land;2017;13378000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6620;Cropland;2014;9203000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6620;Cropland;2015;9203000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6620;Cropland;2016;9000000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6620;Cropland;2017;8958000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6621;Arable land;2014;8778000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6621;Arable land;2015;8778000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6621;Arable land;2016;8582000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6621;Arable land;2017;8543000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6630;Land under temporary crops;2014;7377000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6630;Land under temporary crops;2015;7412000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6630;Land under temporary crops;2016;7545000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6630;Land under temporary crops;2017;7432000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6633;Land under temp, meadows and pastures;2014;858000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6633;Land under temp, meadows and pastures;2015;853000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6633;Land under temp, meadows and pastures;2016;864000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6633;Land under temp, meadows and pastures;2017;875000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6640;Land with temporary fallow;2014;543000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6640;Land with temporary fallow;2015;513000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6640;Land with temporary fallow;2016;173000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6640;Land with temporary fallow;2017;236000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6650;Land under permanent crops;2014;425000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6650;Land under permanent crops;2015;425000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6650;Land under permanent crops;2016;418000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6650;Land under permanent crops;2017;415000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6655;Land under perm, meadows and pastures;2014;4627000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6655;Land under perm, meadows and pastures;2015;4655000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6655;Land under perm, meadows and pastures;2016;4521000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6655;Land under perm, meadows and pastures;2017;4420000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6656;Perm, meadows & pastures - Cultivated;2014;2776000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6659;Perm, meadows & pastures - Nat, growing;2014;1851000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6663;Forestry;2015;6861000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6646;Forest land;2015;6861000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6714;Primary Forest;2015;283000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6717;Other naturally regenerated forest;2015;6009000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6716;Planted Forest;2015;569000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6680;Inland waters;2014;831000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6680;Inland waters;2015;831000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6680;Inland waters;2016;831000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6680;Inland waters;2017;832000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6690;Land area equipped for irrigation;2014;3149000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6690;Land area equipped for irrigation;2015;3149000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6690;Land area equipped for irrigation;2016;3149000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6690;Land area equipped for irrigation;2017;3149000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6611;Agriculture area actually irrigated;2014;145000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6611;Agriculture area actually irrigated;2015;173000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6611;Agriculture area actually irrigated;2016;153000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6611;Agriculture area actually irrigated;2017;212000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6694;Cropland area actually irrigated;2015;173000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6694;Cropland area actually irrigated;2016;153000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6694;Cropland area actually irrigated;2017;210500;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6657;Perm, meadows & pastures area actually irrig,;2014;0;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6657;Perm, meadows & pastures area actually irrig,;2015;0;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6657;Perm, meadows & pastures area actually irrig,;2016;0;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6657;Perm, meadows & pastures area actually irrig,;2017;0;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6671;Agriculture area under organic agric,;2014;289300;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6671;Agriculture area under organic agric,;2015;245900;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6671;Agriculture area under organic agric,;2016;226300;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6671;Agriculture area under organic agric,;2017;258500;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6672;Agriculture area certified organic;2014;190500;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6672;Agriculture area certified organic;2015;175600;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6672;Agriculture area certified organic;2016;149600;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6672;Agriculture area certified organic;2017;149100;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6668;Cropland area under organic agric,;2014;193600;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6668;Cropland area under organic agric,;2015;170100;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6668;Cropland area under organic agric,;2016;168700;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6668;Cropland area under organic agric,;2017;207800;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6669;Cropland area certified organic;2014;123900;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6669;Cropland area certified organic;2015;116100;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6669;Cropland area certified organic;2016;106000;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6669;Cropland area certified organic;2017;116200;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6681;Perm, meadows & pastures area under organic agric,;2014;95700;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6681;Perm, meadows & pastures area under organic agric,;2015;75900;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6681;Perm, meadows & pastures area under organic agric,;2016;57600;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6681;Perm, meadows & pastures area under organic agric,;2017;50700;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6682;Perm, meadows & pastures area certified organic;2014;66600;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6682;Perm, meadows & pastures area certified organic;2015;59500;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6682;Perm, meadows & pastures area certified organic;2016;43600;Q;Official data reported on FAO Questionnaires from countries
+183;Romania;6682;Perm, meadows & pastures area certified organic;2017;33000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6602;Agriculture;2014;3506400;Fc;Calculated data
+272;Serbia;6602;Agriculture;2015;3481000;Fc;Calculated data
+272;Serbia;6602;Agriculture;2016;3456000;Fc;Calculated data
+272;Serbia;6602;Agriculture;2017;3419000;Fc;Calculated data
+272;Serbia;6670;Other land;2014;2521000;Fc;Calculated data
+272;Serbia;6670;Other land;2015;2545000;Fc;Calculated data
+272;Serbia;6670;Other land;2016;2570000;Fc;Calculated data
+272;Serbia;6670;Other land;2017;2607000;Fc;Calculated data
+272;Serbia;6671;Agriculture area under organic agric,;2017;13420;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+272;Serbia;6672;Agriculture area certified organic;2017;7530;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+272;Serbia;6601;Land area;2014;8746000;Fm;Manual Estimation
+272;Serbia;6601;Land area;2015;8746000;Fm;Manual Estimation
+272;Serbia;6601;Land area;2016;8746000;Fm;Manual Estimation
+272;Serbia;6601;Land area;2017;8746000;Fm;Manual Estimation
+272;Serbia;6663;Forestry;2014;2718600;Fm;Manual Estimation
+272;Serbia;6663;Forestry;2016;2720000;Fm;Manual Estimation
+272;Serbia;6663;Forestry;2017;2720000;Fm;Manual Estimation
+272;Serbia;6646;Forest land;2014;2718600;Fm;Manual Estimation
+272;Serbia;6646;Forest land;2016;2720000;Fm;Manual Estimation
+272;Serbia;6646;Forest land;2017;2720000;Fm;Manual Estimation
+272;Serbia;6714;Primary Forest;2014;1000;Fm;Manual Estimation
+272;Serbia;6714;Primary Forest;2016;1000;Fm;Manual Estimation
+272;Serbia;6714;Primary Forest;2017;1000;Fm;Manual Estimation
+272;Serbia;6717;Other naturally regenerated forest;2014;2509600;Fm;Manual Estimation
+272;Serbia;6717;Other naturally regenerated forest;2016;2504000;Fm;Manual Estimation
+272;Serbia;6717;Other naturally regenerated forest;2017;2504000;Fm;Manual Estimation
+272;Serbia;6716;Planted Forest;2014;208000;Fm;Manual Estimation
+272;Serbia;6716;Planted Forest;2016;215000;Fm;Manual Estimation
+272;Serbia;6716;Planted Forest;2017;215000;Fm;Manual Estimation
+272;Serbia;6680;Inland waters;2014;90000;Fm;Manual Estimation
+272;Serbia;6680;Inland waters;2015;90000;Fm;Manual Estimation
+272;Serbia;6680;Inland waters;2016;90000;Fm;Manual Estimation
+272;Serbia;6680;Inland waters;2017;90000;Fm;Manual Estimation
+272;Serbia;6600;Country area;2014;8836000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6600;Country area;2015;8836000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6600;Country area;2016;8836000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6600;Country area;2017;8836000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6610;Agricultural land;2014;3506400;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6610;Agricultural land;2015;3481000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6610;Agricultural land;2016;3456000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6610;Agricultural land;2017;3419000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6620;Cropland;2014;2793200;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6620;Cropland;2015;2791000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6620;Cropland;2016;2802000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6620;Cropland;2017;2803000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6621;Arable land;2014;2605700;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6621;Arable land;2015;2591000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6621;Arable land;2016;2598000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6621;Arable land;2017;2595000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6630;Land under temporary crops;2014;2586000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6630;Land under temporary crops;2015;2573000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6630;Land under temporary crops;2016;2581000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6630;Land under temporary crops;2017;2580000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6640;Land with temporary fallow;2014;19700;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6640;Land with temporary fallow;2015;18000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6640;Land with temporary fallow;2016;17000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6640;Land with temporary fallow;2017;15000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6650;Land under permanent crops;2014;187500;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6650;Land under permanent crops;2015;200000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6650;Land under permanent crops;2016;204000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6650;Land under permanent crops;2017;208000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6655;Land under perm, meadows and pastures;2014;713200;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6655;Land under perm, meadows and pastures;2015;690000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6655;Land under perm, meadows and pastures;2016;654000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6655;Land under perm, meadows and pastures;2017;616000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6663;Forestry;2015;2720000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6646;Forest land;2015;2720000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6714;Primary Forest;2015;1000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6717;Other naturally regenerated forest;2015;2504000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6716;Planted Forest;2015;215000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6690;Land area equipped for irrigation;2014;78000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6690;Land area equipped for irrigation;2015;77000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6690;Land area equipped for irrigation;2016;75000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6690;Land area equipped for irrigation;2017;70000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6611;Agriculture area actually irrigated;2014;45000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6611;Agriculture area actually irrigated;2015;55000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6611;Agriculture area actually irrigated;2016;43000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6611;Agriculture area actually irrigated;2017;50000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6694;Cropland area actually irrigated;2014;45000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6694;Cropland area actually irrigated;2015;55000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6694;Cropland area actually irrigated;2016;43000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6694;Cropland area actually irrigated;2017;50000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6671;Agriculture area under organic agric,;2014;9550;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6671;Agriculture area under organic agric,;2015;15300;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6671;Agriculture area under organic agric,;2016;14360;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6672;Agriculture area certified organic;2014;4670;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6672;Agriculture area certified organic;2015;7600;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6672;Agriculture area certified organic;2016;7390;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6668;Cropland area under organic agric,;2014;8000;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6668;Cropland area under organic agric,;2015;13400;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6668;Cropland area under organic agric,;2016;12930;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6668;Cropland area under organic agric,;2017;11870;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6669;Cropland area certified organic;2014;3650;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6669;Cropland area certified organic;2015;6500;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6669;Cropland area certified organic;2016;6740;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6669;Cropland area certified organic;2017;6950;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6681;Perm, meadows & pastures area under organic agric,;2014;1550;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6681;Perm, meadows & pastures area under organic agric,;2015;1900;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6681;Perm, meadows & pastures area under organic agric,;2016;1430;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6681;Perm, meadows & pastures area under organic agric,;2017;1550;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6682;Perm, meadows & pastures area certified organic;2014;1020;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6682;Perm, meadows & pastures area certified organic;2015;1100;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6682;Perm, meadows & pastures area certified organic;2016;650;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6682;Perm, meadows & pastures area certified organic;2017;580;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6762;Land used for aquaculture;2014;13860;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6762;Land used for aquaculture;2015;12440;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6762;Land used for aquaculture;2016;13320;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6762;Land used for aquaculture;2017;12360;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6641;Coastal waters used for aquac, or holding facilities;2014;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6641;Coastal waters used for aquac, or holding facilities;2015;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6641;Coastal waters used for aquac, or holding facilities;2016;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6642;Coastal waters used for capture fisheries;2014;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6642;Coastal waters used for capture fisheries;2015;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6642;Coastal waters used for capture fisheries;2016;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6644;EEZ used for aquac, or holding facilities;2014;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6644;EEZ used for aquac, or holding facilities;2015;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6644;EEZ used for aquac, or holding facilities;2016;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6645;EEZ used for capture fisheries;2014;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6645;EEZ used for capture fisheries;2015;0;Q;Official data reported on FAO Questionnaires from countries
+272;Serbia;6645;EEZ used for capture fisheries;2016;0;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6670;Other land;2014;947200;Fc;Calculated data
+199;Slovakia;6670;Other land;2015;946200;Fc;Calculated data
+199;Slovakia;6670;Other land;2016;949000;Fc;Calculated data
+199;Slovakia;6670;Other land;2017;957000;Fc;Calculated data
+199;Slovakia;6671;Agriculture area under organic agric,;2014;180300;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6671;Agriculture area under organic agric,;2015;181900;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6671;Agriculture area under organic agric,;2016;187024;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6671;Agriculture area under organic agric,;2017;189150;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6672;Agriculture area certified organic;2014;150900;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6672;Agriculture area certified organic;2015;139200;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6672;Agriculture area certified organic;2016;140531;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6672;Agriculture area certified organic;2017;176580;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6668;Cropland area under organic agric,;2014;65100;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6668;Cropland area under organic agric,;2015;61600;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6668;Cropland area under organic agric,;2016;61800;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6668;Cropland area under organic agric,;2017;64920;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6669;Cropland area certified organic;2014;49400;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6669;Cropland area certified organic;2015;43300;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6669;Cropland area certified organic;2016;45200;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6669;Cropland area certified organic;2017;58280;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6681;Perm, meadows & pastures area under organic agric,;2014;115254;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6681;Perm, meadows & pastures area under organic agric,;2015;120260;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6681;Perm, meadows & pastures area under organic agric,;2016;125184;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6681;Perm, meadows & pastures area under organic agric,;2017;124230;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6682;Perm, meadows & pastures area certified organic;2014;101454;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6682;Perm, meadows & pastures area certified organic;2015;95943;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6682;Perm, meadows & pastures area certified organic;2016;95311;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6682;Perm, meadows & pastures area certified organic;2017;118300;W;Data reported on country official publications or web sites (Official) or trade country files
+199;Slovakia;6663;Forestry;2014;1939800;Fm;Manual Estimation
+199;Slovakia;6663;Forestry;2016;1940000;Fm;Manual Estimation
+199;Slovakia;6663;Forestry;2017;1940000;Fm;Manual Estimation
+199;Slovakia;6646;Forest land;2014;1939800;Fm;Manual Estimation
+199;Slovakia;6646;Forest land;2016;1940000;Fm;Manual Estimation
+199;Slovakia;6646;Forest land;2017;1940000;Fm;Manual Estimation
+199;Slovakia;6714;Primary Forest;2014;24000;Fm;Manual Estimation
+199;Slovakia;6714;Primary Forest;2016;24000;Fm;Manual Estimation
+199;Slovakia;6714;Primary Forest;2017;24000;Fm;Manual Estimation
+199;Slovakia;6717;Other naturally regenerated forest;2014;955400;Fm;Manual Estimation
+199;Slovakia;6717;Other naturally regenerated forest;2016;956000;Fm;Manual Estimation
+199;Slovakia;6717;Other naturally regenerated forest;2017;956000;Fm;Manual Estimation
+199;Slovakia;6716;Planted Forest;2014;960400;Fm;Manual Estimation
+199;Slovakia;6716;Planted Forest;2016;960000;Fm;Manual Estimation
+199;Slovakia;6716;Planted Forest;2017;960000;Fm;Manual Estimation
+199;Slovakia;6600;Country area;2014;4903000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6600;Country area;2015;4903000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6600;Country area;2016;4903000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6600;Country area;2017;4903000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6601;Land area;2014;4808000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6601;Land area;2015;4808200;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6601;Land area;2016;4808000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6601;Land area;2017;4808000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6602;Agriculture;2014;1921000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6602;Agriculture;2015;1922000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6602;Agriculture;2016;1919000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6602;Agriculture;2017;1911000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6610;Agricultural land;2014;1889400;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6610;Agricultural land;2015;1888600;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6610;Agricultural land;2016;1886000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6610;Agricultural land;2017;1879000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6620;Cropland;2014;1378000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6620;Cropland;2015;1368000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6620;Cropland;2016;1365000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6620;Cropland;2017;1361000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6621;Arable land;2014;1359200;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6621;Arable land;2015;1350000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6621;Arable land;2016;1347000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6621;Arable land;2017;1343000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6630;Land under temporary crops;2014;1269000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6630;Land under temporary crops;2015;1241000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6630;Land under temporary crops;2016;1245000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6630;Land under temporary crops;2017;1239000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6633;Land under temp, meadows and pastures;2014;72800;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6633;Land under temp, meadows and pastures;2015;63000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6633;Land under temp, meadows and pastures;2016;60000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6633;Land under temp, meadows and pastures;2017;59000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6640;Land with temporary fallow;2014;17400;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6640;Land with temporary fallow;2015;46000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6640;Land with temporary fallow;2016;42000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6640;Land with temporary fallow;2017;45000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6650;Land under permanent crops;2014;18800;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6650;Land under permanent crops;2015;18000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6650;Land under permanent crops;2016;18000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6650;Land under permanent crops;2017;18000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6655;Land under perm, meadows and pastures;2014;511400;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6655;Land under perm, meadows and pastures;2015;520600;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6655;Land under perm, meadows and pastures;2016;521000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6655;Land under perm, meadows and pastures;2017;518000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6656;Perm, meadows & pastures - Cultivated;2015;520600;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6656;Perm, meadows & pastures - Cultivated;2016;521000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6656;Perm, meadows & pastures - Cultivated;2017;518000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6663;Forestry;2015;1940000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6646;Forest land;2015;1940000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6714;Primary Forest;2015;24000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6717;Other naturally regenerated forest;2015;956000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6716;Planted Forest;2015;960000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6680;Inland waters;2014;94900;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6680;Inland waters;2015;95300;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6680;Inland waters;2016;95000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6680;Inland waters;2017;95000;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6690;Land area equipped for irrigation;2014;65500;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6690;Land area equipped for irrigation;2015;62200;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6690;Land area equipped for irrigation;2016;64400;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6690;Land area equipped for irrigation;2017;62800;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6611;Agriculture area actually irrigated;2014;18100;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6611;Agriculture area actually irrigated;2015;21100;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6611;Agriculture area actually irrigated;2016;22600;Q;Official data reported on FAO Questionnaires from countries
+199;Slovakia;6611;Agriculture area actually irrigated;2017;24400;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6602;Agriculture;2014;618750;Fc;Calculated data
+198;Slovenia;6602;Agriculture;2015;620410;Fc;Calculated data
+198;Slovenia;6602;Agriculture;2016;621380;Fc;Calculated data
+198;Slovenia;6602;Agriculture;2017;615040;Fc;Calculated data
+198;Slovenia;6670;Other land;2014;147450;Fc;Calculated data
+198;Slovenia;6670;Other land;2015;145850;Fc;Calculated data
+198;Slovenia;6670;Other land;2016;144820;Fc;Calculated data
+198;Slovenia;6670;Other land;2017;150350;Fc;Calculated data
+198;Slovenia;6663;Forestry;2014;1247800;Fm;Manual Estimation
+198;Slovenia;6663;Forestry;2016;1248000;Fm;Manual Estimation
+198;Slovenia;6663;Forestry;2017;1248000;Fm;Manual Estimation
+198;Slovenia;6646;Forest land;2014;1247800;Fm;Manual Estimation
+198;Slovenia;6646;Forest land;2016;1248000;Fm;Manual Estimation
+198;Slovenia;6646;Forest land;2017;1248000;Fm;Manual Estimation
+198;Slovenia;6714;Primary Forest;2014;49000;Fm;Manual Estimation
+198;Slovenia;6714;Primary Forest;2016;49000;Fm;Manual Estimation
+198;Slovenia;6714;Primary Forest;2017;49000;Fm;Manual Estimation
+198;Slovenia;6717;Other naturally regenerated forest;2014;1165200;Fm;Manual Estimation
+198;Slovenia;6717;Other naturally regenerated forest;2016;1165000;Fm;Manual Estimation
+198;Slovenia;6717;Other naturally regenerated forest;2017;1165000;Fm;Manual Estimation
+198;Slovenia;6716;Planted Forest;2014;33600;Fm;Manual Estimation
+198;Slovenia;6716;Planted Forest;2016;34000;Fm;Manual Estimation
+198;Slovenia;6716;Planted Forest;2017;34000;Fm;Manual Estimation
+198;Slovenia;6616;Land area actually irrigated;2014;2000;Fm;Manual Estimation
+198;Slovenia;6616;Land area actually irrigated;2015;3000;Fm;Manual Estimation
+198;Slovenia;6600;Country area;2014;2067500;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6600;Country area;2015;2067500;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6600;Country area;2016;2067500;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6600;Country area;2017;2048000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6601;Land area;2014;2014000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6601;Land area;2015;2014260;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6601;Land area;2016;2014200;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6601;Land area;2017;2013390;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6610;Agricultural land;2014;614840;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6610;Agricultural land;2015;616490;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6610;Agricultural land;2016;617480;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6610;Agricultural land;2017;615040;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6620;Cropland;2014;237110;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6620;Cropland;2015;237340;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6620;Cropland;2016;237710;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6620;Cropland;2017;238030;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6621;Arable land;2014;184040;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6621;Arable land;2015;183910;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6621;Arable land;2016;183880;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6621;Arable land;2017;183630;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6650;Land under permanent crops;2014;53070;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6650;Land under permanent crops;2015;53430;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6650;Land under permanent crops;2016;53830;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6650;Land under permanent crops;2017;54400;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6655;Land under perm, meadows and pastures;2014;377730;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6655;Land under perm, meadows and pastures;2015;379150;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6655;Land under perm, meadows and pastures;2016;379770;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6655;Land under perm, meadows and pastures;2017;377010;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6649;Land under protective cover;2014;3910;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6649;Land under protective cover;2015;3920;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6649;Land under protective cover;2016;3900;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6649;Land under protective cover;2017;4000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6663;Forestry;2015;1248000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6646;Forest land;2015;1248000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6714;Primary Forest;2015;49000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6717;Other naturally regenerated forest;2015;1165000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6716;Planted Forest;2015;34000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6680;Inland waters;2014;12780;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6680;Inland waters;2015;13100;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6680;Inland waters;2016;13020;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6680;Inland waters;2017;13250;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6773;Coastal waters;2014;40200;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6773;Coastal waters;2015;40200;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6773;Coastal waters;2016;40200;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6773;Coastal waters;2017;21000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6690;Land area equipped for irrigation;2014;5000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6690;Land area equipped for irrigation;2015;6000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6690;Land area equipped for irrigation;2016;5800;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6690;Land area equipped for irrigation;2017;5990;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6616;Land area actually irrigated;2016;3100;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6616;Land area actually irrigated;2017;3200;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6611;Agriculture area actually irrigated;2014;2000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6611;Agriculture area actually irrigated;2015;3000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6611;Agriculture area actually irrigated;2016;3100;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6611;Agriculture area actually irrigated;2017;3200;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6671;Agriculture area under organic agric,;2014;41240;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6671;Agriculture area under organic agric,;2015;42190;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6671;Agriculture area under organic agric,;2016;43580;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6671;Agriculture area under organic agric,;2017;46220;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6672;Agriculture area certified organic;2014;33540;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6672;Agriculture area certified organic;2015;32490;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6672;Agriculture area certified organic;2016;36360;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6672;Agriculture area certified organic;2017;40350;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6668;Cropland area under organic agric,;2014;6640;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6668;Cropland area under organic agric,;2015;7540;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6668;Cropland area under organic agric,;2016;8080;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6668;Cropland area under organic agric,;2017;8610;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6669;Cropland area certified organic;2014;5090;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6669;Cropland area certified organic;2015;5310;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6669;Cropland area certified organic;2016;6070;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6669;Cropland area certified organic;2017;6940;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6681;Perm, meadows & pastures area under organic agric,;2014;34600;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6681;Perm, meadows & pastures area under organic agric,;2015;34650;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6681;Perm, meadows & pastures area under organic agric,;2016;35490;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6681;Perm, meadows & pastures area under organic agric,;2017;37610;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6682;Perm, meadows & pastures area certified organic;2014;28440;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6682;Perm, meadows & pastures area certified organic;2015;27180;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6682;Perm, meadows & pastures area certified organic;2016;30290;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6682;Perm, meadows & pastures area certified organic;2017;33410;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6775;Farm buildings & farmyards;2014;3910;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6775;Farm buildings & farmyards;2015;3920;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6775;Farm buildings & farmyards;2016;3900;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6775;Farm buildings & farmyards;2017;4000;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6762;Land used for aquaculture;2014;230;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6762;Land used for aquaculture;2015;230;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6762;Land used for aquaculture;2016;230;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6762;Land used for aquaculture;2017;230;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6767;Inland waters used for aquac, or holding facilities;2014;270;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6767;Inland waters used for aquac, or holding facilities;2015;270;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6767;Inland waters used for aquac, or holding facilities;2016;270;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6767;Inland waters used for aquac, or holding facilities;2017;270;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6771;Inland waters used for capture fisheries;2014;0;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6771;Inland waters used for capture fisheries;2015;0;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6771;Inland waters used for capture fisheries;2016;0;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6771;Inland waters used for capture fisheries;2017;0;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6641;Coastal waters used for aquac, or holding facilities;2014;50;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6641;Coastal waters used for aquac, or holding facilities;2015;50;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6641;Coastal waters used for aquac, or holding facilities;2016;50;Q;Official data reported on FAO Questionnaires from countries
+198;Slovenia;6641;Coastal waters used for aquac, or holding facilities;2017;50;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6670;Other land;2014;6194800;Fc;Calculated data
+230;Ukraine;6670;Other land;2015;6177000;Fc;Calculated data
+230;Ukraine;6670;Other land;2016;6170000;Fc;Calculated data
+230;Ukraine;6670;Other land;2017;6198000;Fc;Calculated data
+230;Ukraine;6616;Land area actually irrigated;2014;311000;Fc;Calculated data
+230;Ukraine;6616;Land area actually irrigated;2015;315000;Fc;Calculated data
+230;Ukraine;6671;Agriculture area under organic agric,;2014;400800;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+230;Ukraine;6671;Agriculture area under organic agric,;2015;410600;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+230;Ukraine;6671;Agriculture area under organic agric,;2016;381200;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+230;Ukraine;6671;Agriculture area under organic agric,;2017;289000;I;Country data reported by International Organizations where the country is a member (Semi-official) such as WTO or EU or UNSD etc
+230;Ukraine;6663;Forestry;2014;9635200;Fm;Manual Estimation
+230;Ukraine;6663;Forestry;2016;9657000;Fm;Manual Estimation
+230;Ukraine;6663;Forestry;2017;9657000;Fm;Manual Estimation
+230;Ukraine;6646;Forest land;2014;9635200;Fm;Manual Estimation
+230;Ukraine;6646;Forest land;2016;9657000;Fm;Manual Estimation
+230;Ukraine;6646;Forest land;2017;9657000;Fm;Manual Estimation
+230;Ukraine;6714;Primary Forest;2014;59000;Fm;Manual Estimation
+230;Ukraine;6714;Primary Forest;2016;59000;Fm;Manual Estimation
+230;Ukraine;6714;Primary Forest;2017;59000;Fm;Manual Estimation
+230;Ukraine;6717;Other naturally regenerated forest;2014;4724600;Fm;Manual Estimation
+230;Ukraine;6717;Other naturally regenerated forest;2016;4738000;Fm;Manual Estimation
+230;Ukraine;6717;Other naturally regenerated forest;2017;4738000;Fm;Manual Estimation
+230;Ukraine;6716;Planted Forest;2014;4851600;Fm;Manual Estimation
+230;Ukraine;6716;Planted Forest;2016;4860000;Fm;Manual Estimation
+230;Ukraine;6716;Planted Forest;2017;4860000;Fm;Manual Estimation
+230;Ukraine;6690;Land area equipped for irrigation;2017;2166000;Fm;Manual Estimation
+230;Ukraine;6616;Land area actually irrigated;2016;329000;Fm;Manual Estimation
+230;Ukraine;6616;Land area actually irrigated;2017;373000;Fm;Manual Estimation
+230;Ukraine;6600;Country area;2014;60355000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6600;Country area;2015;60355000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6600;Country area;2016;60355000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6600;Country area;2017;60355000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6601;Land area;2014;57929000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6601;Land area;2015;57929000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6601;Land area;2016;57929000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6601;Land area;2017;57930000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6602;Agriculture;2014;42099000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6602;Agriculture;2015;42095000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6602;Agriculture;2016;42102000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6602;Agriculture;2017;42075000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6610;Agricultural land;2014;41511000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6610;Agricultural land;2015;41508000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6610;Agricultural land;2016;41515000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6610;Agricultural land;2017;41489000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6620;Cropland;2014;33663000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6620;Cropland;2015;33667000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6620;Cropland;2016;33673000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6620;Cropland;2017;33669000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6621;Arable land;2014;32770000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6621;Arable land;2015;32775000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6621;Arable land;2016;32776000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6621;Arable land;2017;32774000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6630;Land under temporary crops;2014;31462000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6630;Land under temporary crops;2015;31514000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6630;Land under temporary crops;2016;31550000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6630;Land under temporary crops;2017;31590000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6633;Land under temp, meadows and pastures;2014;1069000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6633;Land under temp, meadows and pastures;2015;1027000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6633;Land under temp, meadows and pastures;2016;995000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6633;Land under temp, meadows and pastures;2017;955000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6640;Land with temporary fallow;2014;239000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6640;Land with temporary fallow;2015;234000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6640;Land with temporary fallow;2016;231000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6640;Land with temporary fallow;2017;229000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6650;Land under permanent crops;2014;893000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6650;Land under permanent crops;2015;892000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6650;Land under permanent crops;2016;897000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6650;Land under permanent crops;2017;895000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6655;Land under perm, meadows and pastures;2014;7848000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6655;Land under perm, meadows and pastures;2015;7841000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6655;Land under perm, meadows and pastures;2016;7842000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6655;Land under perm, meadows and pastures;2017;7821000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6656;Perm, meadows & pastures - Cultivated;2014;1139000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6656;Perm, meadows & pastures - Cultivated;2015;887000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6656;Perm, meadows & pastures - Cultivated;2016;738000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6656;Perm, meadows & pastures - Cultivated;2017;740000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6659;Perm, meadows & pastures - Nat, growing;2014;6709000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6659;Perm, meadows & pastures - Nat, growing;2015;6954000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6659;Perm, meadows & pastures - Nat, growing;2016;7104000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6659;Perm, meadows & pastures - Nat, growing;2017;7081000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6649;Land under protective cover;2014;588000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6649;Land under protective cover;2015;587000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6649;Land under protective cover;2016;587000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6649;Land under protective cover;2017;586000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6663;Forestry;2015;9657000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6646;Forest land;2015;9657000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6714;Primary Forest;2015;59000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6717;Other naturally regenerated forest;2015;4738000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6716;Planted Forest;2015;4860000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6680;Inland waters;2014;2426000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6680;Inland waters;2015;2426000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6680;Inland waters;2016;2426000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6680;Inland waters;2017;2425000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6690;Land area equipped for irrigation;2014;2166000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6690;Land area equipped for irrigation;2015;2166000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6690;Land area equipped for irrigation;2016;2166000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6611;Agriculture area actually irrigated;2014;310000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6611;Agriculture area actually irrigated;2015;314000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6611;Agriculture area actually irrigated;2016;329000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6611;Agriculture area actually irrigated;2017;373000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6694;Cropland area actually irrigated;2014;310000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6694;Cropland area actually irrigated;2015;314000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6694;Cropland area actually irrigated;2016;329000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6694;Cropland area actually irrigated;2017;373000;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6657;Perm, meadows & pastures area actually irrig,;2014;0;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6657;Perm, meadows & pastures area actually irrig,;2015;0;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6657;Perm, meadows & pastures area actually irrig,;2016;0;Q;Official data reported on FAO Questionnaires from countries
+230;Ukraine;6657;Perm, meadows & pastures area actually irrig,;2017;0;Q;Official data reported on FAO Questionnaires from countries

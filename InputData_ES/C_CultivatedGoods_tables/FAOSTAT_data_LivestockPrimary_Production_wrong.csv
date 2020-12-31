@@ -1,0 +1,829 @@
+DomainCode;Domain;AreaCode;Country;Element Code;Element;ItemCode;Item;LivestockType;Year;Unit;Production_tonnes;Flag;Flag Description
+QL;Livestock Primary;27;Bulgaria;5510;Production;1183;Beeswax;Beehives;2014;tonnes;244559;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1183;Beeswax;Beehives;2015;tonnes;227618;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1183;Beeswax;Beehives;2016;tonnes;219869;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1183;Beeswax;Beehives;2017;tonnes;199438;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1183;Beeswax;Beehives;2014;tonnes;29300;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1183;Beeswax;Beehives;2015;tonnes;20200;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1183;Beeswax;Beehives;2016;tonnes;24700;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1183;Beeswax;Beehives;2017;tonnes;27800;Im;FAO data based on imputation methodology
+QL;Livestock Primary;199;Slovakia;5510;Production;1183;Beeswax;Beehives;2014;tonnes;15301;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1183;Beeswax;Beehives;2015;tonnes;16660;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1183;Beeswax;Beehives;2016;tonnes;16731;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1183;Beeswax;Beehives;2017;tonnes;16800;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;6576000;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;6518000;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;7737000;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;7479748;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;1386648;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;1492850;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;1630462;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;1552180;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;109124;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;112901;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;111736;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;108419;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;96313;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;98695;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;94022;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;108149;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;650500;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;519400;Im;FAO data based on imputation methodology
+QL;Livestock Primary;167;Czechia;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;500200;Im;FAO data based on imputation methodology
+QL;Livestock Primary;167;Czechia;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;479700;Im;FAO data based on imputation methodology
+QL;Livestock Primary;79;Germany;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;25812;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;24103;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;24741;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;27351;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;281000;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;276357;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;274874;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;276238;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;1063599;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;1029081;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;1024550;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;1026221;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;83000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;60000;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;126100;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;124100;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;83969;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;86055;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;81736;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;81308;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;23000;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;17000;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;13000;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;19000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;29890;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;35946;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;42026;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;40577;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;567282;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;561410;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;552534;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;555000;Im;FAO data based on imputation methodology
+QL;Livestock Primary;230;Ukraine;5510;Production;1062;Eggs, hen, in shell;Chickens;2014;tonnes;6658782;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1062;Eggs, hen, in shell;Chickens;2015;tonnes;6925276;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1062;Eggs, hen, in shell;Chickens;2016;tonnes;7128324;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1062;Eggs, hen, in shell;Chickens;2017;tonnes;7649700;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1091;Eggs, other bird, in shell;Other bird;2014;tonnes;735;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1091;Eggs, other bird, in shell;Other bird;2015;tonnes;698;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1091;Eggs, other bird, in shell;Other bird;2016;tonnes;710;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1091;Eggs, other bird, in shell;Other bird;2017;tonnes;715;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1091;Eggs, other bird, in shell;Other bird;2014;tonnes;682;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1091;Eggs, other bird, in shell;Other bird;2015;tonnes;664;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1091;Eggs, other bird, in shell;Other bird;2016;tonnes;669;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1091;Eggs, other bird, in shell;Other bird;2017;tonnes;676;Im;FAO data based on imputation methodology
+QL;Livestock Primary;97;Hungary;5510;Production;1091;Eggs, other bird, in shell;Other bird;2014;tonnes;702;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1091;Eggs, other bird, in shell;Other bird;2015;tonnes;671;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1091;Eggs, other bird, in shell;Other bird;2016;tonnes;672;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1091;Eggs, other bird, in shell;Other bird;2017;tonnes;675;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1091;Eggs, other bird, in shell;Other bird;2014;tonnes;890;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1091;Eggs, other bird, in shell;Other bird;2015;tonnes;906;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1091;Eggs, other bird, in shell;Other bird;2016;tonnes;906;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1091;Eggs, other bird, in shell;Other bird;2017;tonnes;900;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1091;Eggs, other bird, in shell;Other bird;2014;tonnes;938;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1091;Eggs, other bird, in shell;Other bird;2015;tonnes;937;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1091;Eggs, other bird, in shell;Other bird;2016;tonnes;940;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1091;Eggs, other bird, in shell;Other bird;2017;tonnes;943;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1091;Eggs, other bird, in shell;Other bird;2014;tonnes;927;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1091;Eggs, other bird, in shell;Other bird;2015;tonnes;940;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1091;Eggs, other bird, in shell;Other bird;2016;tonnes;933;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1091;Eggs, other bird, in shell;Other bird;2017;tonnes;930;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;33688;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;31969;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;38995;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;39289;F;FAO estimate
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;14000;Im;FAO data based on imputation methodology
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;13000;Im;FAO data based on imputation methodology
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;13000;Im;FAO data based on imputation methodology
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;15000;Im;FAO data based on imputation methodology
+QL;Livestock Primary;27;Bulgaria;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;62349;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;62349;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;29452;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;29452;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;105799;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;109648;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;111569;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;112000;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;125925;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;124338;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;112344;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;102871;F;FAO estimate
+QL;Livestock Primary;79;Germany;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;26146;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;25811;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;26945;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;26687;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;3188;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;3992;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;4467;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;3388;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;482500;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;453300;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;455600;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;446600;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;943;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;783;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;602;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;546;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;25;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;31;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;24;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;20;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;4;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;4;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;5;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;4;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;13669;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;10092;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;7820;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;5990;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;251;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;143;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;100;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;83;Im;FAO data based on imputation methodology
+QL;Livestock Primary;230;Ukraine;5510;Production;1182;Honey, natural;Beehives;2014;tonnes;8852;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1182;Honey, natural;Beehives;2015;tonnes;9083;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1182;Honey, natural;Beehives;2016;tonnes;8308;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1182;Honey, natural;Beehives;2017;tonnes;7436;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1108;Meat, ass;Asses;2014;tonnes;31200;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1108;Meat, ass;Asses;2015;tonnes;31491;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1108;Meat, ass;Asses;2016;tonnes;32798;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1108;Meat, ass;Asses;2017;tonnes;34978;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1089;Meat, bird nes;Other bird;2014;tonnes;861;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1089;Meat, bird nes;Other bird;2015;tonnes;909;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1089;Meat, bird nes;Other bird;2016;tonnes;909;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1089;Meat, bird nes;Other bird;2017;tonnes;923;Im;FAO data based on imputation methodology
+QL;Livestock Primary;27;Bulgaria;5510;Production;947;Meat, buffalo;Buffaloes;2014;tonnes;331;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;947;Meat, buffalo;Buffaloes;2015;tonnes;798;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;947;Meat, buffalo;Buffaloes;2016;tonnes;648;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;947;Meat, buffalo;Buffaloes;2017;tonnes;1024;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;36475;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;35180;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;34013;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;32016;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;292;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;411;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;223;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;196;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;62;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;57;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;56;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;50;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;1544;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;1391;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;1417;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;1301;Im;FAO data based on imputation methodology
+QL;Livestock Primary;167;Czechia;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;65500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;43500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;43100;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;43500;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;5409578;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;5414234;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;5227573;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;5152595;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;131425;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;122240;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;119976;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;122612;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;988254;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;1043757;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;1087629;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;1111859;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;1362800;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;1400113;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;1458334;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;1440332;Im;FAO data based on imputation methodology
+QL;Livestock Primary;183;Romania;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;2759128;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;2619972;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;2527517;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;2444790;Im;FAO data based on imputation methodology
+QL;Livestock Primary;272;Serbia;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;58934837;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;59435349;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;59480468;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;58408370;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;4446798;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;4842570;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;4905868;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;5050984;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;21665978;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;21748332;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;22098424;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;22188959;Im;FAO data based on imputation methodology
+QL;Livestock Primary;230;Ukraine;5510;Production;867;Meat, cattle;Cattle;2014;tonnes;845457;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;867;Meat, cattle;Cattle;2015;tonnes;925441;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;867;Meat, cattle;Cattle;2016;tonnes;936288;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;867;Meat, cattle;Cattle;2017;tonnes;940361;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;197241;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;164641;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;165052;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;132878;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;202780;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;194111;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;193716;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;188217;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;2648;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;3501;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;2976;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;2679;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;383500;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;366300;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;345800;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;315200;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;1943;Im;FAO data based on imputation methodology
+QL;Livestock Primary;167;Czechia;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;1401;Im;FAO data based on imputation methodology
+QL;Livestock Primary;167;Czechia;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;1386;Im;FAO data based on imputation methodology
+QL;Livestock Primary;167;Czechia;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;1373;Im;FAO data based on imputation methodology
+QL;Livestock Primary;79;Germany;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;14409;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;14942;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;13946;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;13671;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;1450;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;1444;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;1438;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;1440;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;3302;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;3303;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;3326;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;3345;F;FAO estimate
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;1447;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;2356;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;2148;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;2244;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;1354;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;1351;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;1472;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;1457;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;2276;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;2295;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;2348;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;2238;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;2939;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;2953;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;2975;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;2934;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;3168;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;3161;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;3174;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;3203;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1058;Meat, chicken;Chickens;2014;tonnes;2494;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1058;Meat, chicken;Chickens;2015;tonnes;2532;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1058;Meat, chicken;Chickens;2016;tonnes;2562;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1058;Meat, chicken;Chickens;2017;tonnes;2546;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;2694;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;2852;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;2870;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;2959;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;1210;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;1321;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;1527;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;1485;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;1610;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;1639;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;1625;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;1406;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;2296;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;2188;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;2191;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;2185;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;2487;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;2462;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;2520;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;2553;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;2912;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;2997;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;3049;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;2980;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;1519;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;1661;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;1663;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;1666;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;65423;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;65789;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;67590;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;68650;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1069;Meat, duck;Ducks;2014;tonnes;27842;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1069;Meat, duck;Ducks;2015;tonnes;28098;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1069;Meat, duck;Ducks;2016;tonnes;28767;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1069;Meat, duck;Ducks;2017;tonnes;29253;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1163;Meat, game;Game;2014;tonnes;35908;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1163;Meat, game;Game;2015;tonnes;34805;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1163;Meat, game;Game;2016;tonnes;36883;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1163;Meat, game;Game;2017;tonnes;35683;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1163;Meat, game;Game;2014;tonnes;40329;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1163;Meat, game;Game;2015;tonnes;44771;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1163;Meat, game;Game;2016;tonnes;45837;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1163;Meat, game;Game;2017;tonnes;44686;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1163;Meat, game;Game;2014;tonnes;79128;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1163;Meat, game;Game;2015;tonnes;82173;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1163;Meat, game;Game;2016;tonnes;82790;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1163;Meat, game;Game;2017;tonnes;81032;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1163;Meat, game;Game;2014;tonnes;75413;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1163;Meat, game;Game;2015;tonnes;76283;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1163;Meat, game;Game;2016;tonnes;77465;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1163;Meat, game;Game;2017;tonnes;77795;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1163;Meat, game;Game;2014;tonnes;75176;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1163;Meat, game;Game;2015;tonnes;76130;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1163;Meat, game;Game;2016;tonnes;76729;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1163;Meat, game;Game;2017;tonnes;78616;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1163;Meat, game;Game;2014;tonnes;56208;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1163;Meat, game;Game;2015;tonnes;58073;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1163;Meat, game;Game;2016;tonnes;61721;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1163;Meat, game;Game;2017;tonnes;63567;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1017;Meat, goat;Goats;2014;tonnes;105;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1017;Meat, goat;Goats;2015;tonnes;102;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1017;Meat, goat;Goats;2016;tonnes;112;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1017;Meat, goat;Goats;2017;tonnes;103;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1017;Meat, goat;Goats;2014;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1017;Meat, goat;Goats;2015;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1017;Meat, goat;Goats;2016;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1017;Meat, goat;Goats;2017;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1017;Meat, goat;Goats;2014;tonnes;87;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1017;Meat, goat;Goats;2015;tonnes;87;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1017;Meat, goat;Goats;2016;tonnes;86;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1017;Meat, goat;Goats;2017;tonnes;82;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1017;Meat, goat;Goats;2014;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1017;Meat, goat;Goats;2015;tonnes;187;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1017;Meat, goat;Goats;2016;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1017;Meat, goat;Goats;2017;tonnes;180;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1017;Meat, goat;Goats;2014;tonnes;116;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1017;Meat, goat;Goats;2015;tonnes;118;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1017;Meat, goat;Goats;2016;tonnes;113;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1017;Meat, goat;Goats;2017;tonnes;123;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1017;Meat, goat;Goats;2014;tonnes;101;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1017;Meat, goat;Goats;2015;tonnes;103;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1017;Meat, goat;Goats;2016;tonnes;100;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1017;Meat, goat;Goats;2017;tonnes;97;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1017;Meat, goat;Goats;2014;tonnes;157;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1017;Meat, goat;Goats;2015;tonnes;146;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1017;Meat, goat;Goats;2016;tonnes;138;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1017;Meat, goat;Goats;2017;tonnes;119;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1017;Meat, goat;Goats;2014;tonnes;86;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1017;Meat, goat;Goats;2015;tonnes;86;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1017;Meat, goat;Goats;2016;tonnes;86;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1017;Meat, goat;Goats;2017;tonnes;119;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1017;Meat, goat;Goats;2014;tonnes;140;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1017;Meat, goat;Goats;2015;tonnes;143;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1017;Meat, goat;Goats;2016;tonnes;137;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1017;Meat, goat;Goats;2017;tonnes;138;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1017;Meat, goat;Goats;2014;tonnes;135;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1017;Meat, goat;Goats;2015;tonnes;135;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1017;Meat, goat;Goats;2016;tonnes;130;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1017;Meat, goat;Goats;2017;tonnes;156;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1017;Meat, goat;Goats;2014;tonnes;6347;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1017;Meat, goat;Goats;2015;tonnes;6532;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1017;Meat, goat;Goats;2016;tonnes;6573;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1017;Meat, goat;Goats;2017;tonnes;6597;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;36719;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;36659;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;36125;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;37003;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;35332;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;33715;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;33209;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;32310;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;33667;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;35812;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;36335;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;36097;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;64462;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;66305;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;68766;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;70379;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;56272;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;58473;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;57576;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;60145;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;45089;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;46421;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;47357;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;49201;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;102;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;103;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;105;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;108;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2014;tonnes;123;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2015;tonnes;129;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2016;tonnes;125;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1073;Meat, goose and guinea fowl;Geese and guinea fowls;2017;tonnes;125;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1097;Meat, horse;Horses;2014;tonnes;1971;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1097;Meat, horse;Horses;2015;tonnes;1993;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2030;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2054;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1097;Meat, horse;Horses;2014;tonnes;2000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2000;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1097;Meat, horse;Horses;2014;tonnes;2550;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2517;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2700;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2651;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1097;Meat, horse;Horses;2014;tonnes;2640;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2499;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2640;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2641;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1097;Meat, horse;Horses;2014;tonnes;3082;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2607;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2608;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2656;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1097;Meat, horse;Horses;2014;tonnes;3338;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1097;Meat, horse;Horses;2015;tonnes;3301;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1097;Meat, horse;Horses;2016;tonnes;3277;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1097;Meat, horse;Horses;2017;tonnes;3345;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1097;Meat, horse;Horses;2014;tonnes;2165;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2250;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2295;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2292;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1097;Meat, horse;Horses;2014;tonnes;1800;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1097;Meat, horse;Horses;2015;tonnes;1800;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1097;Meat, horse;Horses;2016;tonnes;1800;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1097;Meat, horse;Horses;2017;tonnes;1800;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1097;Meat, horse;Horses;2014;tonnes;2979;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2985;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1097;Meat, horse;Horses;2016;tonnes;3003;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1097;Meat, horse;Horses;2017;tonnes;3001;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1097;Meat, horse;Horses;2014;tonnes;2228;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1097;Meat, horse;Horses;2015;tonnes;2279;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1097;Meat, horse;Horses;2016;tonnes;2251;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1097;Meat, horse;Horses;2017;tonnes;2206;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1097;Meat, horse;Horses;2014;tonnes;1802;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1097;Meat, horse;Horses;2015;tonnes;1885;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1097;Meat, horse;Horses;2016;tonnes;1856;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1097;Meat, horse;Horses;2017;tonnes;1931;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1097;Meat, horse;Horses;2014;tonnes;975;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1097;Meat, horse;Horses;2015;tonnes;977;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1097;Meat, horse;Horses;2016;tonnes;985;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1097;Meat, horse;Horses;2017;tonnes;987;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;722;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;777;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;776;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;790;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;811;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;816;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;837;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;918;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;566;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;509;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;518;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;547;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;929;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;931;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;929;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;913;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;920;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;914;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;939;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;945;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;864;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;890;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;875;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;869;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;252;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;233;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;233;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;246;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;151;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;153;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;148;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;155;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;99;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;101;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;112;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;104;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;116;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;134;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;116;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;112;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;225;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;227;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;228;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;219;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;200;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;303;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;289;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;291;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;182;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;175;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;168;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;176;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1035;Meat, pig;Pigs;2014;tonnes;234;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1035;Meat, pig;Pigs;2015;tonnes;176;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1035;Meat, pig;Pigs;2016;tonnes;199;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1035;Meat, pig;Pigs;2017;tonnes;342;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;143;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;192;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;198;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;183;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;103;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;109;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;100;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;100;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;193;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;193;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;199;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;185;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;85;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;87;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;79;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;97;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;139;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;138;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;139;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;133;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;137;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;162;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;170;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;156;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;4348;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;4387;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;4363;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;4381;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;599;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;584;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;608;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;601;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;705;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;722;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;778;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;676;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1141;Meat, rabbit;Rabbits and hares;2014;tonnes;735;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1141;Meat, rabbit;Rabbits and hares;2015;tonnes;1050;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1141;Meat, rabbit;Rabbits and hares;2016;tonnes;658;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1141;Meat, rabbit;Rabbits and hares;2017;tonnes;733;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;321;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;318;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;324;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;324;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;735;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;1026;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;1273;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;605;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;120;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;108;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;113;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;136;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;385;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;367;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;393;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;393;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;1011;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;968;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;886;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;690;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;1021;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;1183;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;1035;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;1109;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;498;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;583;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;552;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;605;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;1905;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;1335;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;1503;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;1859;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;617;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;586;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;494;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;539;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;0;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;0;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;0;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;0;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;314;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;316;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;318;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;320;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;254;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;288;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;293;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;301;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;114;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;118;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;121;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;115;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;977;Meat, sheep;Sheep;2014;tonnes;3900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;977;Meat, sheep;Sheep;2015;tonnes;5300;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;977;Meat, sheep;Sheep;2016;tonnes;4900;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;977;Meat, sheep;Sheep;2017;tonnes;5800;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;11429;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;22849;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;15958;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;15530;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;17210;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;18548;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;17469;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;17113;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;44300;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;42000;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;44709;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;44200;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;66151;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;69014;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;72794;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;67714;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;1142603;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;1132340;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;1155483;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;1137008;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;24080;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;27315;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;28939;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;28162;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;446300;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;486700;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;512000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;572300;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;8220;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;8419;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;9513;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;9000;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;107581;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;118851;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;116177;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;96270;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1080;Meat, turkey;Turkeys;2014;tonnes;73492;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1080;Meat, turkey;Turkeys;2015;tonnes;66032;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1080;Meat, turkey;Turkeys;2016;tonnes;71014;Fc;Calculated data
+QL;Livestock Primary;198;Slovenia;5510;Production;1080;Meat, turkey;Turkeys;2017;tonnes;62033;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;951;Milk, whole fresh buffalo;Buffaloes;2014;tonnes;23364;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;951;Milk, whole fresh buffalo;Buffaloes;2015;tonnes;29995;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;951;Milk, whole fresh buffalo;Buffaloes;2016;tonnes;29299;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;951;Milk, whole fresh buffalo;Buffaloes;2017;tonnes;26311;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1130;Milk, whole fresh camel;Camels;2014;tonnes;420;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1130;Milk, whole fresh camel;Camels;2015;tonnes;400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1130;Milk, whole fresh camel;Camels;2016;tonnes;400;Fc;Calculated data
+QL;Livestock Primary;230;Ukraine;5510;Production;1130;Milk, whole fresh camel;Camels;2017;tonnes;380;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;5668000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;5759000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;5985000;Fc;Calculated data
+QL;Livestock Primary;11;Austria;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;4924340;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;5657008;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;5654035;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;5852872;Fc;Calculated data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;5706421;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;678668;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;562874;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;601714;Fc;Calculated data
+QL;Livestock Primary;27;Bulgaria;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;634160;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;323008;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;298739;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;327148;Fc;Calculated data
+QL;Livestock Primary;98;Croatia;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;317852;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;8596900;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;8533500;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;8550300;Fc;Calculated data
+QL;Livestock Primary;167;Czechia;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;8465500;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;282625;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;264304;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;269290;Fc;Calculated data
+QL;Livestock Primary;79;Germany;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;244676;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;97957;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;89024;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;86066;Fc;Calculated data
+QL;Livestock Primary;97;Hungary;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;84036;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;1083869;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;980528;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;873000;Fc;Calculated data
+QL;Livestock Primary;173;Poland;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;856876;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;457800;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;374073;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;426989;Fc;Calculated data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;458602;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;144391;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;145595;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;158804;Fc;Calculated data
+QL;Livestock Primary;183;Romania;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;162276;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;1523398;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;1062223;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;1094251;Fc;Calculated data
+QL;Livestock Primary;272;Serbia;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;1070270;Fc;Calculated data
+QL;Livestock Primary;199;Slovakia;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;65026;Im;FAO data based on imputation methodology
+QL;Livestock Primary;199;Slovakia;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;70225;Im;FAO data based on imputation methodology
+QL;Livestock Primary;199;Slovakia;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;63723;Im;FAO data based on imputation methodology
+QL;Livestock Primary;199;Slovakia;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;89027;Im;FAO data based on imputation methodology
+QL;Livestock Primary;198;Slovenia;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;55572;Im;FAO data based on imputation methodology
+QL;Livestock Primary;198;Slovenia;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;39858;Im;FAO data based on imputation methodology
+QL;Livestock Primary;198;Slovenia;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;35110;Im;FAO data based on imputation methodology
+QL;Livestock Primary;198;Slovenia;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;40963;Im;FAO data based on imputation methodology
+QL;Livestock Primary;230;Ukraine;5510;Production;882;Milk, whole fresh cow;Cattle;2014;tonnes;131133;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;882;Milk, whole fresh cow;Cattle;2015;tonnes;98423;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;882;Milk, whole fresh cow;Cattle;2016;tonnes;96061;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;882;Milk, whole fresh cow;Cattle;2017;tonnes;121925;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;1820;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;1791;Im;FAO data based on imputation methodology
+QL;Livestock Primary;11;Austria;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;1862;Im;FAO data based on imputation methodology
+QL;Livestock Primary;11;Austria;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;2183;F;FAO estimate
+QL;Livestock Primary;27;Bulgaria;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;3515;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;3119;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;4130;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;3885;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;6078;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;6002;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;6037;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;6042;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;7248;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;7273;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;7186;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;7183;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;2526;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;2754;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;3007;;Official data
+QL;Livestock Primary;79;Germany;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;3294;Im;FAO data based on imputation methodology
+QL;Livestock Primary;97;Hungary;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;2627;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;2609;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;2347;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;2500;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;1661;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;1786;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;1834;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;1830;Im;FAO data based on imputation methodology
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;3113;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;3629;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;3379;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;3288;Im;FAO data based on imputation methodology
+QL;Livestock Primary;272;Serbia;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;2501;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;2503;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;2501;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;2503;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;4521;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;4219;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;2852;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;4354;Im;FAO data based on imputation methodology
+QL;Livestock Primary;198;Slovenia;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;5147;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;5174;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;4998;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;4982;Im;FAO data based on imputation methodology
+QL;Livestock Primary;230;Ukraine;5510;Production;1020;Milk, whole fresh goat;Goats;2014;tonnes;2089;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1020;Milk, whole fresh goat;Goats;2015;tonnes;2056;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1020;Milk, whole fresh goat;Goats;2016;tonnes;1927;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;1020;Milk, whole fresh goat;Goats;2017;tonnes;2015;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;2678;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;4926;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;3148;;Official data
+QL;Livestock Primary;11;Austria;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;2635;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;9268;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;11388;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;10218;;Official data
+QL;Livestock Primary;80;Bosnia and Herzegovina;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;11807;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;6269;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;11477;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;8677;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;8805;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;7163;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;9228;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;10113;;Official data
+QL;Livestock Primary;98;Croatia;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;9365;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;20195;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;23398;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;21600;;Official data
+QL;Livestock Primary;167;Czechia;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;20392;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;24400;Im;FAO data based on imputation methodology
+QL;Livestock Primary;97;Hungary;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;30700;Im;FAO data based on imputation methodology
+QL;Livestock Primary;97;Hungary;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;24000;Im;FAO data based on imputation methodology
+QL;Livestock Primary;97;Hungary;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;23710;Im;FAO data based on imputation methodology
+QL;Livestock Primary;173;Poland;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;12836;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;18969;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;18893;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;17089;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;3896;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;3951;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;4275;;Official data
+QL;Livestock Primary;146;Republic of Moldova;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;4370;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;18040;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;27893;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;21202;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;24611;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;4383;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;12263;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;5761;;Official data
+QL;Livestock Primary;272;Serbia;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;7014;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;4080;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;4108;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;4296;;Official data
+QL;Livestock Primary;199;Slovakia;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;4212;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;471;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;2047;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;1298;;Official data
+QL;Livestock Primary;198;Slovenia;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;804;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;982;Milk, whole fresh sheep;Sheep;2014;tonnes;66521;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;982;Milk, whole fresh sheep;Sheep;2015;tonnes;63615;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;982;Milk, whole fresh sheep;Sheep;2016;tonnes;59294;;Official data
+QL;Livestock Primary;230;Ukraine;5510;Production;982;Milk, whole fresh sheep;Sheep;2017;tonnes;66231;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2014;tonnes;422;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2015;tonnes;118;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2016;tonnes;169;;Official data
+QL;Livestock Primary;27;Bulgaria;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2017;tonnes;260;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2014;tonnes;8867;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2015;tonnes;9472;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2016;tonnes;9478;;Official data
+QL;Livestock Primary;97;Hungary;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2017;tonnes;10375;F;FAO estimate
+QL;Livestock Primary;173;Poland;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2014;tonnes;48;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2015;tonnes;48;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2016;tonnes;49;;Official data
+QL;Livestock Primary;173;Poland;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2017;tonnes;49;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2014;tonnes;223193;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2015;tonnes;229648;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2016;tonnes;228335;;Official data
+QL;Livestock Primary;183;Romania;5510;Production;1185;Silk-worm cocoons, reelable;Silk-worm;2017;tonnes;226859;;Official data

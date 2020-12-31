@@ -1,0 +1,34 @@
+Domain;EcologicalZone;Continent;Tree_species;Younger_equal_20yrs;Older_20yrs;AboveGroundBiomass_ton_dry_mass_per_ha;AGB_lower;AGB_upper;References
+Tropical;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Temperate;Temperate oceanic forest;Asia;broadleaf;0;1;200;NA;NA;IPCC, 2003
+Temperate;Temperate oceanic forest;Europe;broadleaf;0;1;200;NA;NA;IPCC, 2003
+Temperate;Temperate oceanic forest;Asia;broadleaf;1;0;30;NA;NA;IPCC, 2003
+Temperate;Temperate oceanic forest;Europe;broadleaf;1;0;30;NA;NA;IPCC, 2003
+Temperate;Temperate oceanic forest;Asia;coniferous;0;1;200;150;250;IPCC, 2003
+Temperate;Temperate oceanic forest;Europe;coniferous;0;1;200;150;250;IPCC, 2003
+Temperate;Temperate oceanic forest;Asia;coniferous;1;0;40;;;IPCC, 2003
+Temperate;Temperate oceanic forest;Europe;coniferous;1;0;40;;;IPCC, 2003
+Temperate;Temperate oceanic forest;North America;all;1;1;175;50;300;IPCC, 2003
+Temperate;Temperate oceanic forest;New Zealand;all;1;1;250;150;350;Hinds and Reid, 1957, Hall and Hollinger, 1997, Hall, 2001
+Temperate;Temperate oceanic forest;South America;all;1;1;105;90;120;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Asia;broadleaf;0;1;200;NA;NA;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Europe;broadleaf;0;1;200;NA;NA;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Asia;broadleaf;1;0;15;NA;NA;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Europe;broadleaf;1;0;15;NA;NA;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Asia;coniferous;0;1;175;150;200;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Europe;coniferous;0;1;175;150;200;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Asia;coniferous;1;0;27.5;25;30;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;Europe;coniferous;1;0;27.5;25;30;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;North America;all;1;1;175;50;300;IPCC, 2003
+Temperate;Temperate continental forest and mountain systems;South America;all;1;1;105;90;120;IPCC, 2003
+Boreal;Boreal coniferous forest and mountain systems;Asia;coniferous;0;1;40;NA;NA;IPCC, 2003
+Boreal;Boreal coniferous forest and mountain systems;Europe;coniferous;0;1;40;NA;NA;IPCC, 2003
+Boreal;Boreal coniferous forest and mountain systems;Asia;coniferous;1;0;5;NA;NA;IPCC, 2003
+Boreal;Boreal coniferous forest and mountain systems;Europe;coniferous;1;0;5;NA;NA;IPCC, 2003
+Boreal;Boreal coniferous forest and mountain systems;North America;coniferous;1;1;45;40;50;IPCC, 2003
+Boreal;Boreal tundra woodland;Asia;NA;0;1;25;NA;NA;IPCC, 2003
+Boreal;Boreal tundra woodland;Europe;NA;0;1;25;NA;NA;IPCC, 2003
+Boreal;Boreal tundra woodland;Asia;NA;1;0;5;NA;NA;IPCC, 2003
+Boreal;Boreal tundra woodland;Europe;NA;1;0;5;NA;NA;IPCC, 2003
+Boreal;Boreal tundra woodland;North America;NA;1;1;25;NA;NA;IPCC, 2003

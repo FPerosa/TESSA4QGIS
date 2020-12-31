@@ -1,0 +1,14 @@
+Domain;LandUse;Emission_factor_ditch_kgCH4_per_ha_yr;Emission_factor_ditch_lower_threshold_kgCH4_per_ha_yr;Emission_factor_ditch_upper_threshold_kgCH4_per_ha_yr;Sites_number;Ratio_Ditch;References
+Boreal;Forest Land drained;217;41;393;11;0.025;Cooper & Evans, 2013, Glagolev et al., 2008, Minkkinen & Laine, 2006 (two study areas), Roulet & Moore, 1995 (three study areas), Sirin et al., 2012 (three study areas), von Arnold et al., 2005b
+Boreal;Drained wetland;217;41;393;11;0.025;Cooper & Evans, 2013, Glagolev et al., 2008, Minkkinen & Laine, 2006 (two study areas), Roulet & Moore, 1995 (three study areas), Sirin et al., 2012 (three study areas), von Arnold et al., 2005b
+Boreal;Grassland deep-drained;527;285;769;5;0.05;Best & Jacobs, 1997, Hendriks et al., 2007, 2010, McNamara, 2013, van den Pol-van Dasselaar et al., 1999a, Vermaat et al., 2011
+Boreal;Grassland shallow-drained;1165;335;1995;6;0.05;Best & Jacobs, 1997, Chistotin et al., 2006, Schrier-Uijl et al., 2010b, 2011, Sirin et al., 2012, Teh et al., 2011, Vermaat et al., 2011
+Boreal;Cropland drained;1165;335;1995;6;0.05;Best & Jacobs, 1997, Chistotin et al., 2006, Schrier-Uijl et al., 2010b, 2011, Sirin et al., 2012, Teh et al., 2011, Vermaat et al., 2011
+Boreal;Peatland Managed for Extraction;542;102;981;6;0.05;Chistotin et al., 2006, Hyvönen et al., 2013, Nykänen et al., 1996, Sirin et al., 2012, Sundh et al., 2000, Waddington & Day, 2007
+Temperate;Forest Land drained;217;41;393;11;0.025;Cooper & Evans, 2013, Glagolev et al., 2008, Minkkinen & Laine, 2006 (two study areas), Roulet & Moore, 1995 (three study areas), Sirin et al., 2012 (three study areas), von Arnold et al., 2005b
+Temperate;Drained wetland;217;41;393;11;0.025;Cooper & Evans, 2013, Glagolev et al., 2008, Minkkinen & Laine, 2006 (two study areas), Roulet & Moore, 1995 (three study areas), Sirin et al., 2012 (three study areas), von Arnold et al., 2005b
+Temperate;Grassland deep-drained;527;285;769;5;0.05;Best & Jacobs, 1997, Hendriks et al., 2007, 2010, McNamara, 2013, van den Pol-van Dasselaar et al., 1999a, Vermaat et al., 2011
+Temperate;Grassland shallow-drained;1165;335;1995;6;0.05;Best & Jacobs, 1997, Chistotin et al., 2006, Schrier-Uijl et al., 2010b, 2011, Sirin et al., 2012, Teh et al., 2011, Vermaat et al., 2011
+Temperate;Cropland drained;1165;335;1995;6;0.05;Best & Jacobs, 1997, Chistotin et al., 2006, Schrier-Uijl et al., 2010b, 2011, Sirin et al., 2012, Teh et al., 2011, Vermaat et al., 2011
+Temperate;Peatland Managed for Extraction;542;102;981;6;0.05;Chistotin et al., 2006, Hyvönen et al., 2013, Nykänen et al., 1996, Sirin et al., 2012, Sundh et al., 2000, Waddington & Day, 2007
+Tropical;All;22598;599;3919;2;0.02;Jauhiainen & Silvennoinen, 2012

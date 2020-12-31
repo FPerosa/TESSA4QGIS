@@ -1,0 +1,7 @@
+LandUse;Domain;Emission_factor_tonCO2_per_ha_yr;Emission_factor_lower_threshold_tonCO2_per_ha_yr;Emission_factor_upper_threshold_tonCO2_per_ha_yr;Sites_number;References
+Forest Land drained;Temperate;2.6;2;3.3;8;Glenn et al., 1993, Minkkinen et al., 2007b, von Arnold et al., 2005a, b, Yamulki et al., 2013
+Cropland drained;Boreal and Temperate;7.9;6.5;9.4;39;Drösler et al., 2013; Elsgaard et al., 2012; Grønlund et al., 2008, Kasimir-Klemedtsson et al., 1997, Leifeld et al., 2011; Maljanen et al., 2001a, 2003a, 2004, 2007, Morrison et al., 2013; Petersen et al., 2012
+Grassland drained nutrient-poor;Temperate;5.3;3.7;6.9;7;Drösler et al., 2013, Kuntze, 1992
+Grassland deep-drained nutrient-rich;Temperate;6.1;5;7.3;39;Augustin, 2003, Augustin et al., 1996, Czaplak & Dembek, 2000, Drösler et al., 2013, Elsgaard et al., 2012, Höper, 2002, Jacobs et al., 2003, Kasimir-Klemedtsson et al., 1997; Langeveld et al., 1997, Leifeld et al., 2011, Lorenz et al., 1992, Meyer et al., 2001, Nieveen et al., 2005, Okruszko, 1989, Schothorst, 1977, Schrier-Uijl et al., 2010a, c, Veenendaal et al., 2007, Weinzierl, 1997
+Grassland shallow-drained nutrient-rich;Temperate;3.6;1.8;5.4;13;Drösler et al., 2013, Jacobs et al., 2003, Lloyd, 2006
+Peatland Managed for Extraction;Boreal and Temperate;2.8;1.1;4.2;20;Ahlholm & Silvola, 1990, Glatzel et al., 2003, McNeil & Waddington, 2003, Shurpali et al., 2008, Strack & Zuback, 2013, Sundh et al., 2000, Tuittila & Komulainen, 1995, Tuittila et al., 2000, 2004, Waddington et al., 2010

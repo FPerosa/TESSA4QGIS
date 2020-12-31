@@ -1,0 +1,232 @@
+Code	FishSpecies
+AAA	Adriatic sturgeon - Acipenser naccarii
+AAO	Atlantic sturgeon - Acipenser oxyrinchus
+AAS	Noble crayfish - Astacus astacus
+ABJ	Japanese abalone - Haliotis discus
+ABX	Abalones nei - Haliotis spp
+ACH	Arctic char - Salvelinus alpinus
+ALR	Bleak - Alburnus alburnus
+AMB	Greater amberjack - Seriola dumerili
+APB	Siberian sturgeon - Acipenser baerii
+APE	Starry sturgeon - Acipenser stellatus
+APG	Danube sturgeon - Acipenser gueldenstaedti
+APN	White sturgeon - Acipenser transmontanus
+APR	Sterlet sturgeon - Acipenser ruthenus
+APU	Sturgeon - Acipenser sturio
+ASR	Harpoon seaweeds - Asparagopsis spp
+ASU	Asp - Aspius aspius
+ATB	Big-scale sand smelt - Atherina boyeri
+AUP	White-clawed crayfish - Austropotamobius pallipes
+AYS	Euro-American crayfishes nei - Astacidae, Cambaridae
+BAH	Bastard halibut - Paralichthys olivaceus
+BFT	Atlantic bluefin tuna - Thunnus thynnus
+BIC	Bighead carp - Hypophthalmichthys nobilis
+BKC	Black carp - Mylopharyngodon piceus
+BSC	Bluespotted seabream - Sparus caeruleostictus
+BSE	Seabasses nei - Dicentrarchus spp
+BSS	European seabass - Dicentrarchus labrax
+BTT	Batasio batasio (tonnes)
+BUF	Buffalofishes nei - Ictiobus spp
+CAF	Catfishes nei - Ictalurus spp
+CGO	Goldfish - Carassius auratus
+CHR	Chars nei - Salvelinus spp
+CIJ	Peled - Coregonus peled
+CIQ	Broad whitefish - Coregonus nasus
+CLH	Northern quahog(=Hard clam) - Mercenaria mercenaria
+CLJ	Japanese carpet shell - Ruditapes philippinarum
+CLS	Soft clam - Mya arenaria
+CLV	Venus clams nei - Veneridae
+CLX	Clams etc, nei - Bivalvia
+CLZ	North African catfish - Clarias gariepinus
+COB	Shi drum - Umbrina cirrosa
+COC	Common edible cockle - Cerastoderma edule
+COD	Atlantic cod - Gadus morhua
+COH	Coho(=Silver)Salmon - Oncorhynchus kisutch
+CPR	Common prawn - Palaemon serratus
+CRA	Marine crabs nei - Brachyura
+CRD	Danube crayfish - Astacus leptodactylus
+CRG	Green crab - Carcinus maenas
+CRP	Red claw crayfish - Cherax quadricarinatus
+CRU	Marine crustaceans nei - Crustacea
+CTC	Common cuttlefish - Sepia officinalis
+CTG	Grooved carpet shell - Tapes decussatus
+CTO	Torpedo-shaped catfishes nei - Clarias spp
+CTS	Carpet shell - Venerupis pullastra
+CWG	Prussian carp - Carassius gibelio
+DEC	Common dentex - Dentex dentex
+DEP	Pink dentex - Dentex gibbosus
+DIN	Solitary Tube Worm - Diopatra neapolitana
+DRU	Meagres nei - Sciaena spp
+ELE	European eel - Anguilla anguilla
+EQE	Pod razor shell - Ensis ensis
+F00	All aquatic organisms
+F01	Aquatic animals
+F02	Freshwater and diadromous fishes
+F04	Crustaceans and molluscs
+F07	Finfish
+F08	Finfish and invertebrates
+F10	Freshwater fishes
+F11	Carps, barbels and other cyprinids
+F12	Tilapias and other cichlids
+F13	Miscellaneous freshwater fishes
+F20	Diadromous fishes
+F21	Sturgeons, paddlefishes
+F22	River eels
+F23	Salmons, trouts, smelts
+F25	Miscellaneous diadromous fishes
+F30	Marine fishes
+F31	Flounders, halibuts, soles
+F32	Cods, hakes, haddocks
+F33	Miscellaneous coastal fishes
+F36	Tunas, bonitos, billfishes
+F37	Miscellaneous pelagic fishes
+F39	Marine fishes not identified
+F40	Crustaceans
+F41	Freshwater crustaceans
+F42	Crabs, sea-spiders
+F45	Shrimps, prawns
+F47	Miscellaneous marine crustaceans
+F50	Molluscs
+F51	Freshwater molluscs
+F52	Abalones, winkles, conchs
+F53	Oysters
+F54	Mussels
+F55	Scallops, pectens
+F56	Clams, cockles, arkshells
+F57	Squids, cuttlefishes, octopuses
+F58	Miscellaneous marine molluscs
+F70	Miscellaneous aquatic animals
+F71	Frogs and other amphibians
+F77	Miscellaneous aquatic invertabrates
+F90	Aquatic plants
+F91	Brown seaweeds
+F92	Red seaweeds
+F93	Green seaweeds
+F94	Miscellaneous aquatic plants
+FBM	Freshwater bream - Abramis brama
+FBU	Burbot - Lota lota
+FCC	Crucian carp - Carassius carassius
+FCG	Grass carp (=White amur) - Ctenopharyngodon idellus
+FCP	Common carp - Cyprinus carpio
+FCY	Cyprinids nei - Cyprinidae
+FID	Orfe (=Ide) - Leuciscus idus
+FIN	Finfishes nei - Osteichthyes
+FLE	European flounder - Platichthys flesus
+FPE	European perch - Perca fluviatilis
+FPI	Northern pike - Esox lucius
+FPP	Pike-perch - Stizostedion lucioperca
+FRF	Freshwater fishes nei - Osteichthyes
+FRG	Frogs - Rana spp
+FRO	Roach - Rutilus rutilus
+FRX	Roaches nei - Rutilus spp
+FSI	Freshwater siluroids nei - Siluroidei
+FTE	Tench - Tinca tinca
+FVE	Vendace - Coregonus albula
+GAS	Gastropods nei - Gastropoda
+GIP	Barramundi(=Giant seaperch) - Lates calcarifer
+GJW	Warty gracilaria - Gracilaria verrucosa
+GKA	Leather gracilaria - Gracilaria dura
+GOG	Gobio gobio
+HAL	Atlantic halibut - Hippoglossus hippoglossus
+HLW	Chlorella pyrenoidosa
+HON	Common nase - Chondrostoma nasus
+HUC	Huchen - Hucho hucho
+HUH	Beluga - Huso huso
+HXP	Carps nei - Hypophthalmichthys spp
+INV	Aquatic invertebrates nei - Invertebrata
+ITE	Brown bullhead - Ameiurus nebulosus
+ITM	Black bullhead - Ameiurus melas
+ITP	Channel catfish - Ictalurus punctatus
+KTG	Olive green cockle - Cerastoderma glaucum
+KUP	Kuruma prawn - Penaeus japonicus
+LAT	Lake trout (=Char)
+LQX	Sea belt - Laminaria saccharina
+LUD	Belica - Leucaspius delineatus
+LUH	Chub - leuciscus cepalus
+MGR	Meagre - Argyrosomus regius
+MGS	Mugil spp
+MOF	Freshwater molluscs nei - Mollusca
+MOL	Marine molluscs nei - Mollusca
+MPS	Largemouth black bass - Micropterus salmoides
+MSM	Mediterranean mussel - Mytilus galloprovincialis
+MSX	Sea mussels nei - Mytilidae
+MUF	Flathead grey mullet - Mugil cephalus
+MUL	Mullets nei - Mugilidae
+MUS	Blue mussel - Mytilus edulis
+MYV	Mytilus spp
+MZZ	Marine fishes nei - Osteichthyes
+OAL	Senegalese sole - Solea senegalensis
+OBN	Peppery furrow - Scrobicularia plana
+OCC	Common octopus - Octopus vulgaris
+ONA	Golden trout - Oncorhynchus aguabonita
+OST	Flat and cupped oysters nei - Ostreidae
+OYC	Cupped oysters nei - Crassostrea spp
+OYF	European flat oyster - Ostrea edulis
+OYG	Pacific cupped oyster - Crassostrea gigas
+PAC	Common pandora - Pagellus erythrinus
+PAL	Palaemonid shrimps nei - Palaemonidae
+PAM	Mississippi paddlefish - Polyodon spathula
+PCL	Signal crayfish - Pacifastacus leniusculus
+PEE	Common periwinkle - Littorina littorea
+PGS	Striped catfish
+PLN	European whitefish - Coregonus lavaretus
+PNI	Indian white prawn - Penaeus indicus
+PNV	Whiteleg shrimp - Penaeus vannamei
+POL	Pollack - Pollachius pollachius
+PTB	Barbel - Barbus barbus
+PVR	Atlantic ditch shrimp - Palaemonetes varians
+QOF	Barcoo grunter - Scortum barcoo
+QSC	Queen scallop - Chlamys opercularis
+RAE	European razor clam - Solen marginatus
+RAZ	Razor clams nei - Solen spp
+RCW	Red swamp crawfish - Procambarus clarkii
+REA	Redbanded seabream - Pagrus auriga
+RPG	Red porgy - Pagrus pagrus
+SAL	Atlantic salmon - Salmo salar
+SBG	Gilthead seabream - Sparus aurata
+SBH	Striped bass,hybrid - Morone chrysops x M.saxatilis
+SBP	Pargo breams nei - Pagrus spp
+SBR	Blackspot(=red) seabream - Pagellus bogaraveo
+SBX	Porgies, Seabreams, nei - Sparidae
+SCE	Great Atlantic scallop - Pecten maximus
+SHR	Sharpsnout seabream - Diplodus puntazzo
+SIZ	Spirulina nei - Spirulina spp
+SLX	Salmonoids nei - Salmonoidei
+SLZ	Salmonids nei - Salmonidae
+SMS	Saccoderma melanostigma
+SOL	Common sole - Solea solea
+SOM	Wels(=Som) Catfish - Silurus glanis
+SPI	Spinefeet(=Rabbitfishes) nei - Siganus spp
+SPU	Spotted seabass - Dicentrarchus punctatus
+SRE	Rudd - Scardinius erythrophthalmus
+SRG	Sargo breams nei - Diplodus spp
+SRI	Marbled spinefoot - Siganus rivulatus
+STB	Striped bass - Morone saxatilis
+STU	Sturgeons nei - Acipenseridae
+SVC	Silver carp - Hypophthalmichthys molitrix
+SVE	Striped venus - Chamelea gallina
+SVF	Brook trout - Salvelinus fontinalis
+SWA	White seabream - Diplodus sargus
+SWG	Green seaweeds - Chlorophyceae
+SWX	Seaweeds nei - Algae
+TGS	Caramote prawn - Penaeus kerathurus
+TLN	Nile tilapia - Oreochromis niloticus
+TLP	Tilapias nei - Oreochromis (=Tilapia) spp
+TLV	Grayling - Thymallus thymallus
+TPS	Carpet shells nei - Ruditapes spp
+TRO	Trouts nei - Salmo spp
+TRR	Rainbow trout - Oncorhynchus mykiss
+TRS	Sea trout - Salmo trutta
+TUR	Turbot - Psetta maxima
+UDP	Wakame - Undaria pinnatifida
+UDS	Wakame nei - Undaria spp
+UNI	Dunaliella salina
+UVU	Sea lettuce - Ulva lactuca
+VEV	Warty venus - Venus verrucosa
+VIV	Vimba bream - Vimba vimba
+VNA	Golden carpet shell - Venerupis aurea
+VNR	Banded carpet shell - Venerupis rhomboides
+VSC	Variegated scallop - Chlamys varia
+WHF	Whitefishes nei - Coregonus spp
+WKS	Striped weakfish - Cynoscion striatus
+YTC	Yellowtail amberjack - Seriola lalandi

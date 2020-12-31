@@ -1,0 +1,25 @@
+Domain;EcologicalZone;Continent;Naturalness_type;AboveGroundBiomass_ton_dry_mass_per_ha;BelowGroundBiomass_ton_dry_mass_per_ha;DeadWood_ton_dry_mass_per_ha;Litter_ton_dry_mass_per_ha;SoilOrganicMatter_dry_mass_per_ha;References
+Tropical;Tropical peat forest;worldwide;native;444;107;NaN;1389;297;Anderson-Teixeira and deLucia, 2011
+All;Northern peatland;worldwide;native;101;18;3;946;369;Anderson-Teixeira and deLucia, 2011
+All;Freshwater Marsh and swamp;worldwide;native;150;19;NaN;25;350;Anderson-Teixeira and deLucia, 2011
+All;Saltmarsh;worldwide;native;162;162;162;162;162;Pendleton et al., 2012
+All;Seagrass beds;worldwide;native;2.16;5.02;NaN;NaN;140;Fourqurean et al., 2012
+Tropical;Tropical forest;worldwide;native;250;55;20;10;297;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate forest;worldwide;native;534;139;103;51;275;Anderson-Teixeira and deLucia, 2011
+Boreal;Boreal forest;worldwide;native;128;28;6;59;160;Anderson-Teixeira and deLucia, 2011
+All;Mangrove forest;worldwide;native;254;254;254;254;254;Pendleton et al., 2012
+Tropical;Tropical savanNaN;worldwide;native;21;39;0;14;228;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate scrub/woodland;worldwide;native;48;48;0;6;153;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate grassland;worldwide;native;2.3;14;0;6;202;Anderson-Teixeira and deLucia, 2011
+All;Tundra;worldwide;native;11.7;12;0;120;245;Anderson-Teixeira and deLucia, 2011
+All;Desert;worldwide;native;7;8;0;0.2;107;Anderson-Teixeira and deLucia, 2011
+Tropical;Tropical forest;worldwide;aggrading;0;2;0;1;0;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate forest;worldwide;aggrading;0;2;0;1;0;Anderson-Teixeira and deLucia, 2011
+Boreal;Boreal forest;worldwide;aggrading;0;2;0;1;0;Anderson-Teixeira and deLucia, 2011
+Tropical;Tropical non-forest;worldwide;aggrading;0;2;0;1;0;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate non-forest;worldwide;aggrading;0;2;0;1;0;Anderson-Teixeira and deLucia, 2011
+Tropical;Tropical pasture;worldwide;managed;3.60;15.20;0;0;228;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate pasture;worldwide;managed;2.30;14;0;6;202;Anderson-Teixeira and deLucia, 2011
+Tropical;Tropical cropland;worldwide;managed;10;2;0;1;NaN;Anderson-Teixeira and deLucia, 2011
+Temperate;Temperate cropland;worldwide;managed;10;2;0;1;NaN;Anderson-Teixeira and deLucia, 2011
+All;Wetland rice;worldwide;managed;10;2;0;6;107;Anderson-Teixeira and deLucia, 2011

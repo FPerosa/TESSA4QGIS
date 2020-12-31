@@ -1,0 +1,15 @@
+Domain;EcologicalZone;Continent;Tree_species;LitterCarbonStocks_ton_C_per_ha;LITTER_lower;LITTER_upper;References
+Tropical;NA;NA;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA;NA;NA
+Boreal;Dry;worldwide;Broadleaf deciduous;25;10;58;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Boreal;Moist;worldwide;Broadleaf deciduous;39;11;117;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Cold dry;worldwide;Broadleaf deciduous;28;23;33;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Cold moist;worldwide;Broadleaf deciduous;16;5;31;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Warm dry;worldwide;Broadleaf deciduous;28.2;23.4;33;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Warm moist;worldwide;Broadleaf deciduous;13;2;31;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Boreal;Dry;worldwide;Needleleaf evergreen;31;6;86;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Boreal;Moist;worldwide;Needleleaf evergreen;55;7;123;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Cold dry;worldwide;Needleleaf evergreen;27;17;42;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Cold moist;worldwide;Needleleaf evergreen;26;10;48;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Warm dry;worldwide;Needleleaf evergreen;20.3;17.3;21.1;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996
+Temperate;Warm moist;worldwide;Needleleaf evergreen;22;6;42;Siltanen et al., 1997, Smith and Heath, 2001, Tremblay et al., 2002, Vogt et al.,1996

@@ -1,0 +1,8 @@
+Domain;ClimateRegion;Continent;Soil_type;SoilOrganicCarbon_30cm_ton_C_per_ha;SOC_lower;SOC_upper;References
+Tropical;NA;NA;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA;NA;NA
+Boreal;NA;worldwide;wetland;116;17;215;Batjes (2011)
+Temperate;Cold dry;worldwide;wetland;87;NA;NA;Batjes (2011)
+Temperate;Cold moist;worldwide;wetland;128;111;145;Batjes (2011)
+Temperate;Warm dry;worldwide;wetland;74;61;87;Batjes (2011)
+Temperate;Warm moist;worldwide;wetland;135;96;174;Batjes (2011)

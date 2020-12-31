@@ -1,0 +1,4 @@
+Domain;Wetland_type;Emission_Factor_tonCH4_per_ha_yr;Emission_Factor_lowerLimit_tonCH4_per_ha_yr;Emission_Factor_upperLimit_tonCH4_per_ha_yr;References
+Temperate;Dry;0.0002;-0.004;0.009;Couwenberg 2009 and Couwenberg et al. 2010
+Temperate;Wet without shunts;0.05;-0.0002;0.25;Couwenberg 2009 and Couwenberg et al. 2010
+Temperate;Wet with shunts;0.17;0;0.763;Couwenberg 2009 and Couwenberg et al. 2010

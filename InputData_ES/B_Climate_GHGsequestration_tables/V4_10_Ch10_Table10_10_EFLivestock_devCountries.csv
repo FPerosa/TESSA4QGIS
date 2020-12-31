@@ -1,0 +1,10 @@
+Livestock;Emission_Factor_kgCH4_per_head_yr;Liveweight_kg;References
+Buffalo;55;300;Gibbs and Johnson (1993)
+Sheep;8;65;Crutzen et al. (1986)
+Goats;5;40;Crutzen et al. (1986)
+Camels;46;570;Gibbs and Johnson (1993)
+Horses;18;550;Crutzen et al. (1986)
+Mules ans Asses;10;245;Crutzen et al. (1986)
+Deer;20;120;Clark et al. (2003)
+Alpacas;8;65;Pinares-Patino et al. (2003)
+Swine;1.5;#NA;Crutzen et al. (1986)

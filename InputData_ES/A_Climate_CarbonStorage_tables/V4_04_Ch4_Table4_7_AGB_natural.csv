@@ -1,0 +1,38 @@
+Domain;EcologicalZone;Continent;Younger_equal_20yrs;Older_20yrs;AboveGroundBiomass_ton_dry_mass_per_ha;AGB_lower;AGB_upper;References
+Tropical;NA;NA;NA;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA;NA;NA;NA
+Temperate;Temperate oceanic forest;Europe;1;1;120;NA;NA;NA
+Temperate;Temperate oceanic forest;North America;1;1;660;80;1200;Hessl et al., 2004, Smithwick et al., 2002
+Temperate;Temperate oceanic forest;New Zealand;1;1;360;210;430;Hall et al., 2001
+Temperate;Temperate oceanic forest;South America;1;1;180;90;310;Gayoso and Schlegel, 2003, Battles et al., 2002
+Temperate;Temperate continental forest;Asia;1;0;20;NA;NA;IPCC, 2003
+Temperate;Temperate continental forest;Europe;1;0;20;NA;NA;IPCC, 2003
+Temperate;Temperate continental forest;Asia;0;1;120;20;320;IPCC, 2003
+Temperate;Temperate continental forest;Europe;0;1;120;20;320;IPCC, 2003
+Temperate;Temperate continental forest;North America;1;0;60;10;130;IPCC, 2003
+Temperate;Temperate continental forest;South America;1;0;60;10;130;IPCC, 2003
+Temperate;Temperate continental forest;North America;0;1;130;50;200;IPCC, 2003
+Temperate;Temperate continental forest;South America;0;1;130;50;200;IPCC, 2003
+Temperate;Temperate mountain systems;Asia;1;0;100;20;180;IPCC, 2003
+Temperate;Temperate mountain systems;Europe;1;0;100;20;180;IPCC, 2003
+Temperate;Temperate mountain systems;Asia;0;1;130;20;600;IPCC, 2003
+Temperate;Temperate mountain systems;Europe;0;1;130;20;600;IPCC, 2003
+Temperate;Temperate mountain systems;North America;1;0;50;20;110;IPCC, 2003
+Temperate;Temperate mountain systems;South America;1;0;50;20;110;IPCC, 2003
+Temperate;Temperate mountain systems;North America;0;1;130;40;280;IPCC, 2003
+Temperate;Temperate mountain systems;South America;0;1;130;40;280;IPCC, 2003
+Boreal;Boreal coniferous forest;Asia;1;1;50;10;90;Gower et al., 2001
+Boreal;Boreal coniferous forest;Europe;1;1;50;10;90;Gower et al., 2001
+Boreal;Boreal coniferous forest;North America;1;1;50;10;90;Gower et al., 2001
+Boreal;Boreal tundra woodland;Asia;1;0;3.5;3;4;IPCC, 2003
+Boreal;Boreal tundra woodland;Europe;1;0;3.5;3;4;IPCC, 2003
+Boreal;Boreal tundra woodland;North America;1;0;3.5;3;4;IPCC, 2003
+Boreal;Boreal tundra woodland;Asia;0;1;17.5;15;20;IPCC, 2003
+Boreal;Boreal tundra woodland;Europe;0;1;17.5;15;20;IPCC, 2003
+Boreal;Boreal tundra woodland;North America;0;1;17.5;15;20;IPCC, 2003
+Boreal;Boreal mountain systems;Asia;1;0;13.5;12;15;IPCC, 2003
+Boreal;Boreal mountain systems;Europe;1;0;13.5;12;15;IPCC, 2003
+Boreal;Boreal mountain systems;North America;1;0;13.5;12;15;IPCC, 2003
+Boreal;Boreal mountain systems;Asia;0;1;45;40;50;IPCC, 2003
+Boreal;Boreal mountain systems;Europe;0;1;45;40;50;IPCC, 2003
+Boreal;Boreal mountain systems;North America;0;1;45;40;50;IPCC, 2003

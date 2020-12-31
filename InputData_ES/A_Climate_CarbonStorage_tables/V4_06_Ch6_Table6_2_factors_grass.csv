@@ -1,0 +1,12 @@
+Domain;Managed;Degraded;Improved;Continent;Factor_type;Factor_IPCC;Factor_lower;Factor_upper;References;Description
+Tropical;NA;;;NA;NA;;NA;NA;NA;NA
+Subtropical;NA;;;NA;NA;;NA;NA;NA;NA
+All;0;0;0;worldwide;land use;1;NA;NA;IPCC, 2006;All permanent grassland is assigned a land-use factor of 1.
+All;1;0;0;worldwide;management;1;NA;NA;IPCC, 2006;Represents non-degraded and sustainably managed grassland, but without significant management improvements.
+Boreal;1;0.5;0;worldwide;management;0.95;0.8265;1.0735;IPCC, 2006;Represents overgrazed or moderately degraded grassland, with somewhat reduced productivity (relative to the native or nominally managed grassland) and receiving no management inputs.
+Temperate;1;0.5;0;worldwide;management;0.95;0.8265;1.0735;IPCC, 2006;Represents overgrazed or moderately degraded grassland, with somewhat reduced productivity (relative to the native or nominally managed grassland) and receiving no management inputs.
+All;1;1;0;worldwide;management;0.7;0.42;0.98;IPCC, 2006;Implies major long-term loss of productivity and vegetation cover, due to severe mechanical damage to the vegetation and/or severe soil erosion.
+Boreal;1;0;1;worldwide;management;1.14;1.0146;1.2654;IPCC, 2006;Represents grassland which is sustainably managed with moderate grazing pressure and that receive at least one improvement (e.g., fertilization, species improvement, irrigation).
+Temperate;1;0;1;worldwide;management;1.14;1.0146;1.2654;IPCC, 2006;Represents grassland which is sustainably managed with moderate grazing pressure and that receive at least one improvement (e.g., fertilization, species improvement, irrigation).
+All;0.5;0;1;worldwide;input;1;NA;NA;IPCC, 2006;Applies to improved grassland where no additional management inputs have been used
+All;1;0;1;worldwide;input;1.11;1.0323;1.1877;IPCC, 2006;Applies to improved grassland where one or more additional management inputs/improvements have been used (beyond that is required to be classified as improved grassland).

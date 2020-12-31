@@ -1,0 +1,9 @@
+Domain;Continent;Landuse_category;Vegetation_type;Ratio_BGB_AGB;Ratio_lower;Ratio_upper;References
+Tropical;NA;NA;NA;NA;NA;NA;NA
+Subtropical;NA;NA;NA;NA;NA;NA;NA
+Boreal;worldwide;Grassland;Steppe/tundra/prairie grassland;4;-2;10;IPCC, 2006
+Temperate;worldwide;Grassland;Steppe/tundra/prairie grassland;4;-2;10;IPCC, 2006
+Temperate;worldwide;Grassland;Semi-arid grassland;2.8;0.14;5.46;IPCC, 2006
+NA;worldwide;Other;Woodland;0.5;0.1;0.9;IPCC, 2006
+NA;worldwide;Other;Savannah;0.5;0.1;0.9;IPCC, 2006
+NA;worldwide;Other;Shrubland;2.8;-1.232;6.832;IPCC, 2006

@@ -1,0 +1,12 @@
+Domain;EcologicalZone;Cropland_type;Continent;Younger_equal_20yrs;Older_20yrs;AboveGroundBiomass_ton_dry_mass_per_ha;AGB_lower;AGB_upper;References
+NA;NA;Oil Palm;Asia;NA;NA;136;62;202;NA
+NA;NA;Mature rubber;Asia;NA;NA;178;88;268;Palm et al., 1999
+NA;NA;Young rubber;Asia;NA;NA;48;16;80;Wasrin et al., 2000
+NA;NA;Young cinnamon (7 years);Asia;NA;NA;68;21;115;Siregar and Gintings, 2000
+NA;NA;Coconut;Asia;NA;NA;196;NA;NA;Lasco et al., 2002
+NA;NA;2-year fallow;Africa;NA;NA;35;27;44;Albrecht and Kandji, 2003
+NA;NA;1-year fallow;Africa;NA;NA;12;7;21;Albrecht and Kandji, 2003
+NA;NA;6-year fallow;Asia;NA;NA;16;4;64;Lasco and Suson, 1999
+NA;NA;Alley cropping;Asia;NA;NA;2.9;1.5;4.5;Lasco et al., 2001
+NA;NA;Jungle rubber;Asia;NA;NA;304;287;321;Tomich et al., 1998
+NA;NA;Gmelina-cacao;Asia;NA;NA;116;63;169;Lasco et al., 2001

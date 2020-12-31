@@ -1,0 +1,4 @@
+Climate;Emission_factor_kgCH4_per_ha_day;Emission_factor_lower_threshold_kgCH4_per_ha_day;Emission_factor_upper_threshold_kgCH4_per_ha_day;Sites_number;References
+Cold temperate moist;0.061;0.001;0.2;10;Tremblay et al., 2005, Therrien, 2004, Blais, 2005, Lambert, 2002, Duchemin et al., 1999
+Warm temperate moist;0.15;-0.05;1.1;16;Tremblay et al., 2005, Soumis et al., 2004; Duchemin, 2000, Smith and Lewis, 1992
+Warm temperate dry;0.044;0.032;0.09;5;Therrien et al., 2005, Therrien, 2004, Soumis et al., 2004
